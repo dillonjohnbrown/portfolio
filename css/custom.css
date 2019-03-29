@@ -122,3 +122,6 @@ svg {
 .center {
   text-align: center;
 }
+.asterisk {
+  color: red;
+}
