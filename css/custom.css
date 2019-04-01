@@ -140,3 +140,11 @@ footer p {
     0 20px 0 -10px #fff,
     0 20px 1px -9px rgba(0,0,0,0.15);
 }
+.no-box-shadow,
+.no-box-shadow:hover {
+  box-shadow: none !important;
+}
+.no-transform,
+.no-transform:hover {
+  transform: none !important;
+}
