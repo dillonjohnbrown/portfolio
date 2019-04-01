@@ -51,30 +51,6 @@
 .example {
   position: relative;
   margin-top: 4rem; }
-.example-header {
-  font-weight: 600;
-  margin-top: 1.5rem;
-  margin-bottom: .5rem; }
-.example-description {
-  margin-bottom: 1.5rem; }
-.example-screenshot-wrapper {
-  display: block;
-  position: relative;
-  overflow: hidden;
-  border-radius: 6px;
-  border: 1px solid #eee;
-  height: 250px; }
-.example-screenshot {
-  width: 100%;
-  height: auto; }
-.example-screenshot.coming-soon {
-  width: auto;
-  position: absolute;
-  background: #eee;
-  top: 5px;
-  right: 5px;
-  bottom: 5px;
-  left: 5px; }
 
 /* Navbar */
 .navbar {
