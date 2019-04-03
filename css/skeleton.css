@@ -126,7 +126,7 @@ body {
   font-weight: 400;
   font-family: "Inter", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif;
   color: #222;
-  background: hsl(0, 0%, 96%);
+  background: #edf1f4;
 }
 
 @supports (font-variation-settings: normal) {
