@@ -3,7 +3,11 @@
 .docs-section {
   border-top: 2px solid white;
   padding: 4rem 0;
-  margin-bottom: 0;}
+  margin-bottom: 0;
+}
+.docs-section:first-of-type {
+  border-top: none;
+}
 .example {
   margin-top: 4rem; }
 
