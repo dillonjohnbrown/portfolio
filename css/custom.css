@@ -20,7 +20,6 @@ header {
   width: 100%;
   height: 6.5rem;
   z-index: 99;
-  border-bottom: 4px solid white;
 }
 .navbar-list {
   list-style: none;
