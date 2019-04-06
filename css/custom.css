@@ -75,8 +75,7 @@ h6 {
   font-weight: 600;
 }
 ::selection {
-  color: white;
-  background-color: black;
+  background-color: #F8EC49;
 }
 footer {
   background-color: white;
