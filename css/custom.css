@@ -57,6 +57,7 @@ header {
   background-color: white;
   border-radius: 5px;
   padding: 0;
+  border: 1px solid #0FA0CE;
 }
 .sub-nav-list {
   list-style: none;
