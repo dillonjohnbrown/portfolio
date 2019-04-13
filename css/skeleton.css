@@ -126,7 +126,7 @@ body {
   font-weight: 400;
   font-family: "Inter", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif;
   color: #222;
-  background: #edf1f4;
+  background: hsl(60, 28%, 95%);
 }
 
 @supports (font-variation-settings: normal) {
@@ -165,9 +165,11 @@ p {
 /* Links
 –––––––––––––––––––––––––––––––––––––––––––––––––– */
 a {
-  color: #33C3F0; }
+  color: hsla(19, 97%, 56%, 1);
+}
 a:hover {
-  color: #0FA0CE; }
+  color: hsla(19, 97%, 66%, 1);
+}
 
 
 /* Buttons

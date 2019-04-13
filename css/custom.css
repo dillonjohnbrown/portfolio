@@ -46,7 +46,7 @@ header {
   border-radius: 50px;
 }
 .navbar-link.active {
-  color: #33C3F0;
+  color: hsla(19, 97%, 56%, 1);
   background-color: white;
 }
 /* Subnav */
@@ -80,10 +80,10 @@ header {
   color: hsl(0, 0%, 70%);
 }
 .sub-nav .active a {
-  color: #33C3F0;
+  color: hsla(19, 97%, 56%, 1);
 }
 .sub-nav .active::after {
-  background-color: #33C3F0;
+  background-color: hsla(19, 97%, 56%, 1);
 }
 .sub-nav-item::after {
   content: "";
@@ -98,8 +98,6 @@ header {
 
 img {
  border-radius: 3px;
-}
-img {
   box-shadow: rgba(0, 0, 0, 0.05882) 0 20px 43px, rgba(0, 0, 0, 0.04705) 0 1px 10px;
   outline-offset: -1px;
   transition: box-shadow 1.5s ease-in-out, transform 1.5s ease-in-out;
@@ -123,10 +121,6 @@ h6 {
   font-size: 1.4rem;
   letter-spacing: .2rem;
   font-weight: 600;
-}
-::selection {
-  background-color: #AF57C1;
-  color: white;
 }
 footer {
   background-color: white;
