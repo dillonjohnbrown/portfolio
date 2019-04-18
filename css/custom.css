@@ -127,11 +127,21 @@ h6 {
   font-weight: 600;
 }
 footer {
-  background-color: white;
+  background-color: #222;
   padding-top: 2.5rem;
+  color: #717171;
+  font-size: 1.1rem;
+  margin-top: 5rem;
 }
-footer p {
-  color: hsl(0, 0%, 26%);
+footer .container {
+  display: flex;
+  justify-content: space-between;
+}
+footer .container:after {
+  content: none;
+}
+footer a {
+  color: #cccccc;
 }
 
 .no-box-shadow,
