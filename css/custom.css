@@ -21,7 +21,7 @@ header {
   height: 4rem;
   z-index: 99;
   display: flex;
-  justify-content: center;
+  justify-content: flex-end;
 }
 .navbar-list {
   list-style: none;
