@@ -50,6 +50,13 @@ header {
   padding: 10px 20px;
   border-radius: 50px;
 }
+/* temp fix for navbar breaking on landscape iPhone 5/SE  */
+@media (max-width: 641px) and (min-width: 550px) {
+  .navbar-link {
+    padding: 10px 12px;
+  }
+}
+
 .navbar-link.active {
   color: hsla(19, 97%, 56%, 1);
   background-color: white;
