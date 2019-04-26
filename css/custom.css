@@ -112,7 +112,7 @@ header {
   min-width: 25px;
   height: 2px;
 }
-
+svg,
 img {
  border-radius: 3px;
  box-shadow: hsla(19, 97%, 15%, 0.05882) 0 20px 43px, hsla(19, 97%, 15%, 0.04705) 0 1px 10px;
