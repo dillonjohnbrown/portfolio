@@ -180,3 +180,6 @@ footer svg {
 .light-grey {
   color: #bbbbbb;
 }
+body {
+  font-feature-settings: 'ss02' 1;
+}
