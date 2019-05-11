@@ -126,11 +126,9 @@ a img:hover {
 .asterisk {
   color: red;
 }
-h2 {
-  font-weight: 800;
-}
 @media (max-width: 550px) {
-  h2 {
+  h2,
+  footer {
     text-align: center;
   }
 }
@@ -147,14 +145,11 @@ footer {
   background-image: linear-gradient(180deg, hsla(19, 97%, 56%, .8) 49%, hsla(19, 97%, 46%, 0.8) 100%);
   font-size: 1.1rem;
   margin-top: 5rem;
+  padding-bottom: 7rem;
 }
 footer .container {
   display: flex;
-  justify-content: space-between;
   margin-top: 3rem;
-}
-footer .container:after {
-  content: none;
 }
 footer,
 footer a {
@@ -167,6 +162,9 @@ footer svg {
   filter: drop-shadow(0 6px 2px hsla(19, 97%, 41%, 0.7));
   position: relative;
   top: -1px;
+}
+.email-link {
+  font-weight: 300;
 }
 
 .no-box-shadow,
