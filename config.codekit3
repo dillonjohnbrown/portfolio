@@ -41,6 +41,14 @@
 		"oAP": "/_build/components/_footer.html",
 		"oF": 0
 		},
+	"/_build/components/_head.kit": {
+		"cB": 0,
+		"ft": 2048,
+		"hM": 0,
+		"oA": 1,
+		"oAP": "/_build/components/_head.html",
+		"oF": 0
+		},
 	"/_build/components/_header__about.kit": {
 		"cB": 0,
 		"ft": 2048,
