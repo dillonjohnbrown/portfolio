@@ -2,6 +2,7 @@
 @import "skeleton.less";
 
 @color__dark: hsla(19, 97%, 56%, 1);
+@color__dark-hover: hsla(19, 97%, 92%, 1);
 @color__medium: hsla(19, 97%, 56%, .8);
 @color__light: hsla(19, 97%, 56%, .2);
 
@@ -64,7 +65,7 @@ hr {
   padding: 10px 20px;
   border-radius: 50px;
   &:hover {
-    color: hsla(19, 97%, 92%, 1);
+    color: @color__dark-hover;
   }
   &.active {
     color: @color__dark;
@@ -177,11 +178,6 @@ footer,
 footer a,
 footer a:hover {
   color: white;
-}
-footer svg {
-  filter: drop-shadow(0 6px 2px hsla(19, 97%, 41%, 0.7));
-  position: relative;
-  top: -3px;
 }
 .footer-cta-text {
   font-weight: 400;
