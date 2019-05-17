@@ -57,13 +57,13 @@
 		"oAP": "/_build/components/_header__portfolio.html",
 		"oF": 0
 		},
-	"/_build/components/_portfolio-nav.kit": {
+	"/_build/harvest.kit": {
 		"cB": 0,
 		"ft": 2048,
-		"hM": 0,
-		"oA": 1,
-		"oAP": "/_build/components/_portfolio-nav.html",
-		"oF": 0
+		"hM": 1,
+		"oA": 0,
+		"oAP": "/harvest.html",
+		"oF": 2
 		},
 	"/_build/index.kit": {
 		"cB": 0,
@@ -71,14 +71,6 @@
 		"hM": 1,
 		"oA": 0,
 		"oAP": "/index.html",
-		"oF": 2
-		},
-	"/_build/portfolio.kit": {
-		"cB": 0,
-		"ft": 2048,
-		"hM": 1,
-		"oA": 0,
-		"oAP": "/portfolio.html",
 		"oF": 2
 		},
 	"/_build/styles/custom.less": {
@@ -180,6 +172,14 @@
 		"hM": 0,
 		"oA": 0,
 		"oAP": "/css/main.css.map",
+		"oF": 0
+		},
+	"/harvest.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/harvest.html",
 		"oF": 0
 		},
 	"/images/apps/drug-combos.png": {
@@ -746,14 +746,6 @@
 		"hM": 0,
 		"oA": 0,
 		"oAP": "/pdf/welcome.pdf",
-		"oF": 0
-		},
-	"/portfolio.html": {
-		"cB": 0,
-		"ft": 8192,
-		"hM": 0,
-		"oA": 0,
-		"oAP": "/portfolio.html",
 		"oF": 0
 		},
 	"/swanson.html": {
