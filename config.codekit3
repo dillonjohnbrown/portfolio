@@ -4,7 +4,7 @@
 	{
 		"name": "Process All Remaining Files and Folders",
 		"stepType": 1,
-		"uuidString": "C70C941C-A281-4EDF-AF64-93068FDB6F1E"
+		"uuidString": "3124E754-3E72-4F7D-840D-5A0F8F28C742"
 		}
 	],
 "creatorBuild": "29156",
@@ -13,67 +13,67 @@
 		"cB": 0,
 		"ft": 8192,
 		"hM": 0,
-		"oA": 1,
+		"oA": 0,
 		"oAP": "/.gitignore",
-		"oF": 1
-		},
-	"/build/apps.kit": {
-		"cB": 0,
-		"ft": 2048,
-		"hM": 1,
-		"oA": 0,
-		"oAP": "/docs/apps.html",
-		"oF": 2
-		},
-	"/build/art.kit": {
-		"cB": 0,
-		"ft": 2048,
-		"hM": 1,
-		"oA": 0,
-		"oAP": "/docs/art.html",
-		"oF": 2
-		},
-	"/build/components/_footer.kit": {
-		"cB": 0,
-		"ft": 2048,
-		"hM": 1,
-		"oA": 1,
-		"oAP": "/build/components/_footer.html",
 		"oF": 0
 		},
-	"/build/components/_header__about.kit": {
-		"cB": 0,
-		"ft": 2048,
-		"hM": 1,
-		"oA": 1,
-		"oAP": "/build/components/_header__about.html",
-		"oF": 0
-		},
-	"/build/components/_header__portfolio.kit": {
-		"cB": 0,
-		"ft": 2048,
-		"hM": 1,
-		"oA": 1,
-		"oAP": "/build/components/_header__portfolio.html",
-		"oF": 0
-		},
-	"/build/index.kit": {
+	"/_build/apps.kit": {
 		"cB": 0,
 		"ft": 2048,
 		"hM": 1,
 		"oA": 0,
-		"oAP": "/docs/index.html",
+		"oAP": "/apps.html",
 		"oF": 2
 		},
-	"/build/portfolio.kit": {
+	"/_build/art.kit": {
 		"cB": 0,
 		"ft": 2048,
 		"hM": 1,
 		"oA": 0,
-		"oAP": "/docs/portfolio.html",
+		"oAP": "/art.html",
 		"oF": 2
 		},
-	"/build/styles/custom.less": {
+	"/_build/components/_footer.kit": {
+		"cB": 0,
+		"ft": 2048,
+		"hM": 0,
+		"oA": 1,
+		"oAP": "/_build/components/_footer.html",
+		"oF": 0
+		},
+	"/_build/components/_header__about.kit": {
+		"cB": 0,
+		"ft": 2048,
+		"hM": 0,
+		"oA": 1,
+		"oAP": "/_build/components/_header__about.html",
+		"oF": 0
+		},
+	"/_build/components/_header__portfolio.kit": {
+		"cB": 0,
+		"ft": 2048,
+		"hM": 0,
+		"oA": 1,
+		"oAP": "/_build/components/_header__portfolio.html",
+		"oF": 0
+		},
+	"/_build/index.kit": {
+		"cB": 0,
+		"ft": 2048,
+		"hM": 1,
+		"oA": 0,
+		"oAP": "/index.html",
+		"oF": 2
+		},
+	"/_build/portfolio.kit": {
+		"cB": 0,
+		"ft": 2048,
+		"hM": 1,
+		"oA": 0,
+		"oAP": "/portfolio.html",
+		"oF": 2
+		},
+	"/_build/styles/custom.less": {
 		"aP": 1,
 		"bl": 0,
 		"eJ": 0,
@@ -83,15 +83,15 @@
 		"ma": 1,
 		"mS": 0,
 		"oA": 0,
-		"oAP": "/docs/css/main.css",
-		"oF": 0,
+		"oAP": "/css/main.css",
+		"oF": 2,
 		"oS": 1,
 		"rwU": 0,
 		"sI": 0,
 		"sU": 0
 		},
-	"/build/styles/normalize.less": {
-		"aP": 1,
+	"/_build/styles/normalize.less": {
+		"aP": 0,
 		"bl": 0,
 		"eJ": 0,
 		"ft": 1,
@@ -100,15 +100,15 @@
 		"ma": 1,
 		"mS": 0,
 		"oA": 1,
-		"oAP": "/docs/css/main.css",
+		"oAP": "/_build/styles/normalize.css",
 		"oF": 0,
-		"oS": 1,
+		"oS": 0,
 		"rwU": 0,
 		"sI": 0,
 		"sU": 0
 		},
-	"/build/styles/skeleton.less": {
-		"aP": 1,
+	"/_build/styles/skeleton.less": {
+		"aP": 0,
 		"bl": 0,
 		"eJ": 0,
 		"ft": 1,
@@ -117,643 +117,643 @@
 		"ma": 1,
 		"mS": 0,
 		"oA": 1,
-		"oAP": "/docs/css/main.css",
+		"oAP": "/_build/styles/skeleton.css",
 		"oF": 0,
-		"oS": 1,
+		"oS": 0,
 		"rwU": 0,
 		"sI": 0,
 		"sU": 0
 		},
-	"/build/swanson.kit": {
+	"/_build/swanson.kit": {
 		"cB": 0,
 		"ft": 2048,
 		"hM": 1,
 		"oA": 0,
-		"oAP": "/docs/swanson.html",
+		"oAP": "/swanson.html",
 		"oF": 2
 		},
-	"/docs/apps.html": {
+	"/apps.html": {
 		"cB": 0,
 		"ft": 8192,
 		"hM": 0,
 		"oA": 0,
-		"oAP": "/docs/apps.html",
+		"oAP": "/apps.html",
 		"oF": 0
 		},
-	"/docs/art.html": {
+	"/art.html": {
 		"cB": 0,
 		"ft": 8192,
 		"hM": 0,
 		"oA": 0,
-		"oAP": "/docs/art.html",
+		"oAP": "/art.html",
 		"oF": 0
 		},
-	"/docs/CNAME": {
+	"/CNAME": {
 		"cB": 0,
 		"ft": 8192,
 		"hM": 0,
-		"oA": 1,
-		"oAP": "/docs/CNAME",
-		"oF": 1
+		"oA": 0,
+		"oAP": "/CNAME",
+		"oF": 0
 		},
-	"/docs/css/main.css": {
+	"/css/main.css": {
 		"aP": 1,
 		"bl": 0,
 		"ft": 16,
 		"ma": 0,
 		"oA": 0,
-		"oAP": "/docs/css/main-min.css",
+		"oAP": "/css/main-min.css",
 		"oF": 0,
 		"oS": 3
 		},
-	"/docs/css/main.css.map": {
+	"/css/main.css.map": {
 		"cB": 0,
 		"ft": 8192,
 		"hM": 0,
 		"oA": 0,
-		"oAP": "/docs/css/main.css.map",
+		"oAP": "/css/main.css.map",
 		"oF": 0
 		},
-	"/docs/images/apps/drug-combos.png": {
+	"/images/apps/drug-combos.png": {
 		"ft": 32768,
 		"iS": 1568487,
-		"oA": 1,
-		"oAP": "/docs/images/apps/drug-combos.png",
-		"oF": 3,
+		"oA": 0,
+		"oAP": "/images/apps/drug-combos.png",
+		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"oT": 1,
 		"q": 100
 		},
-	"/docs/images/apps/music-app.png": {
+	"/images/apps/music-app.png": {
 		"ft": 32768,
 		"iS": 2252564,
-		"oA": 1,
-		"oAP": "/docs/images/apps/music-app.png",
-		"oF": 3,
+		"oA": 0,
+		"oAP": "/images/apps/music-app.png",
+		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"oT": 1,
 		"q": 100
 		},
-	"/docs/images/apps/recipe-app.png": {
+	"/images/apps/recipe-app.png": {
 		"ft": 32768,
 		"iS": 1885633,
-		"oA": 1,
-		"oAP": "/docs/images/apps/recipe-app.png",
-		"oF": 3,
+		"oA": 0,
+		"oAP": "/images/apps/recipe-app.png",
+		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"oT": 1,
 		"q": 100
 		},
-	"/docs/images/art/doodle-0.png": {
+	"/images/art/doodle-0.png": {
 		"ft": 32768,
 		"iS": 2823768,
-		"oA": 1,
-		"oAP": "/docs/images/art/doodle-0.png",
-		"oF": 3,
+		"oA": 0,
+		"oAP": "/images/art/doodle-0.png",
+		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"oT": 1,
 		"q": 100
 		},
-	"/docs/images/art/doodle-1.png": {
+	"/images/art/doodle-1.png": {
 		"ft": 32768,
 		"iS": 1420453,
-		"oA": 1,
-		"oAP": "/docs/images/art/doodle-1.png",
-		"oF": 3,
+		"oA": 0,
+		"oAP": "/images/art/doodle-1.png",
+		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"oT": 1,
 		"q": 100
 		},
-	"/docs/images/art/doodle-2.png": {
+	"/images/art/doodle-2.png": {
 		"ft": 32768,
 		"iS": 1396940,
-		"oA": 1,
-		"oAP": "/docs/images/art/doodle-2.png",
-		"oF": 3,
+		"oA": 0,
+		"oAP": "/images/art/doodle-2.png",
+		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"oT": 1,
 		"q": 100
 		},
-	"/docs/images/art/doodle-3.png": {
+	"/images/art/doodle-3.png": {
 		"ft": 32768,
 		"iS": 1641285,
-		"oA": 1,
-		"oAP": "/docs/images/art/doodle-3.png",
-		"oF": 3,
+		"oA": 0,
+		"oAP": "/images/art/doodle-3.png",
+		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"oT": 1,
 		"q": 100
 		},
-	"/docs/images/art/doodle-4.png": {
+	"/images/art/doodle-4.png": {
 		"ft": 32768,
 		"iS": 1760119,
-		"oA": 1,
-		"oAP": "/docs/images/art/doodle-4.png",
-		"oF": 3,
+		"oA": 0,
+		"oAP": "/images/art/doodle-4.png",
+		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"oT": 1,
 		"q": 100
 		},
-	"/docs/images/art/doodle-6.png": {
+	"/images/art/doodle-6.png": {
 		"ft": 32768,
 		"iS": 1163210,
-		"oA": 1,
-		"oAP": "/docs/images/art/doodle-6.png",
-		"oF": 3,
+		"oA": 0,
+		"oAP": "/images/art/doodle-6.png",
+		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"oT": 1,
 		"q": 100
 		},
-	"/docs/images/art/lines-1.png": {
+	"/images/art/lines-1.png": {
 		"ft": 32768,
 		"iS": 1768788,
-		"oA": 1,
-		"oAP": "/docs/images/art/lines-1.png",
-		"oF": 3,
+		"oA": 0,
+		"oAP": "/images/art/lines-1.png",
+		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"oT": 1,
 		"q": 100
 		},
-	"/docs/images/art/lines-10.png": {
+	"/images/art/lines-10.png": {
 		"ft": 32768,
 		"iS": 2693304,
-		"oA": 1,
-		"oAP": "/docs/images/art/lines-10.png",
-		"oF": 3,
+		"oA": 0,
+		"oAP": "/images/art/lines-10.png",
+		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"oT": 1,
 		"q": 100
 		},
-	"/docs/images/art/lines-11.png": {
+	"/images/art/lines-11.png": {
 		"ft": 32768,
 		"iS": 2286726,
-		"oA": 1,
-		"oAP": "/docs/images/art/lines-11.png",
-		"oF": 3,
+		"oA": 0,
+		"oAP": "/images/art/lines-11.png",
+		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"oT": 1,
 		"q": 100
 		},
-	"/docs/images/art/lines-2.png": {
+	"/images/art/lines-2.png": {
 		"ft": 32768,
 		"iS": 4091588,
-		"oA": 1,
-		"oAP": "/docs/images/art/lines-2.png",
-		"oF": 3,
+		"oA": 0,
+		"oAP": "/images/art/lines-2.png",
+		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"oT": 1,
 		"q": 100
 		},
-	"/docs/images/art/lines-3.png": {
+	"/images/art/lines-3.png": {
 		"ft": 32768,
 		"iS": 2194602,
-		"oA": 1,
-		"oAP": "/docs/images/art/lines-3.png",
-		"oF": 3,
+		"oA": 0,
+		"oAP": "/images/art/lines-3.png",
+		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"oT": 1,
 		"q": 100
 		},
-	"/docs/images/art/lines-4.png": {
+	"/images/art/lines-4.png": {
 		"ft": 32768,
 		"iS": 571391,
-		"oA": 1,
-		"oAP": "/docs/images/art/lines-4.png",
-		"oF": 3,
+		"oA": 0,
+		"oAP": "/images/art/lines-4.png",
+		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"oT": 1,
 		"q": 100
 		},
-	"/docs/images/art/lines-5.png": {
+	"/images/art/lines-5.png": {
 		"ft": 32768,
 		"iS": 2861460,
-		"oA": 1,
-		"oAP": "/docs/images/art/lines-5.png",
-		"oF": 3,
+		"oA": 0,
+		"oAP": "/images/art/lines-5.png",
+		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"oT": 1,
 		"q": 100
 		},
-	"/docs/images/art/lines-6.png": {
+	"/images/art/lines-6.png": {
 		"ft": 32768,
 		"iS": 854210,
-		"oA": 1,
-		"oAP": "/docs/images/art/lines-6.png",
-		"oF": 3,
+		"oA": 0,
+		"oAP": "/images/art/lines-6.png",
+		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"oT": 1,
 		"q": 100
 		},
-	"/docs/images/art/lines-7.png": {
+	"/images/art/lines-7.png": {
 		"ft": 32768,
 		"iS": 2321548,
-		"oA": 1,
-		"oAP": "/docs/images/art/lines-7.png",
-		"oF": 3,
+		"oA": 0,
+		"oAP": "/images/art/lines-7.png",
+		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"oT": 1,
 		"q": 100
 		},
-	"/docs/images/art/lines-8.png": {
+	"/images/art/lines-8.png": {
 		"ft": 32768,
 		"iS": 3380858,
-		"oA": 1,
-		"oAP": "/docs/images/art/lines-8.png",
-		"oF": 3,
+		"oA": 0,
+		"oAP": "/images/art/lines-8.png",
+		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"oT": 1,
 		"q": 100
 		},
-	"/docs/images/art/lines-9.png": {
+	"/images/art/lines-9.png": {
 		"ft": 32768,
 		"iS": 4794271,
-		"oA": 1,
-		"oAP": "/docs/images/art/lines-9.png",
-		"oF": 3,
+		"oA": 0,
+		"oAP": "/images/art/lines-9.png",
+		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"oT": 1,
 		"q": 100
 		},
-	"/docs/images/art/poster-1.png": {
+	"/images/art/poster-1.png": {
 		"ft": 32768,
 		"iS": 900808,
-		"oA": 1,
-		"oAP": "/docs/images/art/poster-1.png",
-		"oF": 3,
+		"oA": 0,
+		"oAP": "/images/art/poster-1.png",
+		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"oT": 1,
 		"q": 100
 		},
-	"/docs/images/art/poster-2.png": {
+	"/images/art/poster-2.png": {
 		"ft": 32768,
 		"iS": 1333532,
-		"oA": 1,
-		"oAP": "/docs/images/art/poster-2.png",
-		"oF": 3,
+		"oA": 0,
+		"oAP": "/images/art/poster-2.png",
+		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"oT": 1,
 		"q": 100
 		},
-	"/docs/images/art/poster-3.png": {
+	"/images/art/poster-3.png": {
 		"ft": 32768,
 		"iS": 2167051,
-		"oA": 1,
-		"oAP": "/docs/images/art/poster-3.png",
-		"oF": 3,
+		"oA": 0,
+		"oAP": "/images/art/poster-3.png",
+		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"oT": 1,
 		"q": 100
 		},
-	"/docs/images/art/poster-4.png": {
+	"/images/art/poster-4.png": {
 		"ft": 32768,
 		"iS": 1758732,
-		"oA": 1,
-		"oAP": "/docs/images/art/poster-4.png",
-		"oF": 3,
+		"oA": 0,
+		"oAP": "/images/art/poster-4.png",
+		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"oT": 1,
 		"q": 100
 		},
-	"/docs/images/art/poster-5.png": {
+	"/images/art/poster-5.png": {
 		"ft": 32768,
 		"iS": 535678,
-		"oA": 1,
-		"oAP": "/docs/images/art/poster-5.png",
-		"oF": 3,
+		"oA": 0,
+		"oAP": "/images/art/poster-5.png",
+		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"oT": 1,
 		"q": 100
 		},
-	"/docs/images/favicon.png": {
+	"/images/favicon.png": {
 		"ft": 32768,
 		"iS": 11086,
-		"oA": 1,
-		"oAP": "/docs/images/favicon.png",
-		"oF": 3,
+		"oA": 0,
+		"oAP": "/images/favicon.png",
+		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"oT": 1,
 		"q": 100
 		},
-	"/docs/images/harvest/business-card-before.png": {
+	"/images/harvest/business-card-before.png": {
 		"ft": 32768,
 		"iS": 34102,
-		"oA": 1,
-		"oAP": "/docs/images/harvest/business-card-before.png",
-		"oF": 3,
+		"oA": 0,
+		"oAP": "/images/harvest/business-card-before.png",
+		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"oT": 1,
 		"q": 100
 		},
-	"/docs/images/harvest/business-card-new.png": {
+	"/images/harvest/business-card-new.png": {
 		"ft": 32768,
 		"iS": 47843,
-		"oA": 1,
-		"oAP": "/docs/images/harvest/business-card-new.png",
-		"oF": 3,
+		"oA": 0,
+		"oAP": "/images/harvest/business-card-new.png",
+		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"oT": 1,
 		"q": 100
 		},
-	"/docs/images/harvest/contracts-existing.png": {
+	"/images/harvest/contracts-existing.png": {
 		"ft": 32768,
 		"iS": 255987,
-		"oA": 1,
-		"oAP": "/docs/images/harvest/contracts-existing.png",
-		"oF": 3,
+		"oA": 0,
+		"oAP": "/images/harvest/contracts-existing.png",
+		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"oT": 1,
 		"q": 100
 		},
-	"/docs/images/harvest/contracts-preview.png": {
+	"/images/harvest/contracts-preview.png": {
 		"ft": 32768,
 		"iS": 257270,
-		"oA": 1,
-		"oAP": "/docs/images/harvest/contracts-preview.png",
-		"oF": 3,
+		"oA": 0,
+		"oAP": "/images/harvest/contracts-preview.png",
+		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"oT": 1,
 		"q": 100
 		},
-	"/docs/images/harvest/crop-planner-existing.png": {
+	"/images/harvest/crop-planner-existing.png": {
 		"ft": 32768,
 		"iS": 274888,
-		"oA": 1,
-		"oAP": "/docs/images/harvest/crop-planner-existing.png",
-		"oF": 3,
+		"oA": 0,
+		"oAP": "/images/harvest/crop-planner-existing.png",
+		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"oT": 1,
 		"q": 100
 		},
-	"/docs/images/harvest/crop-planner-preview.png": {
+	"/images/harvest/crop-planner-preview.png": {
 		"ft": 32768,
 		"iS": 256971,
-		"oA": 1,
-		"oAP": "/docs/images/harvest/crop-planner-preview.png",
-		"oF": 3,
+		"oA": 0,
+		"oAP": "/images/harvest/crop-planner-preview.png",
+		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"oT": 1,
 		"q": 100
 		},
-	"/docs/images/harvest/guide-1.png": {
+	"/images/harvest/guide-1.png": {
 		"ft": 32768,
 		"iS": 1904257,
-		"oA": 1,
-		"oAP": "/docs/images/harvest/guide-1.png",
-		"oF": 3,
+		"oA": 0,
+		"oAP": "/images/harvest/guide-1.png",
+		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"oT": 1,
 		"q": 100
 		},
-	"/docs/images/harvest/guide-10.png": {
+	"/images/harvest/guide-10.png": {
 		"ft": 32768,
 		"iS": 268281,
-		"oA": 1,
-		"oAP": "/docs/images/harvest/guide-10.png",
-		"oF": 3,
+		"oA": 0,
+		"oAP": "/images/harvest/guide-10.png",
+		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"oT": 1,
 		"q": 100
 		},
-	"/docs/images/harvest/inputs-details-1.png": {
+	"/images/harvest/inputs-details-1.png": {
 		"ft": 32768,
 		"iS": 78177,
-		"oA": 1,
-		"oAP": "/docs/images/harvest/inputs-details-1.png",
-		"oF": 3,
+		"oA": 0,
+		"oAP": "/images/harvest/inputs-details-1.png",
+		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"oT": 1,
 		"q": 100
 		},
-	"/docs/images/harvest/inputs-details-2.png": {
+	"/images/harvest/inputs-details-2.png": {
 		"ft": 32768,
 		"iS": 47378,
-		"oA": 1,
-		"oAP": "/docs/images/harvest/inputs-details-2.png",
-		"oF": 3,
+		"oA": 0,
+		"oAP": "/images/harvest/inputs-details-2.png",
+		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"oT": 1,
 		"q": 100
 		},
-	"/docs/images/harvest/inputs-existing.png": {
+	"/images/harvest/inputs-existing.png": {
 		"ft": 32768,
 		"iS": 244725,
-		"oA": 1,
-		"oAP": "/docs/images/harvest/inputs-existing.png",
-		"oF": 3,
+		"oA": 0,
+		"oAP": "/images/harvest/inputs-existing.png",
+		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"oT": 1,
 		"q": 100
 		},
-	"/docs/images/harvest/inputs-preview.png": {
+	"/images/harvest/inputs-preview.png": {
 		"ft": 32768,
 		"iS": 259603,
-		"oA": 1,
-		"oAP": "/docs/images/harvest/inputs-preview.png",
-		"oF": 3,
+		"oA": 0,
+		"oAP": "/images/harvest/inputs-preview.png",
+		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"oT": 1,
 		"q": 100
 		},
-	"/docs/images/harvest/inventory-yields-new.png": {
+	"/images/harvest/inventory-yields-new.png": {
 		"ft": 32768,
 		"iS": 260234,
-		"oA": 1,
-		"oAP": "/docs/images/harvest/inventory-yields-new.png",
-		"oF": 3,
+		"oA": 0,
+		"oAP": "/images/harvest/inventory-yields-new.png",
+		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"oT": 1,
 		"q": 100
 		},
-	"/docs/images/harvest/onboarding.png": {
+	"/images/harvest/onboarding.png": {
 		"ft": 32768,
 		"iS": 332495,
-		"oA": 1,
-		"oAP": "/docs/images/harvest/onboarding.png",
-		"oF": 3,
+		"oA": 0,
+		"oAP": "/images/harvest/onboarding.png",
+		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"oT": 1,
 		"q": 100
 		},
-	"/docs/images/mug.jpg": {
+	"/images/mug.jpg": {
 		"ft": 16384,
 		"iS": 158393,
 		"jF": 0,
-		"oA": 1,
-		"oAP": "/docs/images/mug.jpg",
-		"oF": 3,
+		"oA": 0,
+		"oAP": "/images/mug.jpg",
+		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
-	"/docs/images/swanson/account.png": {
+	"/images/swanson/account.png": {
 		"ft": 32768,
 		"iS": 362562,
-		"oA": 1,
-		"oAP": "/docs/images/swanson/account.png",
-		"oF": 3,
+		"oA": 0,
+		"oAP": "/images/swanson/account.png",
+		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"oT": 1,
 		"q": 100
 		},
-	"/docs/images/swanson/address.png": {
+	"/images/swanson/address.png": {
 		"ft": 32768,
 		"iS": 551101,
-		"oA": 1,
-		"oAP": "/docs/images/swanson/address.png",
-		"oF": 3,
+		"oA": 0,
+		"oAP": "/images/swanson/address.png",
+		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"oT": 1,
 		"q": 100
 		},
-	"/docs/images/swanson/forms.png": {
+	"/images/swanson/forms.png": {
 		"ft": 32768,
 		"iS": 502001,
-		"oA": 1,
-		"oAP": "/docs/images/swanson/forms.png",
-		"oF": 3,
+		"oA": 0,
+		"oAP": "/images/swanson/forms.png",
+		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"oT": 1,
 		"q": 100
 		},
-	"/docs/images/swanson/header-concept-2.png": {
+	"/images/swanson/header-concept-2.png": {
 		"ft": 32768,
 		"iS": 255536,
-		"oA": 1,
-		"oAP": "/docs/images/swanson/header-concept-2.png",
-		"oF": 3,
+		"oA": 0,
+		"oAP": "/images/swanson/header-concept-2.png",
+		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"oT": 1,
 		"q": 100
 		},
-	"/docs/images/swanson/header-concept.png": {
+	"/images/swanson/header-concept.png": {
 		"ft": 32768,
 		"iS": 449740,
-		"oA": 1,
-		"oAP": "/docs/images/swanson/header-concept.png",
-		"oF": 3,
+		"oA": 0,
+		"oAP": "/images/swanson/header-concept.png",
+		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"oT": 1,
 		"q": 100
 		},
-	"/docs/images/swanson/products_after-single.png": {
+	"/images/swanson/products_after-single.png": {
 		"ft": 32768,
 		"iS": 94095,
-		"oA": 1,
-		"oAP": "/docs/images/swanson/products_after-single.png",
-		"oF": 3,
+		"oA": 0,
+		"oAP": "/images/swanson/products_after-single.png",
+		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"oT": 1,
 		"q": 100
 		},
-	"/docs/images/swanson/products_after.png": {
+	"/images/swanson/products_after.png": {
 		"ft": 32768,
 		"iS": 756642,
-		"oA": 1,
-		"oAP": "/docs/images/swanson/products_after.png",
-		"oF": 3,
+		"oA": 0,
+		"oAP": "/images/swanson/products_after.png",
+		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"oT": 1,
 		"q": 100
 		},
-	"/docs/images/swanson/products_before.png": {
+	"/images/swanson/products_before.png": {
 		"ft": 32768,
 		"iS": 672929,
-		"oA": 1,
-		"oAP": "/docs/images/swanson/products_before.png",
-		"oF": 3,
+		"oA": 0,
+		"oAP": "/images/swanson/products_before.png",
+		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"oT": 1,
 		"q": 100
 		},
-	"/docs/images/swanson/subscription.png": {
+	"/images/swanson/subscription.png": {
 		"ft": 32768,
 		"iS": 1296729,
-		"oA": 1,
-		"oAP": "/docs/images/swanson/subscription.png",
-		"oF": 3,
+		"oA": 0,
+		"oAP": "/images/swanson/subscription.png",
+		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"oT": 1,
 		"q": 100
 		},
-	"/docs/index.html": {
+	"/index.html": {
 		"cB": 0,
 		"ft": 8192,
 		"hM": 0,
 		"oA": 0,
-		"oAP": "/docs/index.html",
+		"oAP": "/index.html",
 		"oF": 0
 		},
-	"/docs/pdf/welcome.pdf": {
-		"cB": 0,
-		"ft": 8192,
-		"hM": 0,
-		"oA": 1,
-		"oAP": "/docs/pdf/welcome.pdf",
-		"oF": 3
-		},
-	"/docs/portfolio.html": {
+	"/pdf/welcome.pdf": {
 		"cB": 0,
 		"ft": 8192,
 		"hM": 0,
 		"oA": 0,
-		"oAP": "/docs/portfolio.html",
+		"oAP": "/pdf/welcome.pdf",
 		"oF": 0
 		},
-	"/docs/swanson.html": {
+	"/portfolio.html": {
 		"cB": 0,
 		"ft": 8192,
 		"hM": 0,
 		"oA": 0,
-		"oAP": "/docs/swanson.html",
+		"oAP": "/portfolio.html",
+		"oF": 0
+		},
+	"/swanson.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/swanson.html",
 		"oF": 0
 		}
 	},
@@ -762,12 +762,11 @@
 "manualImportLinks": {
 	},
 "projectAttributes": {
-	"creationDate": 579811327.06161797,
+	"creationDate": 579816996.12547505,
 	"displayValue": "portfolio",
 	"displayValueWasSetByUser": 0,
 	"iconImageName": "meme-doge",
-	"iconImageWasSetByUser": 1,
-	"lastBuiltDate": 579815498.90077698
+	"iconImageWasSetByUser": 1
 	},
 "projectSettings": {
 	"abortBuildOnError": 1,
@@ -1055,7 +1054,7 @@
 	"browserRefreshDelay": 0,
 	"browserslistString": ">0.2%, last 2 versions, Firefox ESR, not dead",
 	"buildFolderActive": 0,
-	"buildFolderName": "build",
+	"buildFolderName": "_build",
 	"cleanBuild": 0,
 	"coffeeLintFlags2": {
 		"arrow_spacing": {
@@ -2663,23 +2662,23 @@
 		"autoOutputPathReplace2": "html",
 		"autoOutputPathStyle": 0,
 		"shouldRunCacheBuster": 0,
-		"shouldRunHTMLMinifier": 1
+		"shouldRunHTMLMinifier": 0
 		},
 	"languageDefaultsLESS": {
 		"allowInsecureImports": 0,
 		"autoOutputAction": 0,
-		"autoOutputPathFilenamePattern": "main.css",
-		"autoOutputPathRelativePath": "docs/css",
+		"autoOutputPathFilenamePattern": "*.css",
+		"autoOutputPathRelativePath": "../css",
 		"autoOutputPathReplace1": "less",
 		"autoOutputPathReplace2": "css",
-		"autoOutputPathStyle": 1,
+		"autoOutputPathStyle": 0,
 		"createSourceMap": 1,
 		"enableJavascript": 0,
 		"ieCompatibility": 0,
 		"mathStyle": 0,
-		"outputStyle": 1,
+		"outputStyle": 0,
 		"rewriteURLStyle": 0,
-		"shouldRunAutoprefixer": 1,
+		"shouldRunAutoprefixer": 0,
 		"shouldRunBless": 0,
 		"strictImports": 0,
 		"strictUnits": 0
@@ -2811,7 +2810,7 @@
 	"overrideExternalServerCSS": 0,
 	"previewPathAddition": "",
 	"skippedFoldersString": "log, _logs, logs, _cache, cache, .idea, /storage/framework/sessions, node_modules",
-	"sourceFolderName": "docs",
+	"sourceFolderName": "",
 	"susyVersion": 3,
 	"tsAllowSyntheticDefaultImports": 0,
 	"tsAllowUnreachableCode": 0,
