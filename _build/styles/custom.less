@@ -199,6 +199,15 @@ body {
   border: 1rem solid @color__medium;
 }
 ::selection {
-  color: white;
-  background-color: @color__dark;
+  background-color: @color__light;
+}
+footer {
+  &,
+  p,
+  h1,
+  a {
+    &::selection {
+      background-color: @color__dark;
+    }
+  }
 }
