@@ -57,6 +57,14 @@
 		"oAP": "/_build/components/_header__portfolio.html",
 		"oF": 0
 		},
+	"/_build/components/_portfolio-nav.kit": {
+		"cB": 0,
+		"ft": 2048,
+		"hM": 0,
+		"oA": 1,
+		"oAP": "/_build/components/_portfolio-nav.html",
+		"oF": 0
+		},
 	"/_build/index.kit": {
 		"cB": 0,
 		"ft": 2048,
@@ -91,7 +99,7 @@
 		"sU": 0
 		},
 	"/_build/styles/normalize.less": {
-		"aP": 0,
+		"aP": 1,
 		"bl": 0,
 		"eJ": 0,
 		"ft": 1,
@@ -108,7 +116,7 @@
 		"sU": 0
 		},
 	"/_build/styles/skeleton.less": {
-		"aP": 0,
+		"aP": 1,
 		"bl": 0,
 		"eJ": 0,
 		"ft": 1,
@@ -2676,9 +2684,9 @@
 		"enableJavascript": 0,
 		"ieCompatibility": 0,
 		"mathStyle": 0,
-		"outputStyle": 0,
+		"outputStyle": 1,
 		"rewriteURLStyle": 0,
-		"shouldRunAutoprefixer": 0,
+		"shouldRunAutoprefixer": 1,
 		"shouldRunBless": 0,
 		"strictImports": 0,
 		"strictUnits": 0
