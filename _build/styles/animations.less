@@ -1,0 +1,30 @@
+@keyframes pulse {
+  from,
+  50%,
+  to {
+    opacity: 1;
+  }
+  25%,
+  75% {
+    opacity: 0;
+  }
+}
+
+.pulse-loop (@i) when (@i > 0) {
+  path:nth-of-type(@{i}) {
+    animation-delay: ~"@{i}0ms";
+  }
+  .pulse-loop(@i - 1);
+}
+
+.pulse-loop (261);
+
+.animateSVG:checked ~ svg path {
+  animation-name: pulse;
+}
+.svg-animation-1 path {
+  animation-duration: 20s;
+  animation-fill-mode: both;
+  animation-iteration-count: infinite;
+  animation-timing-function: ease-in-out;
+}
