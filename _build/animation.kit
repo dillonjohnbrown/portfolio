@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="en">
+<!-- $portfolioPageText = / Portfolio -->
+<!-- @include components/_head.kit -->
+<body>
+  <link rel="stylesheet" href="css/animations.css">
+  <div class="container">
+    <!-- @include components/_header__portfolio.kit -->
+
+    <div class="sub-nav">
+      <ul class="sub-nav-list">
+        <li class="sub-nav-item">
+          <a class="sub-nav-link" href="harvest.html">Harvest</a>
+        </li>
+        <li class="sub-nav-item">
+          <a class="sub-nav-link" href="swanson.html">Swanson</a>
+        </li>
+        <li class="sub-nav-item">
+          <a class="sub-nav-link" href="apps.html">Apps</a>
+        </li>
+        <li class="sub-nav-item">
+          <a class="sub-nav-link" href="art.html">Art</a>
+        </li>
+        <li class="sub-nav-item active">
+          <a class="sub-nav-link" href="#">Animation</a>
+        </li>
+      </ul>
+    </div>
+
+    <div class="row">
+      <div class="twelve columns">
+        <h4>CSS + SVG</h4>
+        <p>I like CSS. I just kind of get it. Below is an example of an animation using CSS and an SVG file.</p>
+      </div>
+    </div>
+
+    <!-- Lines -->
+    <div class="docs-section">
+      <div class="row">
+        <div class="eight offset-by-two columns animation-toggle">
+          <input type="checkbox" class="animateSVG" name="animateSVG">
+          <label for="animateSVG">Animate SVG</label>
+          <!-- @include components/_svg-animation.svg -->
+        </div>
+      </div>
+    </div>
+
+    <!-- Code -->
+    <div class="docs-section">
+      <div class="row">
+        <div class="four columns">
+          <h5>A little bit of Less goes a long way.</h5>
+          <p>This is the source code for the animation. Abusing CSS like this is an absolute dog as far as performance goes, but not a single line of JavaScript was used.</p>
+        </div>
+        <div class="eight columns">
+<pre>
+<!-- @include styles/animations.less -->
+</pre>
+        </div>
+      </div>
+    </div>
+
+  </div>
+
+  <!-- @include components/footer.kit -->
+</body>
+</html>
