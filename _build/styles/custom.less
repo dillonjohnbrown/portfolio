@@ -94,6 +94,11 @@ hr {
   height: 4rem;
   z-index: 99;
   padding: 0;
+  // Overflow scrolling
+  overflow-x: scroll;
+  overflow-y: visible;
+  height: min-content;
+  -webkit-overflow-scrolling: touch;
   .active {
     &::after {
       background-color: @color__dark;
