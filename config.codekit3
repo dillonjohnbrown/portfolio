@@ -44,12 +44,12 @@
 	"/_build/components/_footer-goop.svg": {
 		"ft": 2097152,
 		"miP": 0,
-		"oA": 1,
+		"oA": 0,
 		"oAP": "/_build/components/_footer-goop.svg",
-		"oF": 0,
-		"opt": 0,
-		"plM": 3758088159,
-		"prP": 0
+		"oF": 1,
+		"opt": 1,
+		"plM": 3758022623,
+		"prP": 1
 		},
 	"/_build/components/_footer.kit": {
 		"cB": 0,
