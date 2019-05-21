@@ -77,11 +77,11 @@
 		"ft": 2097152,
 		"miP": 0,
 		"oA": 1,
-		"oAP": "/_build/components/_svg-animation.svg",
-		"oF": 0,
-		"opt": 0,
-		"plM": 3758088159,
-		"prP": 0
+		"oAP": "/_svg-animation__optimized.svg",
+		"oF": 3,
+		"opt": 1,
+		"plM": 536764383,
+		"prP": 1
 		},
 	"/_build/harvest.kit": {
 		"cB": 0,
