@@ -1,13 +1,27 @@
 <svg class="u-max-full-width no-box-shadow svg-animation-1" viewBox="0 0 900 900" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
     <defs>
-        <linearGradient x1="100%" y1="0%" x2="0%" y2="100%" id="linearGradient-1">
-            <stop stop-color="#32C5FF" offset="0%"></stop>
-            <stop stop-color="#B620E0" offset="51.2583893%"></stop>
-            <stop stop-color="#F7B500" offset="100%"></stop>
-        </linearGradient>
+      <linearGradient x1="100%" y1="0%" x2="0%" y2="100%" id="linearGradient-1">
+          <stop stop-color="#32C5FF" offset="0%"></stop>
+          <stop stop-color="#3AC5FD" offset="8.17626953%"></stop>
+          <stop stop-color="#49C4F9" offset="15.5351563%"></stop>
+          <stop stop-color="#5BC3F2" offset="22.1967773%"></stop>
+          <stop stop-color="#6DC2E9" offset="28.28125%"></stop>
+          <stop stop-color="#80C1DF" offset="33.9086914%"></stop>
+          <stop stop-color="#91C0D3" offset="39.1992188%"></stop>
+          <stop stop-color="#A1BFC5" offset="44.2729492%"></stop>
+          <stop stop-color="#B1BDB6" offset="49.25%"></stop>
+          <stop stop-color="#BFBCA5" offset="54.2504883%"></stop>
+          <stop stop-color="#CCBA93" offset="59.3945313%"></stop>
+          <stop stop-color="#D8B97F" offset="64.8022461%"></stop>
+          <stop stop-color="#E2B86A" offset="70.59375%"></stop>
+          <stop stop-color="#EAB754" offset="76.8891602%"></stop>
+          <stop stop-color="#F0B63C" offset="83.8085938%"></stop>
+          <stop stop-color="#F5B523" offset="91.472168%"></stop>
+          <stop stop-color="#F7B500" offset="100%"></stop>
+      </linearGradient>
     </defs>
     <g id="Export-thing" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <rect id="Rectangle" fill="url(#linearGradient-1)" x="0" y="0" width="900" height="900"></rect>
+        <rect id="Rectangle-cubic-bezier(0.46,-0.03,-0.52,-0.95);lrgb;17" fill="url(#linearGradient-1)" x="0" y="0" width="900" height="900"></rect>
         <g id="Group_50" transform="translate(449.881970, 424.947027) rotate(17444.000000) translate(-449.881970, -424.947027) translate(143.381970, 55.947027)" stroke-width="2">
             <path d="M194.31355,525.925735 C389.573134,157.982322 188.342532,229.463552 281.670035,367.127062 C374.997538,504.790573 466.019161,1009.60932 486.626456,489.051364 C507.233751,-31.5065951 748.465323,-25.2375882 486.626456,30.1770373 C224.787589,85.5916628 -76.4575716,342.560316 25.692961,342.560316 C127.843494,342.560316 -0.946033822,893.869148 194.31355,525.925735 Z" id="Path-3" stroke="#D3EB62"></path>
             <path d="M189.029067,544.441864 C384.288651,176.498451 183.058049,247.979681 276.385552,385.643191 C369.713056,523.306702 460.734678,1028.12545 481.341973,507.567493 C501.949269,-12.9904661 743.18084,-6.7214592 481.341973,48.6931663 C219.503107,104.107792 -81.7420544,361.076445 20.4084782,361.076445 C122.559011,361.076445 -6.23051658,912.385277 189.029067,544.441864 Z" id="Path-3-Copy" stroke="#E22183"></path>
