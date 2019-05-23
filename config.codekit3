@@ -93,6 +93,16 @@
 		"plM": 536764383,
 		"prP": 1
 		},
+	"/_build/components/_swanson-forms-after.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 0,
+		"oAP": "/_build/components/_swanson-forms-after.svg",
+		"oF": 1,
+		"opt": 1,
+		"plM": 3758022623,
+		"prP": 1
+		},
 	"/_build/index.kit": {
 		"cB": 0,
 		"ft": 2048,
@@ -734,14 +744,25 @@
 		"oT": 1,
 		"q": 100
 		},
-	"/images/swanson/forms.png": {
+	"/images/swanson/forms-after.png": {
 		"ft": 32768,
-		"iS": 502001,
+		"iS": 81739,
 		"oA": 0,
-		"oAP": "/images/swanson/forms.png",
+		"oAP": "/images/swanson/forms-after.png",
 		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
+		"oIPL": 1,
+		"opt": 1,
+		"oT": 1,
+		"q": 100
+		},
+	"/images/swanson/forms-before.png": {
+		"ft": 32768,
+		"iS": 66007,
+		"oA": 0,
+		"oAP": "/images/swanson/forms-before.png",
+		"oF": 0,
+		"oIPL": 1,
+		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
@@ -841,6 +862,14 @@
 		"hM": 0,
 		"oA": 0,
 		"oAP": "/ui.html",
+		"oF": 0
+		},
+	"/webdev.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/webdev.html",
 		"oF": 0
 		}
 	},
