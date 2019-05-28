@@ -711,17 +711,6 @@
 		"oT": 1,
 		"q": 100
 		},
-	"/images/swanson/address.png": {
-		"ft": 32768,
-		"iS": 551101,
-		"oA": 0,
-		"oAP": "/images/swanson/address.png",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"oT": 1,
-		"q": 100
-		},
 	"/images/swanson/forms-after.png": {
 		"ft": 32768,
 		"iS": 81739,
