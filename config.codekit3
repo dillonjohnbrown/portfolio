@@ -557,28 +557,6 @@
 		"oT": 1,
 		"q": 100
 		},
-	"/images/harvest/business-card-before.png": {
-		"ft": 32768,
-		"iS": 34102,
-		"oA": 0,
-		"oAP": "/images/harvest/business-card-before.png",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"oT": 1,
-		"q": 100
-		},
-	"/images/harvest/business-card-new.png": {
-		"ft": 32768,
-		"iS": 47843,
-		"oA": 0,
-		"oAP": "/images/harvest/business-card-new.png",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"oT": 1,
-		"q": 100
-		},
 	"/images/harvest/contracts-existing.png": {
 		"ft": 32768,
 		"iS": 255987,
