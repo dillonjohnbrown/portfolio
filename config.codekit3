@@ -622,17 +622,6 @@
 		"oT": 1,
 		"q": 100
 		},
-	"/images/harvest/guide-10.png": {
-		"ft": 32768,
-		"iS": 268281,
-		"oA": 0,
-		"oAP": "/images/harvest/guide-10.png",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"oT": 1,
-		"q": 100
-		},
 	"/images/harvest/inputs-details-2.png": {
 		"ft": 32768,
 		"iS": 47378,
