@@ -149,9 +149,12 @@ img {
  box-shadow: hsla(19, 97%, 15%, 0.05882) 0 20px 43px, hsla(19, 97%, 15%, 0.04705) 0 1px 10px;
  transition: box-shadow 1.5s ease-in-out, transform 1.5s ease-in-out;
 }
-a img:hover {
-  box-shadow: hsla(19, 97%, 15%, 0.2196) 0 20px 43px, hsla(19, 97%, 15%, 0.1803) 0 4px 11px;
-  transform: translate3d(0, -5px, 0);
+a img,
+svg {
+  &:hover {
+    box-shadow: hsla(19, 97%, 15%, 0.2196) 0 20px 43px, hsla(19, 97%, 15%, 0.1803) 0 4px 11px;
+    transform: translate3d(0, -5px, 0);
+  }
 }
 
 .asterisk {
