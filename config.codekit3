@@ -59,6 +59,16 @@
 		"oAP": "/_build/components/_footer.html",
 		"oF": 0
 		},
+	"/_build/components/_harvest-buttons-1.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 0,
+		"oAP": "/_build/components/_harvest-buttons-1.svg",
+		"oF": 1,
+		"opt": 1,
+		"plM": 3758022623,
+		"prP": 1
+		},
 	"/_build/components/_head.kit": {
 		"cB": 0,
 		"ft": 2048,
@@ -617,17 +627,6 @@
 		"iS": 268281,
 		"oA": 0,
 		"oAP": "/images/harvest/guide-10.png",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"oT": 1,
-		"q": 100
-		},
-	"/images/harvest/inputs-details-1.png": {
-		"ft": 32768,
-		"iS": 78177,
-		"oA": 0,
-		"oAP": "/images/harvest/inputs-details-1.png",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
