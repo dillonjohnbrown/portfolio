@@ -293,6 +293,17 @@
 		"oAP": "/css/main.css.map",
 		"oF": 0
 		},
+	"/images/apps.png": {
+		"ft": 32768,
+		"iS": 1296860,
+		"oA": 0,
+		"oAP": "/images/apps.png",
+		"oF": 0,
+		"oIPL": 1,
+		"opt": 1,
+		"oT": 1,
+		"q": 100
+		},
 	"/images/apps/drug-combos.png": {
 		"ft": 32768,
 		"iS": 1568487,
