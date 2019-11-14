@@ -317,8 +317,19 @@
 		"oA": 0,
 		"oAP": "/images/apps/music-app.png",
 		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
+		"oIPL": 1,
+		"opt": 1,
+		"oT": 1,
+		"q": 100
+		},
+	"/images/apps/podcast-app.png": {
+		"ft": 32768,
+		"iS": 3112911,
+		"oA": 0,
+		"oAP": "/images/apps/podcast-app.png",
+		"oF": 0,
+		"oIPL": 1,
+		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
@@ -328,8 +339,8 @@
 		"oA": 0,
 		"oAP": "/images/apps/recipe-app.png",
 		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
+		"oIPL": 1,
+		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
