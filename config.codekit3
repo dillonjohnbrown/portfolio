@@ -795,6 +795,17 @@
 		"oT": 1,
 		"q": 100
 		},
+	"/images/Tacoma.png": {
+		"ft": 32768,
+		"iS": 12829773,
+		"oA": 0,
+		"oAP": "/images/tacoma.png",
+		"oF": 0,
+		"oIPL": 1,
+		"opt": 1,
+		"oT": 1,
+		"q": 100
+		},
 	"/images/tacomapw.png": {
 		"ft": 32768,
 		"iS": 99501,
