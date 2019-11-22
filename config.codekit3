@@ -412,7 +412,7 @@
 		},
 	"/images/art/lines-1.png": {
 		"ft": 32768,
-		"iS": 1768788,
+		"iS": 4434708,
 		"oA": 0,
 		"oAP": "/images/art/lines-1.png",
 		"oF": 0,
@@ -443,9 +443,53 @@
 		"oT": 1,
 		"q": 100
 		},
+	"/images/art/lines-12.png": {
+		"ft": 32768,
+		"iS": 3343192,
+		"oA": 0,
+		"oAP": "/images/art/lines-12.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"/images/art/lines-13.png": {
+		"ft": 32768,
+		"iS": 4697322,
+		"oA": 0,
+		"oAP": "/images/art/lines-13.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"/images/art/lines-14.png": {
+		"ft": 32768,
+		"iS": 6093171,
+		"oA": 0,
+		"oAP": "/images/art/lines-14.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"/images/art/lines-15.png": {
+		"ft": 32768,
+		"iS": 1041478,
+		"oA": 0,
+		"oAP": "/images/art/lines-15.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
 	"/images/art/lines-2.png": {
 		"ft": 32768,
-		"iS": 4091588,
+		"iS": 772761,
 		"oA": 0,
 		"oAP": "/images/art/lines-2.png",
 		"oF": 0,
@@ -795,7 +839,7 @@
 		"oT": 1,
 		"q": 100
 		},
-	"/images/Tacoma.png": {
+	"/images/tacoma.png": {
 		"ft": 32768,
 		"iS": 12829773,
 		"oA": 0,
