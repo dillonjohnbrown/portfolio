@@ -487,6 +487,17 @@
 		"oT": 1,
 		"q": 100
 		},
+	"/images/art/lines-16.png": {
+		"ft": 32768,
+		"iS": 6093171,
+		"oA": 0,
+		"oAP": "/images/art/lines-16.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
 	"/images/art/lines-2.png": {
 		"ft": 32768,
 		"iS": 772761,
