@@ -493,8 +493,41 @@
 		"oA": 0,
 		"oAP": "/images/art/lines-16.png",
 		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
+		"oIPL": 1,
+		"opt": 1,
+		"oT": 1,
+		"q": 100
+		},
+	"/images/art/lines-17.png": {
+		"ft": 32768,
+		"iS": 3343192,
+		"oA": 0,
+		"oAP": "/images/art/lines-17.png",
+		"oF": 0,
+		"oIPL": 1,
+		"opt": 1,
+		"oT": 1,
+		"q": 100
+		},
+	"/images/art/lines-18.png": {
+		"ft": 32768,
+		"iS": 1061561,
+		"oA": 0,
+		"oAP": "/images/art/lines-18.png",
+		"oF": 0,
+		"oIPL": 1,
+		"opt": 1,
+		"oT": 1,
+		"q": 100
+		},
+	"/images/art/lines-19.png": {
+		"ft": 32768,
+		"iS": 3626170,
+		"oA": 0,
+		"oAP": "/images/art/lines-19.png",
+		"oF": 0,
+		"oIPL": 1,
+		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
