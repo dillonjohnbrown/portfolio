@@ -17,14 +17,6 @@
 		"oAP": "/.gitignore",
 		"oF": 0
 		},
-	"/_build/animation.kit": {
-		"cB": 0,
-		"ft": 2048,
-		"hM": 1,
-		"oA": 0,
-		"oAP": "/animation.html",
-		"oF": 2
-		},
 	"/_build/apps.kit": {
 		"cB": 0,
 		"ft": 2048,
@@ -220,14 +212,6 @@
 		"oA": 0,
 		"oAP": "/webdev.html",
 		"oF": 2
-		},
-	"/animation.html": {
-		"cB": 0,
-		"ft": 8192,
-		"hM": 0,
-		"oA": 0,
-		"oAP": "/animation.html",
-		"oF": 0
 		},
 	"/apps.html": {
 		"cB": 0,
