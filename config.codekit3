@@ -796,8 +796,8 @@
 		"oA": 0,
 		"oAP": "/images/swanson/account.png",
 		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
+		"oIPL": 1,
+		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
@@ -840,8 +840,8 @@
 		"oA": 0,
 		"oAP": "/images/swanson/products_after.png",
 		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
+		"oIPL": 1,
+		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
@@ -851,8 +851,8 @@
 		"oA": 0,
 		"oAP": "/images/swanson/products_before.png",
 		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
+		"oIPL": 1,
+		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
@@ -862,8 +862,8 @@
 		"oA": 0,
 		"oAP": "/images/swanson/subscription.png",
 		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
+		"oIPL": 1,
+		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
