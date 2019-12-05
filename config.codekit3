@@ -17,14 +17,6 @@
 		"oAP": "/.gitignore",
 		"oF": 0
 		},
-	"/_build/apps.kit": {
-		"cB": 0,
-		"ft": 2048,
-		"hM": 1,
-		"oA": 0,
-		"oAP": "/apps.html",
-		"oF": 2
-		},
 	"/_build/art.kit": {
 		"cB": 0,
 		"ft": 2048,
@@ -212,14 +204,6 @@
 		"oA": 0,
 		"oAP": "/webdev.html",
 		"oF": 2
-		},
-	"/apps.html": {
-		"cB": 0,
-		"ft": 8192,
-		"hM": 0,
-		"oA": 0,
-		"oAP": "/apps.html",
-		"oF": 0
 		},
 	"/art.html": {
 		"cB": 0,
