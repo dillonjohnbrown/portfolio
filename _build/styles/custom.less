@@ -3,10 +3,19 @@
 @import "normalize.less";
 @import "skeleton.less";
 
+// Oranges
 @color__dark:       hsla(19, 97%, 56%, 1.0);
 @color__dark-hover: hsla(19, 97%, 92%, 1.0);
 @color__medium:     hsla(19, 97%, 56%, 0.8);
 @color__light:      hsla(19, 97%, 56%, 0.2);
+
+// Whites
+@color__body-bg:	hsl(60, 28%, 95%);
+@color__white:		white;
+
+// Blacks
+@color__black:		#222;
+
 
 .container {
 	max-width: 800px;
@@ -97,19 +106,8 @@ hr {
 	margin-bottom: 4rem;
 	user-select: none;
 	display: block;
-	width: 100%;
-	height: 4rem;
-	z-index: 99;
 	padding: 0;
-	// Overflow scrolling
-	overflow-x: scroll;
-	overflow-y: visible;
-	height: min-content;
-	-webkit-overflow-scrolling: touch;
 	.active {
-		&::after {
-			background-color: @color__dark;
-		}
 		a {
 			color: @color__dark;
 			cursor: default;
@@ -118,10 +116,16 @@ hr {
 }
 .sub-nav-list {
 	list-style: none;
-	margin-bottom: 0;
+	padding: 20px 0;
 	display: flex;
-	flex-direction: row;
+	flex-direction: column;
+	justify-content: center;
 	border-bottom: 2px solid @color__light;
+}
+@media (min-width: 550px) {
+	.sub-nav-list {
+		flex-direction: row;
+	}
 }
 
 .sub-nav-link {
@@ -130,24 +134,26 @@ hr {
 	font-weight: 600;
 	letter-spacing: .1rem;
 	text-decoration: none;
-	line-height: 4rem;
-	color: hsla(19, 97%, 56%, .5);
+	color: @color__medium;
+	&:hover {
+		color: @color__dark;
+	}
 }
 .sub-nav-item {
 	margin-bottom: 0;
-	margin-right: 25px;
+	margin: 0 15px;
+	text-align: center;
+	line-height: 1;
 	&::after {
-		content: "";
-		top: 2px;
+		content: "•";
+		top: 0;
 		position: relative;
+		color: @color__body-bg;
 		display: block;
 		min-width: 25px;
-		height: 2px;
 	}
-}
-@media (max-width: 720px) {
-	.sub-nav-item {
-		display: table;
+	&.active::after {
+		color: @color__dark;
 	}
 }
 .hover-effect {
