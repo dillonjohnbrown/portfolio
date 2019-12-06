@@ -43,67 +43,6 @@ hr {
 // 	}
 }
 
-/* Navbar */
-.navbar {
-	margin-bottom: 4rem;
-	user-select: none;
-	display: block;
-	width: 100%;
-	height: 4rem;
-	z-index: 99;
-	display: flex;
-	justify-content: center;
-}
-@media (min-width: 550px) {
-	.navbar {
-		justify-content: flex-end;
-	}
-
-}
-.navbar-list {
-	list-style: none;
-	margin-bottom: 0;
-	background-color: @color__medium;
-	border-radius: 50px;
-	padding: 0 3px;
-}
-.navbar-item {
-	position: relative;
-	float: left;
-	margin-bottom: 0;
-}
-.navbar-link {
-	text-transform: uppercase;
-	font-size: 11px;
-	font-weight: 600;
-	letter-spacing: .1rem;
-	text-decoration: none;
-	line-height: 4rem;
-	color: white;
-	padding: 10px 20px;
-	border-radius: 50px;
-	&:hover {
-		color: @color__dark-hover;
-	}
-	&.active {
-		color: @color__dark;
-		background-color: white;
-		&:hover {
-			color: @color__dark;
-			cursor: default;
-		}
-
-	}
-
-}
-/* temp fix for navbar breaking on landscape iPhone 5/SE  */
-@media (max-width: 641px) and (min-width: 550px) {
-	.navbar-link {
-		padding: 10px 12px;
-	}
-
-}
-
 /* Subnav */
 // .sub-nav-ul .sub-nav-item .sub-nav-link {}
 .sub-nav-ul {
