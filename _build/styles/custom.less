@@ -43,41 +43,41 @@ nav ul {
 	border-bottom: 2px solid @color__light;
 	margin-bottom: 4rem;
 	user-select: none;
-}
-.nav-li {
-	margin: 0 15px;
-	text-align: center;
-	line-height: 1;
-	// Dot below 
-	&::after {
-		content: "•";
-		color: @color__body-bg;
-		display: block;
-	}
-	&.active {
+	li {
+		margin: 0 15px;
+		text-align: center;
+		line-height: 1;
+		// Dot below 
 		&::after {
-			color: @color__dark;
+			content: "•";
+			color: @color__body-bg;
+			display: block;
+		}
+		&.active {
+			&::after {
+				color: @color__dark;
+			}
+			a {
+				color: @color__dark;
+				cursor: default;
+				text-decoration: none;
+			}
 		}
 		a {
-			color: @color__dark;
-			cursor: default;
-			text-decoration: none;
+			text-transform: uppercase;
+			font-size: 1.1rem;
+			font-weight: 600;
+			letter-spacing: .075rem;
+			color: @color__black;
+			text-decoration-color: @color__dark;
+			transition: all 0.5s ease;
+			&:hover {
+				color: @color__dark;
+			}
 		}
 	}
 }
-.sub-nav-link {
-	text-transform: uppercase;
-	font-size: 1.1rem;
-	font-weight: 600;
-	letter-spacing: .075rem;
-	color: @color__black;
-	text-decoration-color: @color__dark;
-	transition: all 0.5s ease;
-	&:hover {
-		color: @color__dark;
-	}
-}
-/* END Subnav */
+/* END Nav */
 
 .hover-effect {
 	border-radius: 3px;
