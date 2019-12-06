@@ -71,20 +71,12 @@
 		"oAP": "/_build/components/_head.html",
 		"oF": 0
 		},
-	"/_build/components/_header__about.kit": {
+	"/_build/components/_header.kit": {
 		"cB": 0,
 		"ft": 2048,
 		"hM": 0,
 		"oA": 1,
-		"oAP": "/_build/components/_header__about.html",
-		"oF": 0
-		},
-	"/_build/components/_header__portfolio.kit": {
-		"cB": 0,
-		"ft": 2048,
-		"hM": 0,
-		"oA": 1,
-		"oAP": "/_build/components/_header__portfolio.html",
+		"oAP": "/_build/components/_header.html",
 		"oF": 0
 		},
 	"/_build/components/_svg-animation.svg": {
