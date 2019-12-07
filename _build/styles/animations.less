@@ -1,3 +1,4 @@
+// SVG animation
 @keyframes pulse {
 	from,
 	11.1%,
@@ -44,4 +45,33 @@
 	animation-fill-mode: both;
 	animation-iteration-count: infinite;
 	animation-timing-function: ease-in-out;
+}
+
+// Drug Combos
+@keyframes breathe {
+	0% {
+		opacity: 0;
+	}
+	100% {
+		opacity: 67%;
+	}
+}
+
+.breathe-animation {
+	overflow: hidden;
+	position: relative;
+	top: 0;
+	left: 0;
+	img {
+		top: 0;
+		left: 0;
+		&:first-of-type {
+			position: relative;
+		}
+		&:last-of-type {
+			position: absolute;
+			animation: breathe 7s ease-in-out infinite;
+			animation-direction: alternate;
+		}
+	}
 }

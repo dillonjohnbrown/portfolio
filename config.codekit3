@@ -149,22 +149,6 @@
 		"sI": 0,
 		"sU": 0
 		},
-	"/_build/styles/inter.less": {
-		"aP": 1,
-		"bl": 0,
-		"eJ": 0,
-		"ft": 1,
-		"iI": 0,
-		"ma": 1,
-		"mS": 0,
-		"oA": 1,
-		"oAP": "/_build/styles/inter.css",
-		"oF": 1,
-		"oS": 1,
-		"rwU": 0,
-		"sI": 0,
-		"sU": 0
-		},
 	"/_build/styles/normalize.less": {
 		"aP": 1,
 		"bl": 0,
@@ -252,6 +236,17 @@
 		"iS": 1296860,
 		"oA": 0,
 		"oAP": "/images/apps.png",
+		"oF": 0,
+		"oIPL": 1,
+		"opt": 1,
+		"oT": 1,
+		"q": 100
+		},
+	"/images/apps/drug-combos-2.png": {
+		"ft": 32768,
+		"iS": 27471822,
+		"oA": 0,
+		"oAP": "/images/apps/drug-combos-2.png",
 		"oF": 0,
 		"oIPL": 1,
 		"opt": 1,
