@@ -79,6 +79,14 @@ footer {
 	& a:hover {
 		color: white;
 	}
+	&,
+	p,
+	h1,
+	a {
+		&::selection {
+			background-color: @color__dark;
+		}
+	}
 }
 .footer-cta-text {
 	font-weight: 400;
@@ -96,16 +104,7 @@ body {
 ::selection {
 	background-color: @color__light;
 }
-footer {
-	&,
-	p,
-	h1,
-	a {
-		&::selection {
-			background-color: @color__dark;
-		}
-	}
-}
+
 
 .animation-toggle {
 	input,
