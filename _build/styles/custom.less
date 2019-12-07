@@ -32,52 +32,6 @@ hr {
 	border-color: transparent !important;
 }
 
-/* NAVIGATION */
-.nav {
-	list-style: none;
-	padding: 20px 0;
-	display: flex;
-	flex-wrap: wrap;
-	justify-content: center;
-	border-bottom: 2px solid @color__light;
-	margin-bottom: 4rem;
-	user-select: none;
-}
-.nav-li {
-	margin: 0 15px;
-	text-align: center;
-	line-height: 1;
-	// Dot below 
-	&::after {
-		content: "•";
-		color: @color__body-bg;
-		display: block;
-	}
-	&.active {
-		&::after {
-			color: @color__dark;
-		}
-		a {
-			color: @color__dark;
-			cursor: default;
-			text-decoration: none;
-		}
-	}
-}
-.nav-a {
-	text-transform: uppercase;
-	font-size: 1.1rem;
-	font-weight: 600;
-	letter-spacing: .075rem;
-	color: @color__black;
-	text-decoration-color: @color__dark;
-	transition: all 0.5s ease;
-	&:hover {
-		color: @color__dark;
-	}
-}
-/* END Nav */
-
 .hover-effect {
 	border-radius: 3px;
 	box-shadow: hsla(19, 97%, 15%, 0.05882) 0 20px 43px, hsla(19, 97%, 15%, 0.04705) 0 1px 10px;
@@ -204,5 +158,5 @@ p a {
 .no-margin {
 	margin: 0;
 }
-
+@import "nav.less";
 @import "animations.less";
