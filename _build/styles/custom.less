@@ -46,12 +46,6 @@ hr {
 .asterisk {
 	color: red;
 }
-@media (max-width: 550px) {
-	h2,
-	footer {
-		text-align: center;
-	}
-}
 h4 {
 	font-weight: 700;
 }
@@ -83,6 +77,11 @@ footer {
 		&::selection {
 			background-color: @color__dark;
 		}
+	}
+}
+@media (max-width: 550px) {
+	footer {
+		text-align: center;
 	}
 }
 .footer-cta-text {
