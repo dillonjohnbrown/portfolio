@@ -13,9 +13,9 @@
 		"cB": 0,
 		"ft": 8192,
 		"hM": 0,
-		"oA": 0,
+		"oA": 1,
 		"oAP": "/.gitignore",
-		"oF": 0
+		"oF": 1
 		},
 	"/_build/art.kit": {
 		"cB": 0,
@@ -215,9 +215,9 @@
 		"cB": 0,
 		"ft": 8192,
 		"hM": 0,
-		"oA": 0,
+		"oA": 1,
 		"oAP": "/CNAME",
-		"oF": 0
+		"oF": 1
 		},
 	"/css/main.css": {
 		"aP": 1,
