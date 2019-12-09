@@ -69,16 +69,6 @@
 		"plM": 536764383,
 		"prP": 1
 		},
-	"/_build/components/_svg-inputs-detail.svg": {
-		"ft": 2097152,
-		"miP": 0,
-		"oA": 1,
-		"oAP": "/_build/components/_svg-inputs-detail.svg",
-		"oF": 0,
-		"opt": 0,
-		"plM": 3758088159,
-		"prP": 0
-		},
 	"/_build/components/_swanson-forms-after.svg": {
 		"ft": 2097152,
 		"miP": 0,
@@ -729,6 +719,17 @@
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"/images/harvest/jump-idea.png": {
+		"ft": 32768,
+		"iS": 130097,
+		"oA": 0,
+		"oAP": "/images/harvest/jump-idea.png",
+		"oF": 0,
+		"oIPL": 1,
+		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
