@@ -678,22 +678,33 @@
 		"oT": 1,
 		"q": 100
 		},
-	"/images/harvest/inputs-details-2.png": {
+	"/images/harvest/inputs-1.png": {
 		"ft": 32768,
-		"iS": 47378,
+		"iS": 144848,
 		"oA": 0,
-		"oAP": "/images/harvest/inputs-details-2.png",
+		"oAP": "/images/harvest/inputs-1.png",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"oT": 1,
 		"q": 100
 		},
-	"/images/harvest/inputs-existing.png": {
+	"/images/harvest/inputs-2.png": {
 		"ft": 32768,
-		"iS": 244725,
+		"iS": 208500,
 		"oA": 0,
-		"oAP": "/images/harvest/inputs-existing.png",
+		"oAP": "/images/harvest/inputs-2.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"/images/harvest/inputs-details-2.png": {
+		"ft": 32768,
+		"iS": 47378,
+		"oA": 0,
+		"oAP": "/images/harvest/inputs-details-2.png",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
