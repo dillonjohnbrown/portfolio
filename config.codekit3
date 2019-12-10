@@ -700,14 +700,14 @@
 		"oT": 1,
 		"q": 100
 		},
-	"/images/harvest/inputs-details-2.png": {
+	"/images/harvest/inputs-idea.png": {
 		"ft": 32768,
-		"iS": 47378,
+		"iS": 130097,
 		"oA": 0,
-		"oAP": "/images/harvest/inputs-details-2.png",
+		"oAP": "/images/harvest/inputs-idea.png",
 		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
+		"oIPL": 1,
+		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
@@ -730,17 +730,6 @@
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
-		"oT": 1,
-		"q": 100
-		},
-	"/images/harvest/jump-idea.png": {
-		"ft": 32768,
-		"iS": 130097,
-		"oA": 0,
-		"oAP": "/images/harvest/jump-idea.png",
-		"oF": 0,
-		"oIPL": 1,
-		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
