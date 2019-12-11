@@ -793,25 +793,14 @@
 		"oT": 1,
 		"q": 100
 		},
-	"/images/swanson/products_after-single.png": {
+	"/images/swanson/products_after.png": {
 		"ft": 32768,
 		"iS": 94095,
 		"oA": 0,
-		"oAP": "/images/swanson/products_after-single.png",
+		"oAP": "/images/swanson/products_after.png",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
-		"oT": 1,
-		"q": 100
-		},
-	"/images/swanson/products_after.png": {
-		"ft": 32768,
-		"iS": 756642,
-		"oA": 0,
-		"oAP": "/images/swanson/products_after.png",
-		"oF": 0,
-		"oIPL": 1,
-		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
