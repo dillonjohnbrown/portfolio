@@ -290,6 +290,28 @@
 		"oT": 1,
 		"q": 100
 		},
+	"/images/apps/podcast-app__wireframe-1.png": {
+		"ft": 32768,
+		"iS": 25706,
+		"oA": 0,
+		"oAP": "/images/apps/podcast-app__wireframe-1.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"/images/apps/podcast-app__wireframe-2.png": {
+		"ft": 32768,
+		"iS": 27064,
+		"oA": 0,
+		"oAP": "/images/apps/podcast-app__wireframe-2.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
 	"/images/apps/recipe-app.png": {
 		"ft": 32768,
 		"iS": 1885633,
