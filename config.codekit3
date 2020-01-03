@@ -193,6 +193,14 @@
 		"sI": 0,
 		"sU": 0
 		},
+	"/_build/test.kit": {
+		"cB": 0,
+		"ft": 2048,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/_build/test.html",
+		"oF": 0
+		},
 	"/_build/ui.kit": {
 		"cB": 0,
 		"ft": 2048,
