@@ -27,7 +27,8 @@
 
 /* Grid
 –––––––––––––––––––––––––––––––––––––––––––––––––– */
-main {
+main,
+section {
   position: relative;
   width: 100%;
   max-width: 960px;
@@ -42,14 +43,16 @@ main {
 
 /* For devices larger than 400px */
 @media (min-width: 400px) {
-  main {
+  main,
+  section {
     width: 85%;
     padding: 0; }
 }
 
 /* For devices larger than 550px */
 @media (min-width: 550px) {
-  main {
+  main,
+  section {
     width: 80%; }
   .column,
   .columns {
@@ -393,6 +396,7 @@ hr {
 
 /* Self Clearing Goodness */
 main:after,
+section:after,
 .row:after,
 .u-cf {
   content: "";
