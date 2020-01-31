@@ -18,7 +18,7 @@
 		"oF": 1
 		},
 	"/_build/art.kit": {
-		"cB": 0,
+		"cB": 1,
 		"ft": 2048,
 		"hM": 1,
 		"oA": 0,
@@ -89,12 +89,28 @@
 		"plM": 20937965535,
 		"prP": 1
 		},
+	"/_build/independent.kit": {
+		"cB": 1,
+		"ft": 2048,
+		"hM": 1,
+		"oA": 0,
+		"oAP": "/independent.html",
+		"oF": 2
+		},
 	"/_build/index.kit": {
-		"cB": 0,
+		"cB": 1,
 		"ft": 2048,
 		"hM": 1,
 		"oA": 0,
 		"oAP": "/index.html",
+		"oF": 2
+		},
+	"/_build/interface.kit": {
+		"cB": 1,
+		"ft": 2048,
+		"hM": 1,
+		"oA": 0,
+		"oAP": "/interface.html",
 		"oF": 2
 		},
 	"/_build/styles/animations.less": {
@@ -192,14 +208,6 @@
 		"rwU": 0,
 		"sI": 0,
 		"sU": 0
-		},
-	"/_build/ui.kit": {
-		"cB": 0,
-		"ft": 2048,
-		"hM": 1,
-		"oA": 0,
-		"oAP": "/ui.html",
-		"oF": 2
 		},
 	"/art.html": {
 		"cB": 0,
@@ -862,6 +870,14 @@
 		"oT": 1,
 		"q": 100
 		},
+	"/independent.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/independent.html",
+		"oF": 0
+		},
 	"/index.html": {
 		"cB": 0,
 		"ft": 8192,
@@ -876,14 +892,6 @@
 		"hM": 0,
 		"oA": 0,
 		"oAP": "/pdf/welcome.pdf",
-		"oF": 0
-		},
-	"/ui.html": {
-		"cB": 0,
-		"ft": 8192,
-		"hM": 0,
-		"oA": 0,
-		"oAP": "/ui.html",
 		"oF": 0
 		}
 	},
