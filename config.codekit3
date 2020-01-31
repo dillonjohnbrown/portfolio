@@ -105,14 +105,6 @@
 		"oAP": "/index.html",
 		"oF": 2
 		},
-	"/_build/interface.kit": {
-		"cB": 1,
-		"ft": 2048,
-		"hM": 1,
-		"oA": 0,
-		"oAP": "/interface.html",
-		"oF": 2
-		},
 	"/_build/styles/animations.less": {
 		"aP": 1,
 		"bl": 1,
