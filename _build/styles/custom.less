@@ -7,12 +7,14 @@
 @color__light:      hsla(19,  97%,  56%, 0.2);
 
 // Whites
-@color__body-bg:	hsla(19,  28%,  95%, 1.0);
 @color__white:		hsla( 0,   0%, 100%, 1.0);
+@color__body-bg:	hsla(19,  28%,  95%, 1.0);
+
+@color__light-blue:	#9AD2FA;
 
 // Blacks
-@color__black:		hsla(0,   0%,   13%, 1.0);
 @color__grey:		hsla(0,   0%,   13%, 0.5);
+@color__black:		hsla(0,   0%,   13%, 1.0);
 
 @import "normalize.less";
 @import "skeleton.less";
@@ -31,6 +33,9 @@ hr {
 	background: @color__light;
 	border: none !important;
 	border-color: transparent !important;
+	&.on-dark {
+		background: @color__white;	
+	}
 }
 
 .hover-effect {
@@ -98,13 +103,13 @@ footer {
 
 body {
 	font-feature-settings: 'ss02' 1;
+}
+.big-ol-border {
 	border: 1rem solid @color__medium;
 }
 ::selection {
 	background-color: @color__light;
 }
-
-
 .animation-toggle {
 	input,
 	label {
@@ -119,6 +124,10 @@ p a {
 	text-decoration-color: @color__medium;
 	color: inherit;
 	transition: all 0.75s ease;
+	&.on-dark {
+		color: @color__light-blue;
+		text-decoration-color: @color__white;
+	}
 }
 .center {
 	text-align: center;
@@ -161,6 +170,9 @@ cite,
 	font-style: italic;
 	color: @color__grey;
 	font-size: 1.25rem;
+	&.on-dark {
+		color: @color__light-blue
+	}
 }
 .no-list-style {
 	list-style: none;
@@ -170,6 +182,12 @@ blockquote {
 	background: @color__light;
 	padding: 3rem;
 	margin: 0 0 1rem 0;
+}
+.background-test {
+	background: url(/images/neon-background.png);
+	background-size: cover;
+	width: 100%;
+	
 }
 
 @import "animations.less";

@@ -41,3 +41,29 @@
 		color: @color__dark;
 	}
 }
+// Over dark bakcgrounds, like /art.html
+.on-dark {
+	h2,
+	.nav-a {
+		color: @color__light-blue;
+	}
+	.nav-a {
+		text-decoration-color: white;
+	}
+	.nav {
+		border-bottom: 2px solid @color__light-blue;
+	}
+	.nav-li {
+		&::after {
+			color: transparent;
+		}
+		&.active {
+			a {
+				color: @color__light-blue;
+			}
+			&::after {
+				color: @color__light-blue;
+			}
+		}
+	}
+}
