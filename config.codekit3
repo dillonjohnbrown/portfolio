@@ -72,8 +72,8 @@
 	"/_build/components/_svg-animation.svg": {
 		"ft": 2097152,
 		"miP": 0,
-		"oA": 1,
-		"oAP": "/_svg-animation__optimized.svg",
+		"oA": 0,
+		"oAP": "/_build/components/_svg-animation.svg",
 		"oF": 3,
 		"opt": 1,
 		"plM": 536764383,
