@@ -25,16 +25,6 @@
 		"oAP": "/art.html",
 		"oF": 2
 		},
-	"/_build/components/_art-transition.svg": {
-		"ft": 2097152,
-		"miP": 0,
-		"oA": 0,
-		"oAP": "/_build/components/_art-transition.svg",
-		"oF": 1,
-		"opt": 1,
-		"plM": 20937957343,
-		"prP": 1
-		},
 	"/_build/components/_code.svg": {
 		"ft": 2097152,
 		"miP": 0,
@@ -68,6 +58,16 @@
 		"oA": 1,
 		"oAP": "/_build/components/_header.html",
 		"oF": 0
+		},
+	"/_build/components/_sky.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 0,
+		"oAP": "/_build/components/_sky.svg",
+		"oF": 1,
+		"opt": 1,
+		"plM": 20937957375,
+		"prP": 1
 		},
 	"/_build/components/_swanson-forms-after.svg": {
 		"ft": 2097152,
@@ -234,17 +234,6 @@
 		"oA": 0,
 		"oAP": "/css/main.css.map",
 		"oF": 0
-		},
-	"/images/apps.png": {
-		"ft": 32768,
-		"iS": 1296860,
-		"oA": 0,
-		"oAP": "/images/apps.png",
-		"oF": 0,
-		"oIPL": 1,
-		"opt": 1,
-		"oT": 1,
-		"q": 100
 		},
 	"/images/apps/drug-combos-2.png": {
 		"ft": 32768,
@@ -783,17 +772,6 @@
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
-		"q": 100
-		},
-	"/images/neon-background.png": {
-		"ft": 32768,
-		"iS": 4149367,
-		"oA": 0,
-		"oAP": "/images/neon-background.png",
-		"oF": 0,
-		"oIPL": 1,
-		"opt": 1,
-		"oT": 1,
 		"q": 100
 		},
 	"/images/neon.png": {
