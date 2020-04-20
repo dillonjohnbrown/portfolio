@@ -16,14 +16,31 @@
 
 @import "normalize.less";
 @import "skeleton.less";
-@import "nav.less";
 
 main {
 	max-width: 800px;
 }
+// Nav
+.nav {
+	list-style: none;
+	padding: 20px 0;
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: center;
+	border-bottom: 2px solid @color__light;
+	margin-bottom: 4rem;
+	user-select: none;
+}
 header {
-	padding: 4rem 0 0 0;
-	margin-bottom: 0;
+	padding: 4rem 0;
+	margin-bottom: 4rem;
+	border-bottom: 2px solid @color__light;
+	&.on-dark {
+		border-bottom-color: @color__light-blue;
+		h2 {
+			color: @color__light-blue;
+		}
+	}
 }
 hr {
 	height: 2px;
@@ -189,5 +206,8 @@ blockquote {
 .white {
 	color: @color__white;
 }
-
+.index-image {
+	border-radius: 10px;
+	margin-bottom: 10px;
+}
 @import "print.less";
