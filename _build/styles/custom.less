@@ -36,6 +36,19 @@ header {
 	padding: 1.25rem 0;
 	margin-bottom: 4rem;
 	background-color: #E0D6D1;
+	main {
+		display: flex;
+		justify-content: space-between;
+		a {
+			// Name [bunch of space] other links
+			&:first-of-type {
+				flex-grow: 2;
+			}
+			&:not(:first-child) {
+				margin-left: 1rem;
+			}
+		}
+	}
 	a {
 		color: @color__black !important;
 		text-decoration-color: @color__dark;
