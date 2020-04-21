@@ -1,4 +1,4 @@
-<svg class="u-max-full-width hover-effect" viewBox="0 0 490 490" xmlns="http://www.w3.org/2000/svg">
+<svg class="u-max-full-width" viewBox="0 0 490 490" xmlns="http://www.w3.org/2000/svg">
     <g fill="none" fill-rule="evenodd">
         <path fill="#FFF" d="M0 0h490v490H0z"/>
         <rect stroke="#D9D9D9" fill="#F2F2F2" x="43.5" y="410.5" width="403" height="36" rx="3"/>
