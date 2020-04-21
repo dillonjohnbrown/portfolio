@@ -8,7 +8,7 @@
 @color__white:		hsla( 0,   0%, 100%, 1.0);
 @color__body-bg:	hsla(19,  28%,  95%, 1.0);
 
-@color__light-blue:	#9AD2FA;
+@color__light-blue:	#78DCE8;
 
 // Blacks
 @color__tar:		#2d2a2e;
@@ -33,13 +33,16 @@ main {
 	user-select: none;
 }
 header {
-	padding: 4rem 0;
+	padding: 1.25rem 0;
 	margin-bottom: 4rem;
-	border-bottom: 2px solid @color__light;
-	&.on-dark {
-		border-bottom-color: @color__light-blue;
-		h2 {
-			color: @color__light-blue;
+	background-color: #E0D6D1;
+	span {
+		font-weight: 900;
+	}
+	&.dark {
+		background-color: rgba(10, 10, 10, 0.5);
+		span {
+			color: @color__white;
 		}
 	}
 }
@@ -66,7 +69,7 @@ hr {
 }
 .grid {
 	display: grid;
-	grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+	grid-template-columns: 1fr 1fr;
 	grid-gap: 1em;
 }
 body.tar {
@@ -143,12 +146,6 @@ footer {
 	font-size: 2.4rem;
 }
 
-.big-ol-border {
-	border: 1rem solid @color__medium;
-}
-::selection {
-	background-color: @color__light;
-}
 .animation-toggle {
 	input,
 	label {
