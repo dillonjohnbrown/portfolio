@@ -924,6 +924,14 @@
 		"oAP": "/index.html",
 		"oF": 0
 		},
+	"/pdf/resume.pdf": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/pdf/resume.pdf",
+		"oF": 0
+		},
 	"/pdf/résumé.pdf": {
 		"cB": 0,
 		"ft": 8192,
