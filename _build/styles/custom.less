@@ -64,6 +64,9 @@ header {
 .bold-900 {
 	font-weight: 900;
 }
+.bold-600 {
+	font-weight: 600;
+}
 hr {
 	height: 2px;
 	margin: 4rem 0;
@@ -238,7 +241,20 @@ blockquote {
 }
 .index-image {
 	border-radius: 7px;
-	margin-bottom: 31.7px;
 	box-shadow: 0 10px 24px -6px rgba(0, 0, 0, 0.55);
+}
+.index-text {
+	margin-bottom: 7rem;
+	color: white;
+	p {
+		margin: 0;
+		&:first-of-type {
+			font-size: 2.25rem;
+			margin-top: 1rem;
+		}
+		&:last-of-type {
+			color: #b5acb8;
+		}
+	}
 }
 @import "print.less";
