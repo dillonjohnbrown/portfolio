@@ -915,6 +915,17 @@
 		"oT": 1,
 		"q": 100
 		},
+	"/images/the-drugulator/.background~imageoptim.jpg": {
+		"ft": 16384,
+		"iS": 997919,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/images/the-drugulator/.background~imageoptim.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
 	"/images/the-drugulator/background.jpg": {
 		"ft": 16384,
 		"iS": 997919,
