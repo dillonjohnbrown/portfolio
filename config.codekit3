@@ -265,55 +265,55 @@
 		"oAP": "/harvest-profit.html",
 		"oF": 0
 		},
-	"/images/app-mockups/music-app.png": {
+	"/images/app-concepts/music-app.png": {
 		"ft": 32768,
 		"iS": 2252564,
 		"oA": 0,
-		"oAP": "/images/app-mockups/music-app.png",
+		"oAP": "/images/app-concepts/music-app.png",
 		"oF": 0,
 		"oIPL": 1,
 		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
-	"/images/app-mockups/podcast-app.png": {
+	"/images/app-concepts/podcast-app.png": {
 		"ft": 32768,
 		"iS": 3112911,
 		"oA": 0,
-		"oAP": "/images/app-mockups/podcast-app.png",
+		"oAP": "/images/app-concepts/podcast-app.png",
 		"oF": 0,
 		"oIPL": 1,
 		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
-	"/images/app-mockups/podcast-app__wireframe-1.png": {
+	"/images/app-concepts/podcast-app__wireframe-1.png": {
 		"ft": 32768,
 		"iS": 25706,
 		"oA": 0,
-		"oAP": "/images/app-mockups/podcast-app__wireframe-1.png",
+		"oAP": "/images/app-concepts/podcast-app__wireframe-1.png",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"oT": 1,
 		"q": 100
 		},
-	"/images/app-mockups/podcast-app__wireframe-2.png": {
+	"/images/app-concepts/podcast-app__wireframe-2.png": {
 		"ft": 32768,
 		"iS": 27064,
 		"oA": 0,
-		"oAP": "/images/app-mockups/podcast-app__wireframe-2.png",
+		"oAP": "/images/app-concepts/podcast-app__wireframe-2.png",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"oT": 1,
 		"q": 100
 		},
-	"/images/app-mockups/recipe-app.png": {
+	"/images/app-concepts/recipe-app.png": {
 		"ft": 32768,
 		"iS": 1885633,
 		"oA": 0,
-		"oAP": "/images/app-mockups/recipe-app.png",
+		"oAP": "/images/app-concepts/recipe-app.png",
 		"oF": 0,
 		"oIPL": 1,
 		"opt": 1,
