@@ -17,12 +17,12 @@
 		"oAP": "/.gitignore",
 		"oF": 1
 		},
-	"/_build/app-mockups.kit": {
+	"/_build/app-concepts.kit": {
 		"cB": 1,
 		"ft": 2048,
 		"hM": 1,
 		"oA": 0,
-		"oAP": "/app-mockups.html",
+		"oAP": "/app-concepts.html",
 		"oF": 2
 		},
 	"/_build/art.kit": {
@@ -180,6 +180,14 @@
 		"oA": 0,
 		"oAP": "/the-drugulator.html",
 		"oF": 2
+		},
+	"/app-concepts.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/app-concepts.html",
+		"oF": 0
 		},
 	"/app-mockups.html": {
 		"cB": 0,
@@ -785,12 +793,12 @@
 		"oT": 1,
 		"q": 100
 		},
-	"/images/index/app-mockups.png": {
+	"/images/index/app-concepts.png": {
 		"ft": 32768,
-		"iS": 1797675,
-		"oA": 1,
-		"oAP": "/images/index/app-mockups.png",
-		"oF": 1,
+		"iS": 1832559,
+		"oA": 0,
+		"oAP": "/images/index/app-concepts.png",
+		"oF": 0,
 		"oIPL": 1,
 		"opt": 1,
 		"oT": 1,
