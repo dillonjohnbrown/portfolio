@@ -793,80 +793,157 @@
 		"oT": 1,
 		"q": 100
 		},
-	"/images/index/app-concepts.png": {
+	"/images/index/app-concepts_1x.png": {
 		"ft": 32768,
-		"iS": 1832559,
-		"oA": 0,
-		"oAP": "/images/index/app-concepts.png",
+		"iS": 98099,
+		"oA": 1,
+		"oAP": "/images/index/app-concepts_1x.png",
 		"oF": 0,
 		"oIPL": 1,
 		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
-	"/images/index/art.png": {
+	"/images/index/app-concepts_2x.png": {
 		"ft": 32768,
-		"iS": 1749055,
+		"iS": 338872,
 		"oA": 1,
-		"oAP": "/images/index/art.png",
-		"oF": 1,
+		"oAP": "/images/index/app-concepts_2x.png",
+		"oF": 0,
 		"oIPL": 1,
 		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
-	"/images/index/harvest-profit.png": {
+	"/images/index/art_1x.png": {
 		"ft": 32768,
-		"iS": 87319,
+		"iS": 115707,
 		"oA": 1,
-		"oAP": "/images/index/harvest-profit.png",
-		"oF": 1,
+		"oAP": "/images/index/art_1x.png",
+		"oF": 0,
 		"oIPL": 1,
 		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
-	"/images/index/nbbj.png": {
+	"/images/index/art_2x.png": {
+		"ft": 32768,
+		"iS": 439246,
+		"oA": 1,
+		"oAP": "/images/index/art_2x.png",
+		"oF": 0,
+		"oIPL": 1,
+		"opt": 1,
+		"oT": 1,
+		"q": 100
+		},
+	"/images/index/harvest-profit_1x.png": {
+		"ft": 32768,
+		"iS": 160638,
+		"oA": 1,
+		"oAP": "/images/index/harvest-profit_1x.png",
+		"oF": 0,
+		"oIPL": 1,
+		"opt": 1,
+		"oT": 1,
+		"q": 100
+		},
+	"/images/index/harvest-profit_2x.png": {
+		"ft": 32768,
+		"iS": 593144,
+		"oA": 1,
+		"oAP": "/images/index/harvest-profit_2x.png",
+		"oF": 0,
+		"oIPL": 1,
+		"opt": 1,
+		"oT": 1,
+		"q": 100
+		},
+	"/images/index/nbbj_1x.png": {
 		"ft": 32768,
 		"iS": 3556134,
 		"oA": 1,
-		"oAP": "/images/index/nbbj.png",
+		"oAP": "/images/index/nbbj_1x.png",
 		"oF": 1,
 		"oIPL": 1,
 		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
-	"/images/index/swanson-health-products.png": {
+	"/images/index/nbbj_2x.png": {
 		"ft": 32768,
-		"iS": 166517,
+		"iS": 593473,
 		"oA": 1,
-		"oAP": "/images/index/swanson-health-products.png",
-		"oF": 1,
+		"oAP": "/images/index/nbbj_2x.png",
+		"oF": 0,
 		"oIPL": 1,
 		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
-	"/images/index/tacoma-pressure-wash.png": {
+	"/images/index/swanson-health-products_1x.png": {
 		"ft": 32768,
-		"iS": 3272102,
+		"iS": 42288,
 		"oA": 1,
-		"oAP": "/images/index/tacoma-pressure-wash.png",
-		"oF": 1,
+		"oAP": "/images/index/swanson-health-products_1x.png",
+		"oF": 0,
 		"oIPL": 1,
 		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
-	"/images/index/the-drugulator.png": {
+	"/images/index/swanson-health-products_2x.png": {
 		"ft": 32768,
-		"iS": 3589339,
+		"iS": 105640,
 		"oA": 1,
-		"oAP": "/images/index/the-drugulator.png",
-		"oF": 1,
-		"oIPL": 0,
-		"opt": 0,
+		"oAP": "/images/index/swanson-health-products_2x.png",
+		"oF": 0,
+		"oIPL": 1,
+		"opt": 1,
+		"oT": 1,
+		"q": 100
+		},
+	"/images/index/tacoma-pressure-wash_1x.png": {
+		"ft": 32768,
+		"iS": 174730,
+		"oA": 1,
+		"oAP": "/images/index/tacoma-pressure-wash_1x.png",
+		"oF": 0,
+		"oIPL": 1,
+		"opt": 1,
+		"oT": 1,
+		"q": 100
+		},
+	"/images/index/tacoma-pressure-wash_2x.png": {
+		"ft": 32768,
+		"iS": 654002,
+		"oA": 1,
+		"oAP": "/images/index/tacoma-pressure-wash_2x.png",
+		"oF": 0,
+		"oIPL": 1,
+		"opt": 1,
+		"oT": 1,
+		"q": 100
+		},
+	"/images/index/the-drugulator_1x.png": {
+		"ft": 32768,
+		"iS": 598159,
+		"oA": 1,
+		"oAP": "/images/index/the-drugulator_1x.png",
+		"oF": 0,
+		"oIPL": 1,
+		"opt": 1,
+		"oT": 1,
+		"q": 100
+		},
+	"/images/index/the-drugulator_2x.png": {
+		"ft": 32768,
+		"iS": 2485218,
+		"oA": 1,
+		"oAP": "/images/index/the-drugulator_2x.png",
+		"oF": 0,
+		"oIPL": 1,
+		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
@@ -3035,7 +3112,7 @@
 		"shouldRunHTMLMinifier": 0
 		},
 	"languageDefaultsPNG": {
-		"autoOutputAction": 0,
+		"autoOutputAction": 1,
 		"autoOutputPathFilenamePattern": "*.png",
 		"autoOutputPathRelativePath": "",
 		"autoOutputPathReplace1": "",
