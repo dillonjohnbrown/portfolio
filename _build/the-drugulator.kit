@@ -22,6 +22,8 @@
 			$( "#closeWindow3" ).click(function() {
 				$(" #window3 ").remove();
 			});
+			
+			// $( "#window1, #window2, #window3" ).resizable()
 		} );
 	</script>
 	
@@ -106,15 +108,24 @@
 				-->
 				<div class="window draggable" id="window3">
 					<div class="title-bar">
-						<div class="title-bar-text">Image</div>
+						<div class="title-bar-text">Revision 4</div>
 						<div class="title-bar-controls">
 							<button aria-label="Close" id="closeWindow3"></button>
 						</div>
 					</div>
 					<div class="window-body">
-						<a href="https://dillonjohnbrown.github.io/drug-combos">
-							<img class="u-max-full-width" src="images/the-drugulator/the-drugulator-mockup.png">
-						</a>
+						<div class="row">
+							<div class="three columns">
+								<h3>Revision 4</h3>
+								<p>Here it is, the glorious fourth revision.</p>
+								<p>This UX tested poorly. No one should use it. Wait for Revesion 5&mdash;coming soon.</p>
+							</div>
+							<div class="nine columns">
+								<a href="https://dillonjohnbrown.github.io/drug-combos">
+									<img class="u-max-full-width" src="images/the-drugulator/the-drugulator-mockup.png">
+								</a>
+							</div>
+						</div>
 					</div>
 				</div>
 			</div>
