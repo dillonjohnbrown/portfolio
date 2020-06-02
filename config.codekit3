@@ -1074,25 +1074,80 @@
 		"oT": 1,
 		"q": 100
 		},
-	"/images/the-drugulator/background.jpg": {
-		"ft": 16384,
-		"iS": 997919,
-		"jF": 0,
-		"oA": 0,
-		"oAP": "/images/the-drugulator/background.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"/images/the-drugulator/the-drugulator-mockup.png": {
+	"/images/the-drugulator/4.png": {
 		"ft": 32768,
 		"iS": 217417,
 		"oA": 0,
-		"oAP": "/images/the-drugulator/the-drugulator-mockup.png",
+		"oAP": "/images/the-drugulator/4.png",
 		"oF": 0,
 		"oIPL": 1,
 		"opt": 1,
+		"oT": 1,
+		"q": 100
+		},
+	"/images/the-drugulator/5.png": {
+		"ft": 32768,
+		"iS": 945879,
+		"oA": 1,
+		"oAP": "/images/the-drugulator/5.png",
+		"oF": 0,
+		"oIPL": 1,
+		"opt": 1,
+		"oT": 1,
+		"q": 100
+		},
+	"/images/the-drugulator/6-combo.png": {
+		"ft": 32768,
+		"iS": 686135,
+		"oA": 1,
+		"oAP": "/images/the-drugulator/6-combo.png",
+		"oF": 0,
+		"oIPL": 1,
+		"opt": 1,
+		"oT": 1,
+		"q": 100
+		},
+	"/images/the-drugulator/6.png": {
+		"ft": 32768,
+		"iS": 1263662,
+		"oA": 1,
+		"oAP": "/images/the-drugulator/6.png",
+		"oF": 0,
+		"oIPL": 1,
+		"opt": 1,
+		"oT": 1,
+		"q": 100
+		},
+	"/images/the-drugulator/icon_1.png": {
+		"ft": 32768,
+		"iS": 1159,
+		"oA": 1,
+		"oAP": "/images/the-drugulator/icon_1.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"/images/the-drugulator/icon_2.png": {
+		"ft": 32768,
+		"iS": 503,
+		"oA": 1,
+		"oAP": "/images/the-drugulator/icon_2.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"/images/the-drugulator/icon_3.png": {
+		"ft": 32768,
+		"iS": 937,
+		"oA": 1,
+		"oAP": "/images/the-drugulator/icon_3.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
 		"oT": 1,
 		"q": 100
 		},

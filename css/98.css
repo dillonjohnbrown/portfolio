@@ -14,7 +14,8 @@
 	font-style: normal
 }
 body {
-	background: url(/images/the-drugulator/background.jpg) #118080;
+	/*background: url(/images/the-drugulator/background.jpg) #118080;*/
+	background: #118080;
 	background-repeat: no-repeat;
 }
 main {
@@ -145,7 +146,7 @@ button::-moz-focus-inner {
 	background-position: top 3px left 4px
 }
 .window-body {
-	margin: 8px
+	margin: 15px
 }
 fieldset {
 	border: none;
