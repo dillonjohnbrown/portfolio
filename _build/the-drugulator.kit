@@ -30,13 +30,24 @@
 			.icon p {
 				margin: 0;
 			}
-			.inset {
-				box-shadow:
-					inset -1px -1px #dfdfdf,
-					inset 1px 1px #0a0a0a,
-					inset -2px -2px #fff,
-					inset 2px 2px grey;
+			p {
+				font-size: 1.25rem;
+			}
+			.window-body img {
 				background: white;
+				padding: 10px;
+				box-shadow:
+					inset -1px -1px #fff,
+					inset 1px 1px #0a0a0a,
+					inset -2px -2px grey,
+					inset 2px 2px #dfdfdf;
+			}
+			.window {
+				margin-bottom: 4rem;
+			}
+			a {
+				color: #00f !important;
+				text-decoration-color: #00f !important;
 			}
 		</style>
 
@@ -188,11 +199,6 @@
 			</div>
 		</div>
 		
-		<!--
-			Spacer
-		-->
-		<div class="row" style="height: 4rem;"></div>
-		
 		<div class="row">
 			<div class="twelve columns">
 				<!--
@@ -213,25 +219,23 @@
 							</div>
 							<div class="nine columns">
 								<a href="https://dillonjohnbrown.github.io/drug-combos">
-									<img class="u-max-full-width inset" src="images/the-drugulator/6.png">
+									<img class="u-max-full-width" src="images/the-drugulator/6.png">
 								</a>
 							</div>
 						</div>
 						<div class="row">
 							<div class="three columns">
-								<p></p>
+								<p>I am extremely proud of this incarnation. I learned from the misteps of past versions and created a balanced, refined, and beautiful tool.</p>
+								<p>I encourage you to <a href="https://dillonjohnbrown.github.io/drug-combos">take it for a test drive</a>.</p>
 							</div>
 							<div class="nine columns">
-								<img class="u-max-full-width inset" src="images/the-drugulator/6-combo.png">
+								<a href="https://dillonjohnbrown.github.io/drug-combos">
+									<img class="u-max-full-width" src="images/the-drugulator/6-combo.png">
+								</a>
 							</div>
 						</div>
 					</div>
 				</div>
-				
-				<!--
-					Spacer
-				-->
-				<div class="row" style="height: 4rem;"></div>
 				
 				<!--
 					5.0
@@ -248,18 +252,14 @@
 							<div class="three columns">
 								<h1>5.0</h1>
 								<p>In this revision I rebuilt the site from the ground up.</p>
+								<p>The largest change was under the hood. I replaced <a href="https://github.com/dillonjohnbrown/drug-combos/blob/46af5e746aa139445e8d79969b07f9b638790612/js/main.js#L1">a fragile, hand-coded 2D JavaScript array</a>, with a <a href="https://github.com/TripSit/comboapp/blob/master/app/src/data/combo_beta.json">JSON file maintained by TripSit</a>.</p>
 							</div>
 							<div class="nine columns">
-								<img class="u-max-full-width inset" src="images/the-drugulator/5.png">
+								<img class="u-max-full-width" src="images/the-drugulator/5.png">
 							</div>
 						</div>
 					</div>
 				</div>
-				
-				<!--
-					Spacer
-				-->
-				<div class="row" style="height: 4rem;"></div>
 				
 				<!--
 					4.0
@@ -275,21 +275,17 @@
 						<div class="row">
 							<div class="three columns">
 								<h1>4.0</h1>
-								<p>Users were unsure how to use this version.</p>
+								<p>Users were unsure how to interact with this version, sentencing this design to the cutting room floor.</p>
+								<p>When building this design I wanted to challenge myself by using only black and white. Left to my own devices, I went a little too far and usability suffered.</p>
 							</div>
 							<div class="nine columns">
-								<img class="u-max-full-width inset" src="images/the-drugulator/4.png">
+								<img class="u-max-full-width" src="images/the-drugulator/4.png">
 							</div>
 						</div>
 					</div>
 				</div>
 			</div>
 		</div>
-		
-		<!--
-			Spacer
-		-->
-		<div class="row" style="height: 4rem;"></div>
 	</main>
 </body>
 </html>
