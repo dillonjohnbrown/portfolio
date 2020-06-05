@@ -41,6 +41,16 @@
 		"oAP": "/_build/components/_footer.html",
 		"oF": 0
 		},
+	"/_build/components/_goop.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 0,
+		"oAP": "/_build/components/_goop.svg",
+		"oF": 1,
+		"opt": 1,
+		"plM": 20937957343,
+		"prP": 1
+		},
 	"/_build/components/_head.kit": {
 		"cB": 0,
 		"ft": 2048,
@@ -57,56 +67,6 @@
 		"oF": 1,
 		"opt": 1,
 		"plM": 20937957375,
-		"prP": 1
-		},
-	"/_build/components/_social-icon__angellist.svg": {
-		"ft": 2097152,
-		"miP": 0,
-		"oA": 0,
-		"oAP": "/_build/components/_social-icon__angellist.svg",
-		"oF": 3,
-		"opt": 1,
-		"plM": 20937957343,
-		"prP": 1
-		},
-	"/_build/components/_social-icon__codepen.svg": {
-		"ft": 2097152,
-		"miP": 0,
-		"oA": 0,
-		"oAP": "/_build/components/_social-icon__codepen.svg",
-		"oF": 3,
-		"opt": 1,
-		"plM": 20937957343,
-		"prP": 1
-		},
-	"/_build/components/_social-icon__github.svg": {
-		"ft": 2097152,
-		"miP": 0,
-		"oA": 0,
-		"oAP": "/_build/components/_social-icon__github.svg",
-		"oF": 3,
-		"opt": 1,
-		"plM": 20937957343,
-		"prP": 1
-		},
-	"/_build/components/_social-icon__linkedin.svg": {
-		"ft": 2097152,
-		"miP": 0,
-		"oA": 0,
-		"oAP": "/_build/components/_social-icon__linkedin.svg",
-		"oF": 3,
-		"opt": 1,
-		"plM": 20937957343,
-		"prP": 1
-		},
-	"/_build/components/_social-icon__stackexchange.svg": {
-		"ft": 2097152,
-		"miP": 0,
-		"oA": 0,
-		"oAP": "/_build/components/_social-icon__stackexchange.svg",
-		"oF": 3,
-		"opt": 1,
-		"plM": 20937957343,
 		"prP": 1
 		},
 	"/_build/components/_swanson-forms-after.svg": {
