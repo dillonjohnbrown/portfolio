@@ -847,6 +847,17 @@
 		"oT": 1,
 		"q": 100
 		},
+	"/images/index/dillon.jpg": {
+		"ft": 16384,
+		"iS": 158393,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/images/index/dillon.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
 	"/images/index/harvest-profit_1x.png": {
 		"ft": 32768,
 		"iS": 160638,
@@ -955,17 +966,6 @@
 		"oIPL": 1,
 		"opt": 1,
 		"oT": 1,
-		"q": 100
-		},
-	"/images/mug.jpg": {
-		"ft": 16384,
-		"iS": 158393,
-		"jF": 0,
-		"oA": 0,
-		"oAP": "/images/mug.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
 		"q": 100
 		},
 	"/images/swanson-health-products/forms-before.png": {
