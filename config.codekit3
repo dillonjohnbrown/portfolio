@@ -275,14 +275,80 @@
 		"oAP": "/harvest-profit.html",
 		"oF": 0
 		},
-	"/images/app-concepts/music-app.png": {
+	"/images/app-concepts/music-app-1.png": {
+		"ft": 32768,
+		"iS": 438570,
+		"oA": 1,
+		"oAP": "/images/app-concepts/music-app-1.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"/images/app-concepts/music-app-2.png": {
+		"ft": 32768,
+		"iS": 597433,
+		"oA": 1,
+		"oAP": "/images/app-concepts/music-app-2.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"/images/app-concepts/music-app-3.png": {
+		"ft": 32768,
+		"iS": 118877,
+		"oA": 1,
+		"oAP": "/images/app-concepts/music-app-3.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"/images/app-concepts/music-app-hero.png": {
 		"ft": 32768,
 		"iS": 2252564,
 		"oA": 0,
-		"oAP": "/images/app-concepts/music-app.png",
+		"oAP": "/images/app-concepts/music-app-hero.png",
 		"oF": 0,
 		"oIPL": 1,
 		"opt": 1,
+		"oT": 1,
+		"q": 100
+		},
+	"/images/app-concepts/pocket-casts-1.png": {
+		"ft": 32768,
+		"iS": 176095,
+		"oA": 1,
+		"oAP": "/images/app-concepts/pocket-casts-1.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"/images/app-concepts/pocket-casts-2.png": {
+		"ft": 32768,
+		"iS": 179451,
+		"oA": 1,
+		"oAP": "/images/app-concepts/pocket-casts-2.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"/images/app-concepts/pocket-casts-3.png": {
+		"ft": 32768,
+		"iS": 133868,
+		"oA": 1,
+		"oAP": "/images/app-concepts/pocket-casts-3.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
 		"oT": 1,
 		"q": 100
 		},
