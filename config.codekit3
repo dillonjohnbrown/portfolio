@@ -330,6 +330,28 @@
 		"oT": 1,
 		"q": 100
 		},
+	"/images/app-concepts/music-app-5.png": {
+		"ft": 32768,
+		"iS": 648035,
+		"oA": 1,
+		"oAP": "/images/app-concepts/music-app-5.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"/images/app-concepts/music-app-6.png": {
+		"ft": 32768,
+		"iS": 115170,
+		"oA": 1,
+		"oAP": "/images/app-concepts/music-app-6.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
 	"/images/app-concepts/music-app-hero.png": {
 		"ft": 32768,
 		"iS": 2252564,
