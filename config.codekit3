@@ -275,6 +275,17 @@
 		"oAP": "/harvest-profit.html",
 		"oF": 0
 		},
+	"/images/app-concepts/apple-music-1.png": {
+		"ft": 32768,
+		"iS": 64554,
+		"oA": 1,
+		"oAP": "/images/app-concepts/apple-music-1.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
 	"/images/app-concepts/music-app-1.png": {
 		"ft": 32768,
 		"iS": 438570,
@@ -302,6 +313,17 @@
 		"iS": 118877,
 		"oA": 1,
 		"oAP": "/images/app-concepts/music-app-3.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"/images/app-concepts/music-app-4.png": {
+		"ft": 32768,
+		"iS": 415811,
+		"oA": 1,
+		"oAP": "/images/app-concepts/music-app-4.png",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
