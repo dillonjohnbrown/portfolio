@@ -32,9 +32,16 @@
 		a {
 			text-decoration-thickness: 2px;
 		}
+		.yellow-link {
+			text-decoration-color: #FFBD21;
+		}
+		.yellow-link:hover {
+			color: #FFBD21;
+			text-decoration-color: #FFBD21;
+		}
 	</style>
 	
-	<main>
+	<section>
 		<div class="row">
 			<div class="twelve columns">
 				<h1 style="color: #387BF6;">Mac Podcast App</h1>
@@ -46,7 +53,7 @@
 				<p>Somewhere in the creation of this mockup I realized I borrowed a lot from the exemplary <a href="https://ranchero.com/netnewswire/">NetNewsWire</a>. So I forked <a href="https://github.com/brentsimmons/NetNewsWire"> their repo on GitHub</a> and hope to use it to build my dream macOS podcast app. Someday...</p>
 			</div>
 		</div>
-	</main>
+	</section>
 	
 	<div class="row ">
 		<div class="twelve columns">
@@ -55,8 +62,11 @@
 			</a>
 		</div>
 	</div>
-
-	<main>
+	
+	<!--
+		MOBILE AUDIO APPS
+	-->
+	<section>
 		<div class="row">
 			<div class="twelve columns">
 				<h1 style="color:#FFBD21;">Mobile Audio Apps</h1>
@@ -68,7 +78,7 @@
 				<p>I want to make a suite of apps laser-focused on one medium each. I envision these audio apps sharing a codebase for much of their functionality and similar interfaces, each tailored to their content.</p>
 			</div>
 		</div>	
-	</main>
+	</section>
 
 	<div class="row">
 		<div class="twelve columns">
@@ -101,7 +111,7 @@
 			</div>
 			<div class="row" style="font-size: 1.2rem;">
 				<div class="two columns right-align">
-					<p>This is how a leading podcast app looks on a 4-inch iPhone screen.</p>
+					<p>This is a leading podcast app on a 4-inch iPhone screen.</p>
 				</div>
 				<div class="four columns">
 					<img class="u-max-full-width" src="images/app-concepts/pocket-casts-1.png" alt="">
@@ -115,8 +125,8 @@
 			</div>
 			<div class="row" style="font-size: 1.2rem;">
 				<div class="two columns right-align">
-					<p>This is how Pocket Casts presents a custom episode. </p>
-					<p>The files name is used instead of its metadata and "Custom Episode" takes the place of useful information.</p>
+					<p>This is how Pocket Casts presents a podcast I added.</p>
+					<p>The file name is used instead of its metadata, and "Custom Episode" is displayed instead of useful information.</p>
 				</div>
 				<div class="four columns">
 					<img class="u-max-full-width" src="images/app-concepts/pocket-casts-2.png" alt="">
@@ -140,8 +150,8 @@
 					<img class="u-max-full-width" src="images/app-concepts/music-app-3.png" alt="">
 				</div>
 				<div class="two columns">
-					<p>From the main player screen, swipe up or tap the bottom buttons for additional functionality.</p>
-					<p>The scrubber and playback buttons stay on screen. Swipe left or right to move to the queue or settings.</p>
+					<p>From the main player screen, swipe up or tap the bottom buttons for additional functionality. The scrubber and playback buttons stay on screen.</p>
+					<p>Swipe horizontally to move between the queue and settings tabs.</p>
 				</div>
 			</div>
 		</section>
@@ -160,43 +170,27 @@
 		
 	<div class="row" style="background: #F0F0F0; padding: 5rem 0; margin-bottom: 5rem;">
 		<section>
-			<div class="row">
-				<div class="four offset-by-two columns">
-					<h5>Apple Music</h5>
-				</div>
-				<div class="four columns right-align">
-					<h5>Mine</h5>
-				</div>
-			</div>
 			<div class="row" style="font-size: 1.2rem;">
-				<div class="two columns right-align">
-					<p>Apple Music <i>can</i> play your MP3s, but when you first launch the app there is no mention of this feature.</p>
-				</div>
-				<div class="four columns">
-					<img class="u-max-full-width" src="images/app-concepts/apple-music-1.png" alt="">
-				</div>
 				<div class="four columns">
 					<img class="u-max-full-width" src="images/app-concepts/music-app-4.png" alt="">
-				</div>
-				<div class="two columns">
-					<p><strong>Tap</strong> on the artwork to play or pause.</p>
-					<p><strong>Swipe</strong> left or right to change tracks. </p>
-				</div>
-			</div>
-			<div class="row" style="font-size: 1.2rem;">
-				<div class="two columns right-align">
-					<p>...</p>
-				</div>
-				<div class="four columns">
-					<img class="u-max-full-width" src="https://picsum.photos/640/1136" alt="">
+					<p><strong>Tap</strong> on the artwork to play or pause. <strong>Swipe</strong> left or right to change tracks. </p>
 				</div>
 				<div class="four columns">
 					<img class="u-max-full-width" src="images/app-concepts/music-app-6.png" alt="">
-				</div>
-				<div class="two columns">
 					<p>Your queue, settings, equalizer, and lyrics are one tap away.</p>
 				</div>
+				<div class="four columns">
+					<img class="u-max-full-width" src="images/app-concepts/music-app-9.png" alt="">
+					<p><a href="https://inessential.com/2019/07/02/no_algorithms" class="yellow-link">No algorithms</a>, no social &mdash; just your music.</p>
+				</div>
 			</div>
+			
+			<!-- <div class="row" style="font-size: 1.2rem;">
+				<div class="four columns">
+					<img class="u-max-full-width" src="images/app-concepts/apple-music-1.png" alt="">
+					<p>Apple Music <i>can</i> play your MP3s, but when you first launch the app there is no mention of this feature.</p>
+				</div>
+			</div> -->
 		</section>
 	</div>
 	
@@ -213,26 +207,53 @@
 		
 	<div class="row" style="background: #F0F0F0; padding: 5rem 0; margin-bottom: 5rem;">
 		<section>
+			<!--
+				MINE
+			-->
 			<div class="row">
-				<div class="four offset-by-two columns">
-					<h5>...</h5>
+				<div class="six columns">
+					<p>I haven't found any apps made just for comedy albums. Sure, you could toss your MP3s in your music app, but that's not ideal. Comedy bits come up when shuffling your music, and you are forced to use an interface made for music.</p>
 				</div>
-				<div class="four columns right-align">
-					<h5>Mine</h5>
+				<div class="six columns">
+					<p>My apps are so dead simple they seem obvious. Most of this looks the same as apps made 10 years ago. Good design is timeless afterall.</p>
 				</div>
 			</div>
-			<div class="row" style="font-size: 1.2rem;">
-				<div class="two columns right-align">
-					<p>...</p>
+			<div class="row">
+				<div class="four columns">
+					<img class="u-max-full-width" src="images/app-concepts/music-app-8.png" alt="">
 				</div>
 				<div class="four columns">
-					<img class="u-max-full-width" src="https://picsum.photos/640/1136" alt="">
+					<img class="u-max-full-width" src="images/app-concepts/music-app-7.png" alt="">
 				</div>
 				<div class="four columns">
 					<img class="u-max-full-width" src="images/app-concepts/music-app-5.png" alt="">
 				</div>
-				<div class="two columns">
-					<p>Instead of your comedy albums getting lost in your music library, they live in their own app.</p>
+			</div>
+			
+			<!--
+				THE COMPETITION
+			-->
+			<div class="row" style="margin-top: 4rem;">
+				<div class="twelve columns">
+					<h5>The Competition</h5>
+				</div>
+			</div>
+			<div class="row" style="font-size: 1.2rem;">
+				<div class="three columns">
+					<img class="u-max-full-width" src="images/app-concepts/laughable-1.png" alt="">
+					<p>You might think <a href="https://apps.apple.com/us/app/laughable/id1078473343" class="yellow-link">Laughable</a> is an app for stand-up comedy albums.</p>
+				</div>
+				<div class="three columns">
+					<img class="u-max-full-width" src="images/app-concepts/laughable-2.png" alt="">
+					<p>Turns out it's just a podcast aggregator.</p>
+				</div>
+				<div class="three columns">
+					<img class="u-max-full-width" src="images/app-concepts/comedy-app-stand-up-comedians-1.png" alt="">
+					<p>This is the self-proclaimed <a href="https://apps.apple.com/us/app/comedy-app-stand-up-comedians/id1419744081" class="yellow-link">#1 standup comedy app</a>.</p>
+				</div>
+				<div class="three columns">
+					<img class="u-max-full-width" src="images/app-concepts/comedy-app-stand-up-comedians-2.png" alt="">
+					<p>The app contains links to video clips on YouTube, not comedy albums.</p>
 				</div>
 			</div>
 		</section>
