@@ -31,8 +31,31 @@
 			color: #15BF5F;
 			text-decoration-color: #15BF5F;
 		}
-		.text-svg {
-			
+		.mobile-fix-i-dont-care-about-css-best-practices {
+			padding: 5rem 20px 5rem 20px;
+		}
+		.mobile-fix-i-dont-care-about-css-best-practices p {
+			text-align: left;
+		}
+		.center {
+			text-align: left;
+		}
+		.i-dont-like-css {
+			padding: 5rem 0 0 0;
+		}
+		@media (min-width: 550px) {
+			.mobile-fix-i-dont-care-about-css-best-practices {
+				padding: 5rem 0 5rem 0;
+			}
+			.mobile-fix-i-dont-care-about-css-best-practices p {
+				text-align: center;
+			}
+			.center {
+				text-align: center;
+			}
+			.i-dont-like-css {
+				padding: 15rem 0 0 0;
+			}
 		}
 	</style>
 	
@@ -90,10 +113,10 @@
 	</div>
 	
 	<!--
-		GESTURES?
+		GESTURES
 	-->
 	<div class="row" style="color: #161616; background-color: white">
-		<section style="padding: 5rem 0 5rem 0;">
+		<section class="mobile-fix-i-dont-care-about-css-best-practices">
 			<div class="ten offset-by-one center columns">
 				<!-- @include components/mobile-audio-ui/_text-gestures.svg -->
 				<p style="font-size: 2rem;">Gestures pack in more functionality without sacrificing screen space. However, they can be hard to find. In my design gestures are an additional way to use the interface.</p>
@@ -112,7 +135,7 @@
 	-->
 	<div class="row" style="background: #EFEFF4; color: #161616">
 		<section>
-			<div class="six columns" style="padding: 15rem 0 0 0;">
+			<div class="six columns i-dont-like-css">
 				<!-- @include components/mobile-audio-ui/_text-big-buttons.svg -->
 				<p style="font-size: 2rem;">The music app gets an option for even bigger buttons. Tap on the artwork to play/pause your music. Swipe left and right to change tracks.</p>
 			</div>
