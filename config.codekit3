@@ -139,6 +139,14 @@
 		"plM": 3758088159,
 		"prP": 0
 		},
+	"/_build/ereader-ui.kit": {
+		"cB": 1,
+		"ft": 2048,
+		"hM": 1,
+		"oA": 0,
+		"oAP": "/ereader-ui.html",
+		"oF": 2
+		},
 	"/_build/harvest-profit.kit": {
 		"cB": 1,
 		"ft": 2048,
@@ -317,6 +325,14 @@
 		"hM": 0,
 		"oA": 0,
 		"oAP": "/css/main.css.map",
+		"oF": 0
+		},
+	"/ereader-ui.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/ereader-ui.html",
 		"oF": 0
 		},
 	"/fonts/pressstart2p-regular-webfont.woff": {
@@ -725,6 +741,17 @@
 		"oF": 0,
 		"oIPL": 1,
 		"opt": 1,
+		"oT": 1,
+		"q": 100
+		},
+	"/images/ereader-ui/mockup.png": {
+		"ft": 32768,
+		"iS": 5281679,
+		"oA": 1,
+		"oAP": "/images/ereader-ui/mockup.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
 		"oT": 1,
 		"q": 100
 		},
