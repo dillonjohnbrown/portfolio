@@ -1,6 +1,37 @@
 <!DOCTYPE html>
 <html lang="en">
-<!-- @include components/_head.kit -->
+<head>
+	<!-- Basic Page Needs
+	–––––––––––––––––––––––––––––––––––––––––––––––––– -->
+	<meta charset="utf-8">
+	<title>Dillon Brown / Portfolio</title>
+	<meta name="description" content="">
+	<meta name="author" content="">
+
+	<!-- Mobile Specific Metas
+	–––––––––––––––––––––––––––––––––––––––––––––––––– -->
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+
+	<!-- CSS
+	–––––––––––––––––––––––––––––––––––––––––––––––––– -->
+	<link rel="stylesheet" href="css/main.css">
+	<style>
+		body {
+			background: #FB431E;
+		}
+		header {
+			background-color: #FB431E;
+		}
+		header a {
+			color: white !important;
+			text-decoration-color: white;
+		}
+	</style>
+
+	<!-- Favicon
+	–––––––––––––––––––––––––––––––––––––––––––––––––– -->
+	<link rel="icon" type="image/png" href="images/favicon.png">
+</head>
 <body>
 	<header>
 		<nav>
@@ -11,9 +42,20 @@
 	</header>
 	
 	<main>
+		<!--
+			Image
+		-->
+		<div class="row">
+			<div class="twelve columns">
+				<a href="https://tacomapw.com">
+					<!-- @include components/tacoma-pressure-wash/_logo.svg -->
+				</a>
+			</div>
+		</div>
+		
 		<!-- TACOMA PRESSURE WASH
 		–––––––––––––––––––––––––––––––––––––––––––––––––– -->
-		<div class="at-a-glance">
+		<div class="at-a-glance" style="margin-top: 5rem;">
 			<div class="row">
 				<div class="twelve columns">
 					<h1>Tacoma Pressure Wash</h1>
@@ -31,17 +73,6 @@
 						<a href="https://github.com/dillonjohnbrown/Tacoma-Pressure-Wash">GitHub</a>
 					</p>
 				</div>
-			</div>
-		</div>
-
-		<!--
-			Image
-		-->
-		<div class="row">
-			<div class="twelve columns">
-				<a href="https://tacomapw.com">
-					<img class="u-max-full-width hover-effect" src="images/tacoma-pressure-wash/tacomapw.png">
-				</a>
 			</div>
 		</div>
 	</main>
