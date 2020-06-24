@@ -99,6 +99,26 @@
 		"plM": 3758088191,
 		"prP": 1
 		},
+	"/_build/components/mobile-audio-ui/_text-hints.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 0,
+		"oAP": "/_build/components/mobile-audio-ui/_text-hints.svg",
+		"oF": 1,
+		"opt": 1,
+		"plM": 3758088159,
+		"prP": 1
+		},
+	"/_build/components/mobile-audio-ui/_text-intelligently-designed.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 0,
+		"oAP": "/_build/components/mobile-audio-ui/_text-intelligently-designed.svg",
+		"oF": 1,
+		"opt": 1,
+		"plM": 3758088159,
+		"prP": 1
+		},
 	"/_build/components/mobile-audio-ui/_text-lets-talk.svg": {
 		"ft": 2097152,
 		"miP": 0,
@@ -1096,6 +1116,17 @@
 		"oT": 1,
 		"q": 100
 		},
+	"/images/mobile-audio-ui/hints.png": {
+		"ft": 32768,
+		"iS": 136508,
+		"oA": 1,
+		"oAP": "/images/mobile-audio-ui/hints.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
 	"/images/mobile-audio-ui/phone-scrubber.png": {
 		"ft": 32768,
 		"iS": 149581,
@@ -1287,7 +1318,7 @@
 		"ft": 8192,
 		"hM": 0,
 		"oA": 0,
-		"oAP": "/pdf/résumé.pdf",
+		"oAP": "/pdf/résumé.pdf",
 		"oF": 0
 		},
 	"/pdf/welcome.pdf": {

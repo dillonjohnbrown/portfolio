@@ -6,23 +6,10 @@
 		body {
 			background: #161616;
 			color: #F5F5F7;
+			line-height: 1.45;
 		}
 		a {
 			text-decoration-thickness: 2px;
-		}
-		.yellow-link {
-			text-decoration-color: #FFBD21;
-		}
-		.yellow-link:hover {
-			color: #FFBD21;
-			text-decoration-color: #FFBD21;
-		}
-		.pink-link {
-			text-decoration-color: #BE1473;
-		}
-		.pink-link:hover {
-			color: #BE1473;
-			text-decoration-color: #BE1473;
 		}
 		.green-link {
 			text-decoration-color: #15BF5F;
@@ -34,27 +21,29 @@
 		.mobile-fix-i-dont-care-about-css-best-practices {
 			padding: 5rem 20px 5rem 20px;
 		}
-		.mobile-fix-i-dont-care-about-css-best-practices p {
-			text-align: left;
-		}
+		.mobile-fix-i-dont-care-about-css-best-practices p,
 		.center {
 			text-align: left;
 		}
 		.i-dont-like-css {
 			padding: 5rem 0 0 0;
 		}
+		.int-design {
+			margin-top: 3rem
+		}
 		@media (min-width: 550px) {
 			.mobile-fix-i-dont-care-about-css-best-practices {
 				padding: 5rem 0 5rem 0;
 			}
-			.mobile-fix-i-dont-care-about-css-best-practices p {
-				text-align: center;
-			}
+			.mobile-fix-i-dont-care-about-css-best-practices p,
 			.center {
 				text-align: center;
 			}
 			.i-dont-like-css {
 				padding: 15rem 0 0 0;
+			}
+			.int-design {
+				margin-top: 20rem
 			}
 		}
 	</style>
@@ -137,10 +126,29 @@
 		<section>
 			<div class="six columns i-dont-like-css">
 				<!-- @include components/mobile-audio-ui/_text-big-buttons.svg -->
-				<p style="font-size: 2rem;">The music app gets an option for even bigger buttons. Tap on the artwork to play/pause your music. Swipe left and right to change tracks.</p>
+				<p style="font-size: 2rem;">Are the media controls not big enough for your liking? My interface has an option to replace them.</p>
+				<p style="font-size: 2rem;">Tap on the artwork to play/pause your music. Swipe left and right to change tracks.</p>
 			</div>
-			<div class="six columns">
+			<div class="six columns" style="line-height: 0;">
 				<img class="u-max-full-width" src="images/mobile-audio-ui/buttons.png" alt="">
+			</div>
+		</section>
+	</div>
+	
+	
+	<!--
+		HINTS
+	-->
+	<div class="row" style="color: #161616">
+		<section>
+			<div class="six columns i-dont-like-css">
+				<!-- @include components/mobile-audio-ui/_text-hints.svg -->
+				<p style="font-size: 2rem; color: #a1a1a6">The shape around the bottom buttons is a clever detail to subtly hint at something more.</p>
+				<!-- @include components/mobile-audio-ui/_text-intelligently-designed.svg -->
+				<p style="font-size: 2rem; color: #a1a1a6">The scrubber (and buttons, if you like) stay on screen after scrolling. This allows you to control playback and read lyrics at the same time.</p>
+			</div>
+			<div class="six columns" style="line-height: 0;">
+				<img class="u-max-full-width" src="images/mobile-audio-ui/hints.png" alt="">
 			</div>
 		</section>
 	</div>
