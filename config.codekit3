@@ -159,6 +159,16 @@
 		"plM": 3758088159,
 		"prP": 0
 		},
+	"/_build/components/tacoma-pressure-wash/_logo.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 0,
+		"oAP": "/_build/components/tacoma-pressure-wash/_logo.svg",
+		"oF": 1,
+		"opt": 1,
+		"plM": 20937957375,
+		"prP": 1
+		},
 	"/_build/ereader-ui.kit": {
 		"cB": 1,
 		"ft": 2048,
@@ -1190,17 +1200,6 @@
 		"oF": 0,
 		"oIPL": 1,
 		"opt": 1,
-		"oT": 1,
-		"q": 100
-		},
-	"/images/tacoma-pressure-wash/tacomapw.png": {
-		"ft": 32768,
-		"iS": 99501,
-		"oA": 0,
-		"oAP": "/images/tacoma-pressure-wash/tacomapw.png",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
 		"oT": 1,
 		"q": 100
 		},
