@@ -33,14 +33,6 @@
 		"oAP": "/art.html",
 		"oF": 2
 		},
-	"/_build/components/_footer.kit": {
-		"cB": 0,
-		"ft": 2048,
-		"hM": 0,
-		"oA": 1,
-		"oAP": "/_build/components/_footer.html",
-		"oF": 0
-		},
 	"/_build/components/_goop.svg": {
 		"ft": 2097152,
 		"miP": 0,
@@ -50,14 +42,6 @@
 		"opt": 1,
 		"plM": 20937957343,
 		"prP": 1
-		},
-	"/_build/components/_head.kit": {
-		"cB": 0,
-		"ft": 2048,
-		"hM": 0,
-		"oA": 1,
-		"oAP": "/_build/components/_head.html",
-		"oF": 0
 		},
 	"/_build/components/_sky.svg": {
 		"ft": 2097152,
