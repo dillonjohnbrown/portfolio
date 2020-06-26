@@ -44,7 +44,8 @@
 		.center {
 			text-align: left;
 		}
-		.i-dont-like-css {
+		.padding-top-10,
+		.padding-top-20 {
 			padding: 5rem 0 0 0;
 		}
 		.int-design {
@@ -58,11 +59,14 @@
 			.center {
 				text-align: center;
 			}
-			.i-dont-like-css {
-				padding: 15rem 0 0 0;
+			.padding-top-10 {
+				padding: 10rem 0 0 0;
+			}
+			.padding-top-20 {
+				padding: 20rem 0 0 0;
 			}
 			.int-design {
-				margin-top: 20rem
+				margin-top: 10rem
 			}
 		}
 	</style>
@@ -168,7 +172,7 @@
 	-->
 	<div class="row" style="background: #F5F5F7; color: #161616">
 		<section>
-			<div class="six columns i-dont-like-css">
+			<div class="six columns padding-top-20">
 				<!-- @include components/mobile-audio-ui/_text-big-buttons.svg -->
 				<p style="font-size: 2rem;">Are the media controls not big enough for your liking? My interface has an option to replace them.</p>
 				<p style="font-size: 2rem;">Tap on the artwork to play/pause your music. Swipe left and right to change tracks.</p>
@@ -184,8 +188,8 @@
 		HINTS
 	-->
 	<div class="row" style="color: #161616">
-		<section>
-			<div class="six columns i-dont-like-css">
+		<section style="padding-bottom: 10rem;">
+			<div class="six columns padding-top-20">
 				<!-- @include components/mobile-audio-ui/_text-hints.svg -->
 				<p style="font-size: 2rem; color: #a1a1a6">The shape around the bottom buttons is a clever detail to subtly hint at something more.</p>
 				<!-- @include components/mobile-audio-ui/_text-intelligently-designed.svg -->
@@ -193,6 +197,26 @@
 			</div>
 			<div class="six columns" style="line-height: 0;">
 				<img class="u-max-full-width" src="images/mobile-audio-ui/hints.png" alt="">
+			</div>
+		</section>
+	</div>
+	
+	<!--
+		QUOTE
+	-->
+	<div class="row" style="background-color: white;">
+		<section>
+			<div class="eight offset-by-two columns center padding-top-10">
+				<p style="font-size: 2rem; color: #161616">"It makes it so hard to design a modern layout that looks good and scales well, to the larger phones, that also works on the four-inch phones."</p>
+				<p style="text-align: right; color: #a1a1a6;">&mdash; Marco Arment, designer of <a href="https://apps.apple.com/us/app/overcast-podcast-player/id888422857?ls=1">Overcast</a></p>
+				<!-- <a href="https://overcast.fm/+R7DXRXq1o/26:15">quote</a> -->
+			</div>
+		</section>
+	</div>
+	<div class="row" style="background-color: white;">
+		<section>
+			<div class="twelve columns center">
+				<img class="u-max-full-width" src="images/mobile-audio-ui/sizes.png" style="margin-bottom: 5rem;" alt="">
 			</div>
 		</section>
 	</div>
