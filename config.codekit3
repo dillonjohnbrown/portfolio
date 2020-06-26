@@ -1116,6 +1116,17 @@
 		"oT": 1,
 		"q": 100
 		},
+	"/images/mobile-audio-ui/sizes-2.png": {
+		"ft": 32768,
+		"iS": 104164,
+		"oA": 1,
+		"oAP": "/images/mobile-audio-ui/sizes-2.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
 	"/images/mobile-audio-ui/sizes.png": {
 		"ft": 32768,
 		"iS": 7095576,
