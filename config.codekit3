@@ -63,6 +63,56 @@
 		"plM": 3758022623,
 		"prP": 1
 		},
+	"/_build/components/mobile-audio-ui/_buttons.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 0,
+		"oAP": "/_build/components/mobile-audio-ui/_buttons.svg",
+		"oF": 1,
+		"opt": 1,
+		"plM": 20937957375,
+		"prP": 1
+		},
+	"/_build/components/mobile-audio-ui/_icon-audiobooks.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 0,
+		"oAP": "/_build/components/mobile-audio-ui/_icon-audiobooks.svg",
+		"oF": 1,
+		"opt": 1,
+		"plM": 20937957375,
+		"prP": 1
+		},
+	"/_build/components/mobile-audio-ui/_icon-comedy.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 0,
+		"oAP": "/_build/components/mobile-audio-ui/_icon-comedy.svg",
+		"oF": 1,
+		"opt": 1,
+		"plM": 20937957375,
+		"prP": 1
+		},
+	"/_build/components/mobile-audio-ui/_icon-music.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 0,
+		"oAP": "/_build/components/mobile-audio-ui/_icon-music.svg",
+		"oF": 1,
+		"opt": 1,
+		"plM": 20937957375,
+		"prP": 1
+		},
+	"/_build/components/mobile-audio-ui/_icon-podcasts.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 0,
+		"oAP": "/_build/components/mobile-audio-ui/_icon-podcasts.svg",
+		"oF": 1,
+		"opt": 1,
+		"plM": 20937957375,
+		"prP": 1
+		},
 	"/_build/components/mobile-audio-ui/_text-big-buttons.svg": {
 		"ft": 2097152,
 		"miP": 0,
@@ -1083,17 +1133,6 @@
 		"oT": 1,
 		"q": 100
 		},
-	"/images/mobile-audio-ui/Custom podcast Copy 3.png": {
-		"ft": 32768,
-		"iS": 565518,
-		"oA": 1,
-		"oAP": "/images/mobile-audio-ui/Custom podcast Copy 3.png",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"oT": 1,
-		"q": 100
-		},
 	"/images/mobile-audio-ui/gesture.png": {
 		"ft": 32768,
 		"iS": 853353,
@@ -1111,8 +1150,8 @@
 		"oA": 1,
 		"oAP": "/images/mobile-audio-ui/hints.png",
 		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
+		"oIPL": 1,
+		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
@@ -1122,8 +1161,8 @@
 		"oA": 1,
 		"oAP": "/images/mobile-audio-ui/phone-scrubber.png",
 		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
+		"oIPL": 1,
+		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
