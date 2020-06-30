@@ -1155,6 +1155,17 @@
 		"oT": 1,
 		"q": 100
 		},
+	"/images/mobile-audio-ui/ios-toggle.png": {
+		"ft": 32768,
+		"iS": 16711,
+		"oA": 1,
+		"oAP": "/images/mobile-audio-ui/ios-toggle.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
 	"/images/mobile-audio-ui/phone-scrubber.png": {
 		"ft": 32768,
 		"iS": 149581,
@@ -1341,7 +1352,7 @@
 		"oAP": "/pdf/resume.pdf",
 		"oF": 0
 		},
-	"/pdf/résumé.pdf": {
+	"/pdf/résumé.pdf": {
 		"cB": 0,
 		"ft": 8192,
 		"hM": 0,
