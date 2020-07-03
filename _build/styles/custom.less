@@ -105,62 +105,6 @@ h6 {
 	text-transform: uppercase;
 	letter-spacing: .1rem;
 }
-footer {
-    background: linear-gradient(-45deg, #ee7752, #e73c7e, #23a6d5, #23d5ab);
-	
-    background-size: 400% 400%;
-    animation: gradient 20s ease infinite;
-	font-size: 1.5rem;
-	margin-top: 5rem;
-	padding-bottom: 7rem;
-	svg {
-		position: relative;
-		top: -3px;
-		padding-bottom: 7rem;
-	}
-	a {
-		text-decoration-color: @color__white !important;
-		display: block;
-	}
-	&,
-	& a,
-	& a:hover {
-		color: white;
-	}
-	&,
-	p,
-	h1,
-	a {
-		&::selection {
-			background-color: @color__dark;
-		}
-	}
-	h5 {
-		text-transform: uppercase;
-		margin: 3rem 0 1rem 0;
-		opacity: 0.6;
-	}
-}
-@keyframes gradient {
-    0% {
-        background-position: 0% 50%;
-    }
-    50% {
-        background-position: 100% 50%;
-    }
-    100% {
-        background-position: 0% 50%;
-    }
-}
-.animation-toggle {
-	input,
-	label {
-		display: inline-block;
-	}
-	input {
-		margin-right: 5px;
-	}
-}
 
 p a {
 	text-decoration-color: @color__medium;
