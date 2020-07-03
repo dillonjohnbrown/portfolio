@@ -37,7 +37,7 @@ a {
 .frame__title {
 	font-size: 1rem;
 	margin: 0 0 1rem;
-	font-weight: 700;
+	font-weight: 900;
 }
 
 .frame__links {
@@ -161,11 +161,12 @@ footer {
 	.menu__item-img {
 		pointer-events: none;
 		position: absolute;
-		width: 40vw;
-		max-width: 400px;
+		width: 35vw;
+		max-width: 35vw;
 		opacity: 0;
 		left: 50%;
 		top: 50%;
+		transition: all .5s ease;
 		transform: translate3d(calc(-100% - 6vw),-30%,0) translate3d(0,20px,0);
 		border-radius: 4px;
 		z-index: 999;
