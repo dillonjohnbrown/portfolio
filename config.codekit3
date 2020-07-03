@@ -63,56 +63,6 @@
 		"plM": 3758022623,
 		"prP": 1
 		},
-	"/_build/components/mobile-audio-ui/_buttons.svg": {
-		"ft": 2097152,
-		"miP": 0,
-		"oA": 0,
-		"oAP": "/_build/components/mobile-audio-ui/_buttons.svg",
-		"oF": 1,
-		"opt": 1,
-		"plM": 20937957375,
-		"prP": 1
-		},
-	"/_build/components/mobile-audio-ui/_icon-audiobooks.svg": {
-		"ft": 2097152,
-		"miP": 0,
-		"oA": 0,
-		"oAP": "/_build/components/mobile-audio-ui/_icon-audiobooks.svg",
-		"oF": 1,
-		"opt": 1,
-		"plM": 20937957375,
-		"prP": 1
-		},
-	"/_build/components/mobile-audio-ui/_icon-comedy.svg": {
-		"ft": 2097152,
-		"miP": 0,
-		"oA": 0,
-		"oAP": "/_build/components/mobile-audio-ui/_icon-comedy.svg",
-		"oF": 1,
-		"opt": 1,
-		"plM": 20937957375,
-		"prP": 1
-		},
-	"/_build/components/mobile-audio-ui/_icon-music.svg": {
-		"ft": 2097152,
-		"miP": 0,
-		"oA": 0,
-		"oAP": "/_build/components/mobile-audio-ui/_icon-music.svg",
-		"oF": 1,
-		"opt": 1,
-		"plM": 20937957375,
-		"prP": 1
-		},
-	"/_build/components/mobile-audio-ui/_icon-podcasts.svg": {
-		"ft": 2097152,
-		"miP": 0,
-		"oA": 0,
-		"oAP": "/_build/components/mobile-audio-ui/_icon-podcasts.svg",
-		"oF": 1,
-		"opt": 1,
-		"plM": 20937957375,
-		"prP": 1
-		},
 	"/_build/components/mobile-audio-ui/_text-big-buttons.svg": {
 		"ft": 2097152,
 		"miP": 0,
@@ -251,6 +201,22 @@
 		"sI": 0,
 		"sU": 0
 		},
+	"/_build/styles/index.less": {
+		"aP": 1,
+		"bl": 0,
+		"eJ": 0,
+		"ft": 1,
+		"iI": 0,
+		"ma": 1,
+		"mS": 0,
+		"oA": 0,
+		"oAP": "/css/index.css",
+		"oF": 2,
+		"oS": 1,
+		"rwU": 0,
+		"sI": 0,
+		"sU": 0
+		},
 	"/_build/styles/normalize.less": {
 		"aP": 1,
 		"bl": 0,
@@ -364,6 +330,24 @@
 		"oAP": "/css/98-min.css",
 		"oF": 3,
 		"oS": 3
+		},
+	"/css/index.css": {
+		"aP": 1,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "/css/index-min.css",
+		"oF": 0,
+		"oS": 3
+		},
+	"/css/index.css.map": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/css/index.css.map",
+		"oF": 0
 		},
 	"/css/main.css": {
 		"aP": 1,
@@ -935,33 +919,11 @@
 		"oT": 1,
 		"q": 100
 		},
-	"/images/index/app-concepts_1x.png": {
-		"ft": 32768,
-		"iS": 108699,
-		"oA": 1,
-		"oAP": "/images/index/app-concepts_1x.png",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"oT": 1,
-		"q": 100
-		},
 	"/images/index/app-concepts_2x.png": {
 		"ft": 32768,
 		"iS": 368222,
 		"oA": 1,
 		"oAP": "/images/index/app-concepts_2x.png",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"oT": 1,
-		"q": 100
-		},
-	"/images/index/art_1x.png": {
-		"ft": 32768,
-		"iS": 106988,
-		"oA": 1,
-		"oAP": "/images/index/art_1x.png",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
@@ -990,33 +952,11 @@
 		"opt": 0,
 		"q": 100
 		},
-	"/images/index/harvest-profit_1x.png": {
-		"ft": 32768,
-		"iS": 152505,
-		"oA": 1,
-		"oAP": "/images/index/harvest-profit_1x.png",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"oT": 1,
-		"q": 100
-		},
 	"/images/index/harvest-profit_2x.png": {
 		"ft": 32768,
 		"iS": 567167,
 		"oA": 1,
 		"oAP": "/images/index/harvest-profit_2x.png",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"oT": 1,
-		"q": 100
-		},
-	"/images/index/mobile-audio-ui_1x.png": {
-		"ft": 32768,
-		"iS": 125078,
-		"oA": 1,
-		"oAP": "/images/index/mobile-audio-ui_1x.png",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
@@ -1034,33 +974,11 @@
 		"oT": 1,
 		"q": 100
 		},
-	"/images/index/nbbj_1x.png": {
-		"ft": 32768,
-		"iS": 170217,
-		"oA": 1,
-		"oAP": "/images/index/nbbj_1x.png",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"oT": 1,
-		"q": 100
-		},
 	"/images/index/nbbj_2x.png": {
 		"ft": 32768,
 		"iS": 635170,
 		"oA": 1,
 		"oAP": "/images/index/nbbj_2x.png",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"oT": 1,
-		"q": 100
-		},
-	"/images/index/swanson-health-products_1x.png": {
-		"ft": 32768,
-		"iS": 24132,
-		"oA": 1,
-		"oAP": "/images/index/swanson-health-products_1x.png",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
@@ -1078,33 +996,11 @@
 		"oT": 1,
 		"q": 100
 		},
-	"/images/index/tacoma-pressure-wash_1x.png": {
-		"ft": 32768,
-		"iS": 167905,
-		"oA": 1,
-		"oAP": "/images/index/tacoma-pressure-wash_1x.png",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"oT": 1,
-		"q": 100
-		},
 	"/images/index/tacoma-pressure-wash_2x.png": {
 		"ft": 32768,
 		"iS": 614660,
 		"oA": 1,
 		"oAP": "/images/index/tacoma-pressure-wash_2x.png",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"oT": 1,
-		"q": 100
-		},
-	"/images/index/the-drugulator_1x.png": {
-		"ft": 32768,
-		"iS": 134840,
-		"oA": 1,
-		"oAP": "/images/index/the-drugulator_1x.png",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
@@ -1152,17 +1048,6 @@
 		"oF": 0,
 		"oIPL": 1,
 		"opt": 1,
-		"oT": 1,
-		"q": 100
-		},
-	"/images/mobile-audio-ui/ios-toggle.png": {
-		"ft": 32768,
-		"iS": 16711,
-		"oA": 1,
-		"oAP": "/images/mobile-audio-ui/ios-toggle.png",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
 		"oT": 1,
 		"q": 100
 		},
