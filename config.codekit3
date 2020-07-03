@@ -919,17 +919,6 @@
 		"oT": 1,
 		"q": 100
 		},
-	"/images/index/app-concepts_1x.png": {
-		"ft": 32768,
-		"iS": 100725,
-		"oA": 1,
-		"oAP": "/images/index/app-concepts_1x.png",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"oT": 1,
-		"q": 100
-		},
 	"/images/index/app-concepts_2x.png": {
 		"ft": 32768,
 		"iS": 368222,
@@ -963,17 +952,6 @@
 		"opt": 0,
 		"q": 100
 		},
-	"/images/index/harvest-profit_1x.png": {
-		"ft": 32768,
-		"iS": 255066,
-		"oA": 1,
-		"oAP": "/images/index/harvest-profit_1x.png",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"oT": 1,
-		"q": 100
-		},
 	"/images/index/harvest-profit_2x.png": {
 		"ft": 32768,
 		"iS": 567167,
@@ -985,33 +963,11 @@
 		"oT": 1,
 		"q": 100
 		},
-	"/images/index/mobile-audio-ui_1x.png": {
-		"ft": 32768,
-		"iS": 213870,
-		"oA": 1,
-		"oAP": "/images/index/mobile-audio-ui_1x.png",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"oT": 1,
-		"q": 100
-		},
 	"/images/index/mobile-audio-ui_2x.png": {
 		"ft": 32768,
-		"iS": 506660,
+		"iS": 1072141,
 		"oA": 1,
 		"oAP": "/images/index/mobile-audio-ui_2x.png",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"oT": 1,
-		"q": 100
-		},
-	"/images/index/nbbj_1x.png": {
-		"ft": 32768,
-		"iS": 291548,
-		"oA": 1,
-		"oAP": "/images/index/nbbj_1x.png",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
@@ -1023,17 +979,6 @@
 		"iS": 635170,
 		"oA": 1,
 		"oAP": "/images/index/nbbj_2x.png",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"oT": 1,
-		"q": 100
-		},
-	"/images/index/swanson-health-products_1x.png": {
-		"ft": 32768,
-		"iS": 28154,
-		"oA": 1,
-		"oAP": "/images/index/swanson-health-products_1x.png",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
@@ -1056,28 +1001,6 @@
 		"iS": 614660,
 		"oA": 1,
 		"oAP": "/images/index/tacoma-pressure-wash_2x.png",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"oT": 1,
-		"q": 100
-		},
-	"/images/index/the-drugulator.png": {
-		"ft": 32768,
-		"iS": 3049637,
-		"oA": 1,
-		"oAP": "/images/index/the-drugulator.png",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"oT": 1,
-		"q": 100
-		},
-	"/images/index/the-drugulator_1x.png": {
-		"ft": 32768,
-		"iS": 231558,
-		"oA": 1,
-		"oAP": "/images/index/the-drugulator_1x.png",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
@@ -1314,7 +1237,7 @@
 		"oAP": "/pdf/resume.pdf",
 		"oF": 0
 		},
-	"/pdf/résumé.pdf": {
+	"/pdf/résumé.pdf": {
 		"cB": 0,
 		"ft": 8192,
 		"hM": 0,
