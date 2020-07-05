@@ -63,6 +63,16 @@
 		"plM": 3758022623,
 		"prP": 1
 		},
+	"/_build/components/index/_test.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 1,
+		"oAP": "/_build/components/index/_test.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
+		},
 	"/_build/components/mobile-audio-ui/_text-big-buttons.svg": {
 		"ft": 2097152,
 		"miP": 0,
@@ -138,16 +148,6 @@
 		"miP": 0,
 		"oA": 0,
 		"oAP": "/_build/components/mobile-audio-ui/_touch-targets.svg",
-		"oF": 1,
-		"opt": 1,
-		"plM": 20937957375,
-		"prP": 1
-		},
-	"/_build/components/tacoma-pressure-wash/_logo.svg": {
-		"ft": 2097152,
-		"miP": 0,
-		"oA": 0,
-		"oAP": "/_build/components/tacoma-pressure-wash/_logo.svg",
 		"oF": 1,
 		"opt": 1,
 		"plM": 20937957375,
