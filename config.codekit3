@@ -903,77 +903,77 @@
 		"oT": 1,
 		"q": 100
 		},
-	"/images/index/app-concepts_2x.png": {
+	"/images/index/app-concepts.png": {
 		"ft": 32768,
 		"iS": 1670821,
 		"oA": 1,
-		"oAP": "/images/index/app-concepts_2x.png",
+		"oAP": "/images/index/app-concepts.png",
 		"oF": 0,
 		"oIPL": 1,
 		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
-	"/images/index/art_2x.png": {
+	"/images/index/art.png": {
 		"ft": 32768,
 		"iS": 370284,
 		"oA": 1,
-		"oAP": "/images/index/art_2x.png",
+		"oAP": "/images/index/art.png",
 		"oF": 0,
 		"oIPL": 1,
 		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
-	"/images/index/harvest-profit_2x.png": {
+	"/images/index/harvest-profit.png": {
 		"ft": 32768,
 		"iS": 567167,
 		"oA": 1,
-		"oAP": "/images/index/harvest-profit_2x.png",
+		"oAP": "/images/index/harvest-profit.png",
 		"oF": 0,
 		"oIPL": 1,
 		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
-	"/images/index/mobile-audio-ui_2x.png": {
+	"/images/index/mobile-audio-ui.png": {
 		"ft": 32768,
 		"iS": 1312889,
 		"oA": 1,
-		"oAP": "/images/index/mobile-audio-ui_2x.png",
+		"oAP": "/images/index/mobile-audio-ui.png",
 		"oF": 0,
 		"oIPL": 1,
 		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
-	"/images/index/nbbj_2x.png": {
+	"/images/index/nbbj.png": {
 		"ft": 32768,
 		"iS": 635170,
 		"oA": 1,
-		"oAP": "/images/index/nbbj_2x.png",
+		"oAP": "/images/index/nbbj.png",
 		"oF": 0,
 		"oIPL": 1,
 		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
-	"/images/index/swanson-health-products_2x.png": {
+	"/images/index/swanson-health-products.png": {
 		"ft": 32768,
 		"iS": 54372,
 		"oA": 1,
-		"oAP": "/images/index/swanson-health-products_2x.png",
+		"oAP": "/images/index/swanson-health-products.png",
 		"oF": 0,
 		"oIPL": 1,
 		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
-	"/images/index/the-drugulator_2x.png": {
+	"/images/index/the-drugulator.png": {
 		"ft": 32768,
 		"iS": 537314,
 		"oA": 1,
-		"oAP": "/images/index/the-drugulator_2x.png",
+		"oAP": "/images/index/the-drugulator.png",
 		"oF": 0,
 		"oIPL": 1,
 		"opt": 1,
