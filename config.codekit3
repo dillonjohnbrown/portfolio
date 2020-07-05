@@ -273,14 +273,6 @@
 		"oAP": "/swanson-health-products.html",
 		"oF": 2
 		},
-	"/_build/tacoma-pressure-wash.kit": {
-		"cB": 1,
-		"ft": 2048,
-		"hM": 1,
-		"oA": 0,
-		"oAP": "/tacoma-pressure-wash.html",
-		"oF": 2
-		},
 	"/_build/the-drugulator.kit": {
 		"cB": 1,
 		"ft": 2048,
@@ -1207,28 +1199,12 @@
 		"oAP": "/nbbj.html",
 		"oF": 0
 		},
-	"/pdf/resume.pdf": {
+	"/resume.pdf": {
 		"cB": 0,
 		"ft": 8192,
 		"hM": 0,
 		"oA": 0,
-		"oAP": "/pdf/resume.pdf",
-		"oF": 0
-		},
-	"/pdf/résumé.pdf": {
-		"cB": 0,
-		"ft": 8192,
-		"hM": 0,
-		"oA": 0,
-		"oAP": "/pdf/résumé.pdf",
-		"oF": 0
-		},
-	"/pdf/welcome.pdf": {
-		"cB": 0,
-		"ft": 8192,
-		"hM": 0,
-		"oA": 0,
-		"oAP": "/pdf/welcome.pdf",
+		"oAP": "/resume.pdf",
 		"oF": 0
 		},
 	"/swanson-health-products.html": {
@@ -1237,14 +1213,6 @@
 		"hM": 0,
 		"oA": 0,
 		"oAP": "/swanson-health-products.html",
-		"oF": 0
-		},
-	"/tacoma-pressure-wash.html": {
-		"cB": 0,
-		"ft": 8192,
-		"hM": 0,
-		"oA": 0,
-		"oAP": "/tacoma-pressure-wash.html",
 		"oF": 0
 		},
 	"/the-drugulator.html": {
