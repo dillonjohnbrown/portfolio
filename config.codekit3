@@ -63,16 +63,6 @@
 		"plM": 3758022623,
 		"prP": 1
 		},
-	"/_build/components/index/_test.svg": {
-		"ft": 2097152,
-		"miP": 0,
-		"oA": 1,
-		"oAP": "/_build/components/index/_test.svg",
-		"oF": 0,
-		"opt": 0,
-		"plM": 3758088159,
-		"prP": 0
-		},
 	"/_build/components/mobile-audio-ui/_text-big-buttons.svg": {
 		"ft": 2097152,
 		"miP": 0,
@@ -900,6 +890,17 @@
 		"oF": 0,
 		"oIPL": 1,
 		"opt": 1,
+		"oT": 1,
+		"q": 100
+		},
+	"/images/index/2.png": {
+		"ft": 32768,
+		"iS": 772761,
+		"oA": 1,
+		"oAP": "/images/index/2.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
 		"oT": 1,
 		"q": 100
 		},
