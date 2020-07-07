@@ -926,17 +926,6 @@
 		"oT": 1,
 		"q": 100
 		},
-	"/images/index/hero.png": {
-		"ft": 32768,
-		"iS": 2891853,
-		"oA": 1,
-		"oAP": "/images/index/hero.png",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"oT": 1,
-		"q": 100
-		},
 	"/images/index/mobile-audio-ui.png": {
 		"ft": 32768,
 		"iS": 1312889,
