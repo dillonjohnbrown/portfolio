@@ -123,6 +123,16 @@
 		"plM": 3758088191,
 		"prP": 1
 		},
+	"/_build/components/mobile-audio-ui/_text-words.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 0,
+		"oAP": "/_build/components/mobile-audio-ui/_text-words.svg",
+		"oF": 1,
+		"opt": 1,
+		"plM": 3758088191,
+		"prP": 1
+		},
 	"/_build/components/mobile-audio-ui/_touch-targets-2.svg": {
 		"ft": 2097152,
 		"miP": 0,
@@ -986,6 +996,17 @@
 		"iS": 136508,
 		"oA": 1,
 		"oAP": "/images/mobile-audio-ui/hints.png",
+		"oF": 0,
+		"oIPL": 1,
+		"opt": 1,
+		"oT": 1,
+		"q": 100
+		},
+	"/images/mobile-audio-ui/intro.png": {
+		"ft": 32768,
+		"iS": 9480282,
+		"oA": 1,
+		"oAP": "/images/mobile-audio-ui/intro.png",
 		"oF": 0,
 		"oIPL": 1,
 		"opt": 1,
