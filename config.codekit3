@@ -1005,7 +1005,7 @@
 	"/images/mobile-audio-ui/intro.png": {
 		"ft": 32768,
 		"iS": 9480282,
-		"oA": 0,
+		"oA": 1,
 		"oAP": "/images/mobile-audio-ui/intro.png",
 		"oF": 1,
 		"oIPL": 1,
