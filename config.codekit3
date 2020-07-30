@@ -1033,17 +1033,6 @@
 		"oT": 1,
 		"q": 100
 		},
-	"/images/mobile-audio-ui/hints.png": {
-		"ft": 32768,
-		"iS": 136508,
-		"oA": 1,
-		"oAP": "/images/mobile-audio-ui/hints.png",
-		"oF": 0,
-		"oIPL": 1,
-		"opt": 1,
-		"oT": 1,
-		"q": 100
-		},
 	"/images/mobile-audio-ui/intro.png": {
 		"ft": 32768,
 		"iS": 9480282,
@@ -1061,17 +1050,6 @@
 		"oA": 1,
 		"oAP": "/images/mobile-audio-ui/phone-scrubber.png",
 		"oF": 0,
-		"oIPL": 1,
-		"opt": 1,
-		"oT": 1,
-		"q": 100
-		},
-	"/images/mobile-audio-ui/sizes.png": {
-		"ft": 32768,
-		"iS": 7095576,
-		"oA": 1,
-		"oAP": "/images/mobile-audio-ui/sizes.png",
-		"oF": 1,
 		"oIPL": 1,
 		"opt": 1,
 		"oT": 1,
