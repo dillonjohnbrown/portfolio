@@ -63,6 +63,16 @@
 		"plM": 3758022623,
 		"prP": 1
 		},
+	"/_build/components/mobile-audio-ui/_chapters.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 1,
+		"oAP": "/_build/components/mobile-audio-ui/_chapters.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
+		},
 	"/_build/components/mobile-audio-ui/_subtle.svg": {
 		"ft": 2097152,
 		"miP": 0,
@@ -122,6 +132,16 @@
 		"opt": 1,
 		"plM": 3758088191,
 		"prP": 1
+		},
+	"/_build/components/mobile-audio-ui/_text-super-scrubber.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 1,
+		"oAP": "/_build/components/mobile-audio-ui/_text-super-scrubber.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
 		},
 	"/_build/components/mobile-audio-ui/_text-words.svg": {
 		"ft": 2097152,
