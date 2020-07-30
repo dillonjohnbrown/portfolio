@@ -1017,8 +1017,8 @@
 		"oA": 1,
 		"oAP": "/images/mobile-audio-ui/gesture_2.png",
 		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
+		"oIPL": 1,
+		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
@@ -1028,8 +1028,8 @@
 		"oA": 1,
 		"oAP": "/images/mobile-audio-ui/gesture_3.png",
 		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
+		"oIPL": 1,
+		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
