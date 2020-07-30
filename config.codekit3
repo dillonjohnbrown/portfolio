@@ -1022,6 +1022,17 @@
 		"oT": 1,
 		"q": 100
 		},
+	"/images/mobile-audio-ui/gesture_3.png": {
+		"ft": 32768,
+		"iS": 647500,
+		"oA": 1,
+		"oAP": "/images/mobile-audio-ui/gesture_3.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
 	"/images/mobile-audio-ui/hints.png": {
 		"ft": 32768,
 		"iS": 136508,
