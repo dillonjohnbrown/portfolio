@@ -63,11 +63,31 @@
 		"plM": 3758022623,
 		"prP": 1
 		},
-	"/_build/components/mobile-audio-ui/_chapters.svg": {
+	"/_build/components/mobile-audio-ui/_chapters_1.svg": {
 		"ft": 2097152,
 		"miP": 0,
 		"oA": 0,
-		"oAP": "/_build/components/mobile-audio-ui/_chapters.svg",
+		"oAP": "/_build/components/mobile-audio-ui/_chapters_1.svg",
+		"oF": 1,
+		"opt": 1,
+		"plM": 20937957375,
+		"prP": 1
+		},
+	"/_build/components/mobile-audio-ui/_chapters_2.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 0,
+		"oAP": "/_build/components/mobile-audio-ui/_chapters_2.svg",
+		"oF": 1,
+		"opt": 1,
+		"plM": 20937957375,
+		"prP": 1
+		},
+	"/_build/components/mobile-audio-ui/_chapters_3.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 0,
+		"oAP": "/_build/components/mobile-audio-ui/_chapters_3.svg",
 		"oF": 1,
 		"opt": 1,
 		"plM": 20937957375,
