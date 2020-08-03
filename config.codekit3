@@ -113,6 +113,16 @@
 		"plM": 3758088191,
 		"prP": 1
 		},
+	"/_build/components/mobile-audio-ui/_text-glitch.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 1,
+		"oAP": "/_build/components/mobile-audio-ui/_text-glitch.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
+		},
 	"/_build/components/mobile-audio-ui/_text-hints.svg": {
 		"ft": 2097152,
 		"miP": 0,
@@ -1056,7 +1066,7 @@
 	"/images/mobile-audio-ui/intro.png": {
 		"ft": 32768,
 		"iS": 9480282,
-		"oA": 0,
+		"oA": 1,
 		"oAP": "/images/mobile-audio-ui/intro.png",
 		"oF": 1,
 		"oIPL": 1,
