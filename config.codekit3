@@ -121,16 +121,6 @@
 		"plM": 3758088191,
 		"prP": 1
 		},
-	"/_build/components/mobile-audio-ui/_text-glitch.svg": {
-		"ft": 2097152,
-		"miP": 0,
-		"oA": 1,
-		"oAP": "/_build/components/mobile-audio-ui/_text-glitch.svg",
-		"oF": 0,
-		"opt": 0,
-		"plM": 3758088159,
-		"prP": 0
-		},
 	"/_build/components/mobile-audio-ui/_text-hints.svg": {
 		"ft": 2097152,
 		"miP": 0,
@@ -225,6 +215,14 @@
 		"hM": 1,
 		"oA": 0,
 		"oAP": "/index.html",
+		"oF": 2
+		},
+	"/_build/inspiration.kit": {
+		"cB": 1,
+		"ft": 2048,
+		"hM": 1,
+		"oA": 0,
+		"oAP": "/inspiration.html",
 		"oF": 2
 		},
 	"/_build/mobile-audio-ui.kit": {
@@ -361,6 +359,14 @@
 		"hM": 0,
 		"oA": 0,
 		"oAP": "/ate.html",
+		"oF": 0
+		},
+	"/bunch-inspiration.mov": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/bunch-inspiration.mov",
 		"oF": 0
 		},
 	"/CNAME": {
