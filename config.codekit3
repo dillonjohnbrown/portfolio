@@ -217,14 +217,6 @@
 		"oAP": "/index.html",
 		"oF": 2
 		},
-	"/_build/inspiration.kit": {
-		"cB": 1,
-		"ft": 2048,
-		"hM": 1,
-		"oA": 0,
-		"oAP": "/inspiration.html",
-		"oF": 2
-		},
 	"/_build/mobile-audio-ui.kit": {
 		"cB": 1,
 		"ft": 2048,
@@ -239,6 +231,14 @@
 		"hM": 1,
 		"oA": 0,
 		"oAP": "/nbbj.html",
+		"oF": 2
+		},
+	"/_build/saiga.kit": {
+		"cB": 1,
+		"ft": 2048,
+		"hM": 1,
+		"oA": 0,
+		"oAP": "/saiga.html",
 		"oF": 2
 		},
 	"/_build/styles/custom.less": {
@@ -359,14 +359,6 @@
 		"hM": 0,
 		"oA": 0,
 		"oAP": "/ate.html",
-		"oF": 0
-		},
-	"/bunch-inspiration.mov": {
-		"cB": 0,
-		"ft": 8192,
-		"hM": 0,
-		"oA": 0,
-		"oAP": "/bunch-inspiration.mov",
 		"oF": 0
 		},
 	"/CNAME": {
@@ -1250,6 +1242,127 @@
 		"oT": 1,
 		"q": 100
 		},
+	"/images/mockups/finicky-1.png": {
+		"ft": 32768,
+		"iS": 190635,
+		"oA": 1,
+		"oAP": "/images/mockups/finicky-1.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"/images/mockups/finicky-2.png": {
+		"ft": 32768,
+		"iS": 181221,
+		"oA": 1,
+		"oAP": "/images/mockups/finicky-2.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"/images/saiga/flow.png": {
+		"ft": 32768,
+		"iS": 203630,
+		"oA": 1,
+		"oAP": "/images/saiga/flow.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"/images/saiga/hero-mockup.png": {
+		"ft": 32768,
+		"iS": 3442655,
+		"oA": 1,
+		"oAP": "/images/saiga/hero-mockup.png",
+		"oF": 0,
+		"oIPL": 1,
+		"opt": 1,
+		"oT": 1,
+		"q": 100
+		},
+	"/images/saiga/hifi-mockup-1.png": {
+		"ft": 32768,
+		"iS": 619584,
+		"oA": 1,
+		"oAP": "/images/saiga/hifi-mockup-1.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"/images/saiga/hifi-mockup-2.png": {
+		"ft": 32768,
+		"iS": 298953,
+		"oA": 1,
+		"oAP": "/images/saiga/hifi-mockup-2.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"/images/saiga/inspiration-1.png": {
+		"ft": 32768,
+		"iS": 189570,
+		"oA": 1,
+		"oAP": "/images/saiga/inspiration-1.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"/images/saiga/inspiration-2.png": {
+		"ft": 32768,
+		"iS": 1201801,
+		"oA": 1,
+		"oAP": "/images/saiga/inspiration-2.png",
+		"oF": 0,
+		"oIPL": 1,
+		"opt": 1,
+		"oT": 1,
+		"q": 100
+		},
+	"/images/saiga/inspiration-3.png": {
+		"ft": 32768,
+		"iS": 379781,
+		"oA": 1,
+		"oAP": "/images/saiga/inspiration-3.png",
+		"oF": 0,
+		"oIPL": 1,
+		"opt": 1,
+		"oT": 1,
+		"q": 100
+		},
+	"/images/saiga/mvp.png": {
+		"ft": 32768,
+		"iS": 1356190,
+		"oA": 1,
+		"oAP": "/images/saiga/mvp.png",
+		"oF": 0,
+		"oIPL": 1,
+		"opt": 1,
+		"oT": 1,
+		"q": 100
+		},
+	"/images/saiga/notes.png": {
+		"ft": 32768,
+		"iS": 24494858,
+		"oA": 1,
+		"oAP": "/images/saiga/notes.png",
+		"oF": 0,
+		"oIPL": 1,
+		"opt": 1,
+		"oT": 1,
+		"q": 100
+		},
 	"/images/swanson-health-products/forms-before.png": {
 		"ft": 32768,
 		"iS": 66007,
@@ -1412,6 +1525,14 @@
 		"hM": 0,
 		"oA": 0,
 		"oAP": "/resume.pdf",
+		"oF": 0
+		},
+	"/saiga.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/saiga.html",
 		"oF": 0
 		},
 	"/swanson-health-products.html": {
