@@ -1250,19 +1250,6 @@
 		"q": 100,
 		"rq": 75
 		},
-	"/images/index/nbbj.png": {
-		"ft": 32768,
-		"iS": 635170,
-		"oA": 1,
-		"oAP": "/images/index/nbbj.png",
-		"oF": 0,
-		"oIPL": 1,
-		"opt": 1,
-		"oT": 1,
-		"ou": "lpckwebp-none",
-		"q": 100,
-		"rq": 75
-		},
 	"/images/index/swanson-health-products.png": {
 		"ft": 32768,
 		"iS": 54372,
