@@ -185,14 +185,6 @@
       "oAP" : "\/swanson-health-products.html",
       "oF" : 2
     },
-    "\/_build\/the-drugulator.kit" : {
-      "cB" : 1,
-      "ft" : 2048,
-      "hM" : 1,
-      "oA" : 0,
-      "oAP" : "\/the-drugulator.html",
-      "oF" : 2
-    },
     "\/.gitignore" : {
       "cB" : 0,
       "ft" : 8192,
@@ -4848,97 +4840,6 @@
       "q" : 100,
       "rq" : 75
     },
-    "\/images\/the-drugulator\/4.png" : {
-      "ft" : 32768,
-      "iS" : 217417,
-      "oA" : 0,
-      "oAP" : "\/images\/the-drugulator\/4.png",
-      "oF" : 0,
-      "oIPL" : 1,
-      "opt" : 1,
-      "oT" : 1,
-      "ou" : "lpckwebp-none",
-      "q" : 100,
-      "rq" : 75
-    },
-    "\/images\/the-drugulator\/5.png" : {
-      "ft" : 32768,
-      "iS" : 945879,
-      "oA" : 1,
-      "oAP" : "\/images\/the-drugulator\/5.png",
-      "oF" : 0,
-      "oIPL" : 1,
-      "opt" : 1,
-      "oT" : 1,
-      "ou" : "lpckwebp-none",
-      "q" : 100,
-      "rq" : 75
-    },
-    "\/images\/the-drugulator\/6-combo.png" : {
-      "ft" : 32768,
-      "iS" : 686135,
-      "oA" : 1,
-      "oAP" : "\/images\/the-drugulator\/6-combo.png",
-      "oF" : 0,
-      "oIPL" : 1,
-      "opt" : 1,
-      "oT" : 1,
-      "ou" : "lpckwebp-none",
-      "q" : 100,
-      "rq" : 75
-    },
-    "\/images\/the-drugulator\/6.png" : {
-      "ft" : 32768,
-      "iS" : 1263662,
-      "oA" : 1,
-      "oAP" : "\/images\/the-drugulator\/6.png",
-      "oF" : 0,
-      "oIPL" : 1,
-      "opt" : 1,
-      "oT" : 1,
-      "ou" : "lpckwebp-none",
-      "q" : 100,
-      "rq" : 75
-    },
-    "\/images\/the-drugulator\/icon_1.png" : {
-      "ft" : 32768,
-      "iS" : 1159,
-      "oA" : 1,
-      "oAP" : "\/images\/the-drugulator\/icon_1.png",
-      "oF" : 0,
-      "oIPL" : 0,
-      "opt" : 0,
-      "oT" : 1,
-      "ou" : "lpckwebp-none",
-      "q" : 100,
-      "rq" : 75
-    },
-    "\/images\/the-drugulator\/icon_2.png" : {
-      "ft" : 32768,
-      "iS" : 503,
-      "oA" : 1,
-      "oAP" : "\/images\/the-drugulator\/icon_2.png",
-      "oF" : 0,
-      "oIPL" : 0,
-      "opt" : 0,
-      "oT" : 1,
-      "ou" : "lpckwebp-none",
-      "q" : 100,
-      "rq" : 75
-    },
-    "\/images\/the-drugulator\/icon_3.png" : {
-      "ft" : 32768,
-      "iS" : 937,
-      "oA" : 1,
-      "oAP" : "\/images\/the-drugulator\/icon_3.png",
-      "oF" : 0,
-      "oIPL" : 0,
-      "opt" : 0,
-      "oT" : 1,
-      "ou" : "lpckwebp-none",
-      "q" : 100,
-      "rq" : 75
-    },
     "\/index.html" : {
       "cB" : 0,
       "ft" : 8192,
@@ -5070,13 +4971,104 @@
       "oAP" : "\/swanson-health-products.html",
       "oF" : 0
     },
-    "\/the-drugulator.html" : {
+    "\/the-drugulator\/images\/4.png" : {
+      "ft" : 32768,
+      "iS" : 217417,
+      "oA" : 0,
+      "oAP" : "\/the-drugulator\/images\/4.png",
+      "oF" : 0,
+      "oIPL" : 1,
+      "opt" : 1,
+      "oT" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/the-drugulator\/images\/5.png" : {
+      "ft" : 32768,
+      "iS" : 945879,
+      "oA" : 1,
+      "oAP" : "\/the-drugulator\/images\/5.png",
+      "oF" : 0,
+      "oIPL" : 1,
+      "opt" : 1,
+      "oT" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/the-drugulator\/images\/6-combo.png" : {
+      "ft" : 32768,
+      "iS" : 686135,
+      "oA" : 1,
+      "oAP" : "\/the-drugulator\/images\/6-combo.png",
+      "oF" : 0,
+      "oIPL" : 1,
+      "opt" : 1,
+      "oT" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/the-drugulator\/images\/6.png" : {
+      "ft" : 32768,
+      "iS" : 1263662,
+      "oA" : 1,
+      "oAP" : "\/the-drugulator\/images\/6.png",
+      "oF" : 0,
+      "oIPL" : 1,
+      "opt" : 1,
+      "oT" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/the-drugulator\/images\/icon_1.png" : {
+      "ft" : 32768,
+      "iS" : 1159,
+      "oA" : 1,
+      "oAP" : "\/the-drugulator\/images\/icon_1.png",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "oT" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/the-drugulator\/images\/icon_2.png" : {
+      "ft" : 32768,
+      "iS" : 503,
+      "oA" : 1,
+      "oAP" : "\/the-drugulator\/images\/icon_2.png",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "oT" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/the-drugulator\/images\/icon_3.png" : {
+      "ft" : 32768,
+      "iS" : 937,
+      "oA" : 1,
+      "oAP" : "\/the-drugulator\/images\/icon_3.png",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "oT" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/the-drugulator\/index.html" : {
       "cB" : 0,
       "ft" : 8192,
       "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/the-drugulator.html",
-      "oF" : 0
+      "oA" : 1,
+      "oAP" : "\/the-drugulator\/index.html",
+      "oF" : 1
     }
   },
   "hooks" : [
