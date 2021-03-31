@@ -177,14 +177,6 @@
       "sI" : 0,
       "sU" : 0
     },
-    "\/_build\/swanson-health-products.kit" : {
-      "cB" : 1,
-      "ft" : 2048,
-      "hM" : 1,
-      "oA" : 0,
-      "oAP" : "\/swanson-health-products.html",
-      "oF" : 2
-    },
     "\/.gitignore" : {
       "cB" : 0,
       "ft" : 8192,
@@ -4775,71 +4767,6 @@
       "q" : 100,
       "rq" : 75
     },
-    "\/images\/swanson-health-products\/forms-before.png" : {
-      "ft" : 32768,
-      "iS" : 66007,
-      "oA" : 0,
-      "oAP" : "\/images\/swanson-health-products\/forms-before.png",
-      "oF" : 0,
-      "oIPL" : 1,
-      "opt" : 1,
-      "oT" : 1,
-      "ou" : "lpckwebp-none",
-      "q" : 100,
-      "rq" : 75
-    },
-    "\/images\/swanson-health-products\/header-concept.png" : {
-      "ft" : 32768,
-      "iS" : 449740,
-      "oA" : 0,
-      "oAP" : "\/images\/swanson-health-products\/header-concept.png",
-      "oF" : 0,
-      "oIPL" : 1,
-      "opt" : 1,
-      "oT" : 1,
-      "ou" : "lpckwebp-none",
-      "q" : 100,
-      "rq" : 75
-    },
-    "\/images\/swanson-health-products\/products_after.png" : {
-      "ft" : 32768,
-      "iS" : 94095,
-      "oA" : 0,
-      "oAP" : "\/images\/swanson-health-products\/products_after.png",
-      "oF" : 0,
-      "oIPL" : 1,
-      "opt" : 1,
-      "oT" : 1,
-      "ou" : "lpckwebp-none",
-      "q" : 100,
-      "rq" : 75
-    },
-    "\/images\/swanson-health-products\/products_before.png" : {
-      "ft" : 32768,
-      "iS" : 672929,
-      "oA" : 0,
-      "oAP" : "\/images\/swanson-health-products\/products_before.png",
-      "oF" : 0,
-      "oIPL" : 1,
-      "opt" : 1,
-      "oT" : 1,
-      "ou" : "lpckwebp-none",
-      "q" : 100,
-      "rq" : 75
-    },
-    "\/images\/swanson-health-products\/subscription.png" : {
-      "ft" : 32768,
-      "iS" : 1296729,
-      "oA" : 0,
-      "oAP" : "\/images\/swanson-health-products\/subscription.png",
-      "oF" : 0,
-      "oIPL" : 1,
-      "opt" : 1,
-      "oT" : 1,
-      "ou" : "lpckwebp-none",
-      "q" : 100,
-      "rq" : 75
-    },
     "\/index.html" : {
       "cB" : 0,
       "ft" : 8192,
@@ -4963,13 +4890,78 @@
       "oAP" : "\/saiga.html",
       "oF" : 0
     },
-    "\/swanson-health-products.html" : {
+    "\/swanson-health-products\/images\/forms-before.png" : {
+      "ft" : 32768,
+      "iS" : 66007,
+      "oA" : 0,
+      "oAP" : "\/swanson-health-products\/images\/forms-before.png",
+      "oF" : 0,
+      "oIPL" : 1,
+      "opt" : 1,
+      "oT" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/swanson-health-products\/images\/header-concept.png" : {
+      "ft" : 32768,
+      "iS" : 449740,
+      "oA" : 0,
+      "oAP" : "\/swanson-health-products\/images\/header-concept.png",
+      "oF" : 0,
+      "oIPL" : 1,
+      "opt" : 1,
+      "oT" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/swanson-health-products\/images\/products_after.png" : {
+      "ft" : 32768,
+      "iS" : 94095,
+      "oA" : 0,
+      "oAP" : "\/swanson-health-products\/images\/products_after.png",
+      "oF" : 0,
+      "oIPL" : 1,
+      "opt" : 1,
+      "oT" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/swanson-health-products\/images\/products_before.png" : {
+      "ft" : 32768,
+      "iS" : 672929,
+      "oA" : 0,
+      "oAP" : "\/swanson-health-products\/images\/products_before.png",
+      "oF" : 0,
+      "oIPL" : 1,
+      "opt" : 1,
+      "oT" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/swanson-health-products\/images\/subscription.png" : {
+      "ft" : 32768,
+      "iS" : 1296729,
+      "oA" : 0,
+      "oAP" : "\/swanson-health-products\/images\/subscription.png",
+      "oF" : 0,
+      "oIPL" : 1,
+      "opt" : 1,
+      "oT" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/swanson-health-products\/index.html" : {
       "cB" : 0,
       "ft" : 8192,
       "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/swanson-health-products.html",
-      "oF" : 0
+      "oA" : 1,
+      "oAP" : "\/swanson-health-products\/index.html",
+      "oF" : 1
     },
     "\/the-drugulator\/images\/4.png" : {
       "ft" : 32768,
