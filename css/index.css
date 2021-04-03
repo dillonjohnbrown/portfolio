@@ -1,212 +1,94 @@
-:root {
-  font-size: 15px;
+.u-align-left {
+	text-align: left;
+}
+.u-align-right {
+	text-align: right;
 }
 body {
-  margin: 0;
-  --color-text: #111;
-  --color-bg: #f9f9f9;
-  --color-link: #65757e;
-  --color-link-hover: #000;
-  color: var(--color-text);
-  background-color: var(--color-bg);
-  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+	background-color: #F2F4F8;
+	padding: 30px 0;
+	color: #222c40;
+}
+h1 {
+	color: #222c40;
+	padding-top: 6rem;
+	margin: 0;
 }
 a {
-  text-decoration: none;
-  color: var(--color-link);
-  outline: none;
+	color: #526a99;
+	text-decoration: underline;
+	text-decoration-color: #c0cadd;
 }
-a:hover,
-a:focus {
-  color: var(--color-link-hover);
-  outline: none;
+a:hover {
+	color: #99a8c8;
 }
-.frame {
-  padding: 3rem 5vw;
-  text-align: center;
-  position: relative;
-  z-index: 1000;
-  line-height: 1;
+.link__audio-ui:hover {
+	color: HSL(250, 100%, 90%);
 }
-.frame__title {
-  font-size: 1rem;
-  margin: 0 0 1rem;
-  font-weight: 900;
+.link__drugulator:hover {
+	color: HSL(218, 100%, 72%);
+	text-decoration-color: HSL(218, 100%, 72%);
 }
-.frame__links {
-  display: inline;
+.link__harvest:hover {
+	color: HSL(124, 30%, 80%);
+	text-decoration-color: HSL(124, 30%, 80%);
 }
-.frame__links a:not(:last-child),
-.frame__demos a:not(:last-child) {
-  margin-right: 1rem;
+.link__concepts:hover {
+	color: HSL(52, 100%, 82%);
+	text-decoration-color: HSL(52, 100%, 82%);
 }
-.frame__demos {
-  margin: 1rem 0;
+.link__art:hover {
+	color: HSL(329, 55%, 73%);
+	text-decoration-color: HSL(329, 55%, 73%);
 }
-.frame__demo--current,
-.frame__demo--current:hover {
-  color: var(--color-text);
-}
-.menu {
-  -webkit-user-select: none;
-     -moz-user-select: none;
-      -ms-user-select: none;
-          user-select: none;
-  padding: 10vh 0 10vh;
-  --item-font-size: 10vw;
-}
-.menu__item {
-  position: relative;
-  padding: 0 10vw 5vh 10vw;
-}
-.menu__item-link {
-  display: inline-block;
-  cursor: pointer;
-  position: relative;
-  transition: all 1s;
+.link__swanson:hover {
+	color: ;
+	text-decoration-color: ;
 }
 
-.menu__item-img {
-  pointer-events: none;
-  position: absolute;
-  width: 40vw;
-  max-width: 400px;
-  opacity: 0;
-  left: 100%;
-  top: 20%;
-  -webkit-transform: translate3d(calc(-100% - 6vw), -30%, 0) translate3d(0, 20px, 0);
-          transform: translate3d(calc(-100% - 6vw), -30%, 0) translate3d(0, 20px, 0);
-  border-radius: 4px;
-  z-index: 999;
+/* Hover effects for images */
+.image-link img {
+	transition: all 0.5s ease-in-out;
+	background-color: #c0cadd;
+	margin-top: 2rem;
 }
-.menu__item-link {
-  white-space: nowrap;
-  font-size: var(--item-font-size);
-  padding: 0 1vw;
-  font-weight: 900;
-  line-height: 1.15;
+
+a:hover + a .image__audio-ui,
+.image-link:hover .image__audio-ui {
+	background-color: HSL(250, 100%, 90%) ;
 }
-.menu__item-link:hover + .menu__item-img {
-  opacity: 1;
-  -webkit-transform: translate3d(calc(-100% - 6vw), -30%, 0) rotate3d(0, 0, 1, 4deg);
-          transform: translate3d(calc(-100% - 6vw), -30%, 0) rotate3d(0, 0, 1, 4deg);
-  transition: all 1s;
+a:hover + a .image__drugulator,
+.image-link:hover .image__drugulator {
+	background-color: HSL(218, 100%, 72%);
 }
-.menu__item-link.color__green:hover {
-  color: #61BB46;
+a:hover + a .image__harvest,
+.image-link:hover .image__harvest {
+	background-color: HSL(124, 30%, 80%);
 }
-.menu__item-link.color__yellow:hover {
-  color: #FDB827;
+a:hover + a .image__concepts,
+.image-link:hover .image__concepts {
+	background-color: HSL(52, 100%, 82%);
 }
-.menu__item-link.color__orange:hover {
-  color: #F5821F;
+a:hover + a .image__art,
+.image-link:hover .image__art {
+	background-color: HSL(329, 55%, 73%);
 }
-.menu__item-link.color__red:hover {
-  color: #E03A3E;
+
+/* Larger than phablet (also point when grid becomes active) */
+@media (min-width: 550px) {
+	.sticky {
+		position: sticky;
+		top: 30px;
+	}
 }
-.menu__item-link.color__violet:hover {
-  color: #963D97;
-}
-.menu__item-link.color__blue:hover {
-  color: #009DDC;
-}
-footer {
-  background: linear-gradient(-45deg, #ee7752, #e73c7e, #23a6d5, #23d5ab);
-  background-size: 400% 400%;
-  -webkit-animation: gradient 20s ease infinite;
-          animation: gradient 20s ease infinite;
-  padding-bottom: 7rem;
-  overflow: hidden;
-}
-footer a {
-  color: white;
-  transition: all 1s;
-}
-footer h2 {
-  color: white;
-  opacity: 0.6;
-  text-transform: uppercase;
-  padding-top: 3rem;
-}
-footer svg {
-  -webkit-transform: scale(1.01);
-          transform: scale(1.01);
-  padding-bottom: 4rem;
-}
-footer .frame__links {
-  line-height: 1.4;
-}
-@-webkit-keyframes gradient {
-  0% {
-    background-position: 0% 50%;
-  }
-  50% {
-    background-position: 100% 50%;
-  }
-  100% {
-    background-position: 0% 50%;
-  }
-}
-@keyframes gradient {
-  0% {
-    background-position: 0% 50%;
-  }
-  50% {
-    background-position: 100% 50%;
-  }
-  100% {
-    background-position: 0% 50%;
-  }
-}
-@media screen and (min-width: 53em) {
-  .menu__item {
-    padding: 0 20vw 2vw 50vw;
-  }
-  .menu {
-    --item-font-size: 4vw;
-    padding: 10vh 0 20vh;
-  }
-  .menu__item-img {
-    pointer-events: none;
-    position: absolute;
-    width: 35vw;
-    max-width: 35vw;
-    opacity: 0;
-    left: 50%;
-    top: 50%;
-    transition: all 0.5s ease;
-    -webkit-transform: translate3d(calc(-100% - 6vw), -30%, 0) translate3d(0, 20px, 0);
-            transform: translate3d(calc(-100% - 6vw), -30%, 0) translate3d(0, 20px, 0);
-    border-radius: 4px;
-    z-index: 999;
-  }
-  .frame {
-    text-align: left;
-    display: grid;
-    -webkit-align-content: space-between;
-            align-content: space-between;
-    padding: 4.5rem 10vw;
-    pointer-events: none;
-    grid-template-columns: 50% 50%;
-    grid-template-rows: auto;
-  }
-  .frame__title-wrap {
-    display: -webkit-flex;
-    display: flex;
-    -webkit-align-items: start;
-            align-items: start;
-  }
-  .frame__info {
-    margin: 0;
-  }
-  .frame__title {
-    margin: 0 1rem 0 0;
-  }
-  .frame__links {
-    padding: 0;
-    justify-self: end;
-  }
-  .frame a {
-    pointer-events: auto;
-  }
+@media print {
+	body {
+		background-color: white;
+	}
+	h1,
+	p,
+	ul,
+	li {
+		color: black;
+	}
 }
