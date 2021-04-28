@@ -42,8 +42,8 @@ a:hover {
 	text-decoration-color: HSL(329, 55%, 73%);
 }
 .link__swanson:hover {
-	color: ;
-	text-decoration-color: ;
+	color: HSL(130, 72%, 77%);
+	text-decoration-color: HSL(130, 72%, 77%);
 }
 
 /* Hover effects for images */
@@ -72,6 +72,10 @@ a:hover + a .image__concepts,
 a:hover + a .image__art,
 .image-link:hover .image__art {
 	background-color: HSL(329, 55%, 73%);
+}
+a:hover + a .image__swanson,
+.image-link:hover .image__swanson {
+	background-color: HSL(130, 72%, 77%);
 }
 
 /* Larger than phablet (also point when grid becomes active) */
