@@ -25,22 +25,28 @@
 			</div>
 		</header>
 
-		<div class="grid-container">
-			<div>
-				<a href="images/2021-06/full-size/max-1.jpg">
-					<img class="u-max-full-width" src="images/2021-06/lg/max-1.jpg">
+		<div id="photos" class="grid-container halves">
+			<!-- <div>
+				<a href="images/2021-03/full-size/full-1.png">
+					<img class="u-max-full-width" src="images/2021-03/lg/lg-1.png">
 				</a>
-			</div>
-			<div>
-				<a href="images/2021-06/full-size/max-2.jpg">
-					<img class="u-max-full-width" src="images/2021-06/lg/max-2.jpg">
-				</a>
-			</div>
-			<div>
-				<a href="images/2021-06/full-size/max-3.jpg">
-					<img class="u-max-full-width" src="images/2021-06/lg/max-3.jpg">
-				</a>
-			</div>
+			</div> -->
 		</div>
+
+		<script>
+		var photos = document.getElementById("photos");
+		
+		for(var i=2; i < 19; i++) {
+			var newImg = document.createElement('img');
+			    newImg.className = "u-max-full-width";
+				newImg.src = "images/2021-06/full-size/2021-06_" + i + ".jpg";
+			
+			var newAnchor = document.createElement('a');
+		        newAnchor.href = "images/2021-06/full-size/2021-06_" + i + ".jpg";
+			
+			newAnchor.appendChild(newImg);
+			photos.appendChild(newAnchor);
+		}
+	</script>
 	</body>
 </html>
