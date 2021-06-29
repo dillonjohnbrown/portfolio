@@ -10,12 +10,16 @@ p {
 	margin-top: 4rem;
 	margin-bottom: 0;
 }
+
+/* Images */
 a img {
 	transition: all 0.5s ease-out;
 }
 a:hover img {
 	opacity: 0.75;
 }
+
+/* Index list */
 ul {
 	list-style: none;
 	text-align: left;
