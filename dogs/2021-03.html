@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<meta charset="utf-8">
+		<title>Dogs, March 2021</title>
+		<meta name="description" content="">
+		<meta name="author" content="">
+		<meta name="viewport" content="width=device-width,initial-scale=1">
+		
+		<link rel="stylesheet" href="/css/normalize.css">
+		<link rel="stylesheet" href="barebones.css">
+		<link rel="stylesheet" href="style.css">
+		
+		<link rel="icon" type="image/png" href="/images/favicon.png">
+	</head>
+	<body class="container">
+		<header class="grid-container">
+			<div>
+				<h1 id="dogs">Dogs</h1>
+			</div>
+		</header>
+
+		<div class="grid-container">
+			<h4>March 2021</h4>
+		</div>
+		<div id="photos" class="grid-container halves">
+			<!-- <div>
+				<a href="images/full-size/full-1.png">
+					<img class="u-max-full-width" src="images/lg/lg-1.png">
+				</a>
+			</div> -->
+		</div>
+	</body>
+	
+	<script>
+		var photos = document.getElementById("photos");
+		
+		for(var i=1; i < 134; i++) {
+			var newImg = document.createElement('img');
+			    newImg.className = "u-max-full-width";
+				newImg.src = "images/lg/lg-" + i + ".png";
+			
+			var newAnchor = document.createElement('a');
+		        newAnchor.href = "images/full-size/full-" + i + ".png";
+			
+			newAnchor.appendChild(newImg);
+			photos.appendChild(newAnchor);
+		}
+	</script>
+</html>
