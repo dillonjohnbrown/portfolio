@@ -1,0 +1,22 @@
+body {
+	background: white;
+}
+h1,
+h4,
+p {
+	text-align: left;
+}
+p {
+	margin-top: 4rem;
+	margin-bottom: 0;
+}
+a img {
+	transition: all 0.5s ease-out;
+}
+a:hover img {
+	opacity: 0.75;
+}
+ul {
+	list-style: none;
+	text-align: left;
+}
