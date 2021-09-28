@@ -96,7 +96,6 @@ h6 {
 p a {
   -webkit-text-decoration-color: hsla(19, 97%, 56%, 0.8);
           text-decoration-color: hsla(19, 97%, 56%, 0.8);
-  color: inherit;
   transition: all 0.75s ease;
 }
 p a.on-dark {
