@@ -104,6 +104,9 @@
 				$("#closeWindow4").click(function() {
 					$("#window4").hide();
 				});
+				$("#closeWindow3").click(function() {
+					$("#window3").hide();
+				});
 			
 				// Icons
 				$("#button6").click(function() {
@@ -128,6 +131,14 @@
 					
 					$([document.documentElement, document.body]).animate({
 						scrollTop: $("#window4").offset().top
+					}, 2000);
+				});
+				$("#button3").click(function() {
+					$("#button3, #button4, #button5, #button6").removeClass("active");
+					$(this).addClass("active");
+					
+					$([document.documentElement, document.body]).animate({
+						scrollTop: $("#window3").offset().top
 					}, 2000);
 				});
 			} );
@@ -190,20 +201,26 @@
 			-->
 			<div class="two columns">
 				<div class="icon" id="button6">
-					<img src="images/icon_2.png">
+					<img src="images/icon_6.png">
 					<p>Version 6.0</p>
 				</div>
 			</div>
 			<div class="two columns">
 				<div class="icon" id="button5">
-					<img src="images/icon_1.png">
+					<img src="images/icon_5.png">
 					<p>Version 5.0</p>
 				</div>
 			</div>
 			<div class="two columns">
 				<div class="icon" id="button4">
-					<img src="images/icon_3.png">
+					<img src="images/icon_4.png">
 					<p>Version 4.0</p>
+				</div>
+			</div>
+			<div class="two columns">
+				<div class="icon" id="button3">
+					<img src="images/icon_3.png">
+					<p>Version 3.0</p>
 				</div>
 			</div>
 		</div>
@@ -284,11 +301,36 @@
 						<div class="row">
 							<div class="three columns">
 								<h1>4.0</h1>
-								<p>Users were unsure how to interact with this version, sentencing this design to the cutting room floor.</p>
+								<p>Users (my friends) were unsure how to interact with this version, sentencing this design to the cutting room floor.</p>
 								<p>When building this design I wanted to challenge myself by using only black and white. Left to my own devices, I went a little too far and usability suffered.</p>
 							</div>
 							<div class="nine columns">
 								<img class="u-max-full-width" src="images/4.png">
+							</div>
+						</div>
+					</div>
+				</div>
+				
+				<!--
+					3.0
+				-->
+				<div class="window draggable" id="window3">
+					<div class="title-bar">
+						<div class="title-bar-text">Out of Reach</div>
+						<div class="title-bar-controls">
+							<button aria-label="Close" id="closeWindow3"></button>
+						</div>
+					</div>
+					<div class="window-body">
+						<div class="row">
+							<div class="three columns">
+								<h1>3.0</h1>
+								<p>Let's be honest: this one is rough.</p>
+								<p>The buttons are at the top and are hard to reach with one hand.</p>
+								<p>Horizontal scrolling was so cool back then, I swear!</p>
+							</div>
+							<div class="nine columns">
+								<img class="u-max-full-width" src="images/3.png">
 							</div>
 						</div>
 					</div>
