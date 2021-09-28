@@ -14,43 +14,17 @@
 		
 		<!-- Safari chrome color
 		–––––––––––––––––––––––––––––––––––––––––––––––––– -->
-		<meta name="theme-color" content="#ffffff">
+		<meta name="theme-color" content="rgb(240, 240, 240)">
 
 		<!-- CSS
 		–––––––––––––––––––––––––––––––––––––––––––––––––– -->
 		<link rel="stylesheet" href="/css/normalize.css">
 		<link rel="stylesheet" href="/css/skeleton.css">
 		<link rel="stylesheet" href="/css/main.css">
-		<link rel="stylesheet" href="98.css">
 		
 		<style>
-			.icon {
-				text-align: center;
-				color: white;
-				cursor: pointer;
-				margin: 12px;
-				border: 1px dotted transparent;
-			}
-			.icon.active {
-				border: 1px dotted black;
-			}
-			.icon p {
-				margin: 0;
-			}
 			p {
-				font-size: 1.25rem;
-			}
-			.window-body img {
-				background: white;
-				padding: 10px;
-				box-shadow:
-					inset -1px -1px #fff,
-					inset 1px 1px #0a0a0a,
-					inset -2px -2px grey,
-					inset 2px 2px #dfdfdf;
-			}
-			.window {
-				margin-bottom: 4rem;
+				font-size: 1.55rem;
 			}
 			a {
 				color: #00f !important;
@@ -58,91 +32,32 @@
 			}
 			header {
 				margin-bottom: 0;
-				background-color: white;
+				background-color: rgb(240, 240, 240);
 				padding: 3rem 0;
 			}
 			nav {
 				width: 100%;
 			}
 			.turkey {
-				background-color: white;
+				background-color: rgb(240, 240, 240);
 				margin-bottom: 5rem;
-			}
-			button {
-				max-height: 15px !important;
 			}
 			@media (min-width: 550px) {
 				header {
 					padding: 6.5rem 10vw;
 				}
 			}
+			main h1 {
+				color: red;
+				font-size: 1.7rem;
+				margin-top: 8rem;
+				margin-bottom: 0;
+			}
 		</style>
 
 		<!-- Favicon
 		–––––––––––––––––––––––––––––––––––––––––––––––––– -->
 		<link rel="icon" type="image/png" href="/images/favicon.png">
-		
-		<!-- JavaScript
-		–––––––––––––––––––––––––––––––––––––––––––––––––– -->
-	    <script src="https://code.jquery.com/jquery-1.12.4.js"></script>
-		<script src="https://code.jquery.com/ui/1.12.1/jquery-ui.js"></script>
-	    <script>
-			$( function() {
-				// Make windows draggable
-				$(".draggable").draggable({
-					handle: ".title-bar",
-					stack: "main .draggable"
-				});
-			
-				// Make close buttons work
-				$("#closeWindow6").click(function() {
-					$("#window6").hide();
-				});
-				$("#closeWindow5").click(function() {
-					$("#window5").hide();
-				});
-				$("#closeWindow4").click(function() {
-					$("#window4").hide();
-				});
-				$("#closeWindow3").click(function() {
-					$("#window3").hide();
-				});
-			
-				// Icons
-				$("#button6").click(function() {
-					$("#button4, #button5, #button6").removeClass("active");
-					$(this).addClass("active");
-					
-					$([document.documentElement, document.body]).animate({
-						scrollTop: $("#window6").offset().top
-					}, 2000);
-				});
-				$("#button5").click(function() {
-					$("#button4, #button5, #button6").removeClass("active");
-					$(this).addClass("active");
-					
-					$([document.documentElement, document.body]).animate({
-						scrollTop: $("#window5").offset().top
-					}, 2000);
-				});
-				$("#button4").click(function() {
-					$("#button4, #button5, #button6").removeClass("active");
-					$(this).addClass("active");
-					
-					$([document.documentElement, document.body]).animate({
-						scrollTop: $("#window4").offset().top
-					}, 2000);
-				});
-				$("#button3").click(function() {
-					$("#button3, #button4, #button5, #button6").removeClass("active");
-					$(this).addClass("active");
-					
-					$([document.documentElement, document.body]).animate({
-						scrollTop: $("#window3").offset().top
-					}, 2000);
-				});
-			} );
-		</script>
 	</head>
 <body>
 	<header>
@@ -152,6 +67,9 @@
 			<a href="resume.pdf">Résumé</a>
 		</nav>
 	</header>
+	<!--
+		INTRO
+	-->
 	<div class="row turkey">
 		<section>
 			<div class="row">
@@ -161,8 +79,8 @@
 			</div>
 			<div class="row">
 				<div class="six offset-by-six columns">
-					<p style="font-size: 1.7rem;">I found <a href="http://wiki.tripsit.me/wiki/Drug_combinations">this great chart</a> showing how (relatively) safe combinations of drugs can be. I knew I could use my web development know-how to improve it, so I made it into a web app.</p>
-					<p style="font-size: 1.7rem;">My web app is a pet project of mine and is constantly evolving. I do a rudimentary form of user testing on my friends whenever I make improvements. I also put the source code on GitHub for anyone to use in any way they want. This is for harm reduction and education, not profit.</p>
+					<p>I found <a href="http://wiki.tripsit.me/wiki/Drug_combinations">this great chart</a> showing how (relatively) safe combinations of drugs can be. I knew I could use my web development know-how to improve it, so I made it into a web app.</p>
+					<p>My web app is a pet project of mine and is constantly evolving. I do a rudimentary form of user testing on my friends whenever I make improvements. I also put the source code on GitHub for anyone to use in any way they want. This is for harm reduction and education, not profit.</p>
 				</div>
 			</div>
 			<div class="row" style="font-size: 1.25rem; padding: 10rem 0;">
@@ -193,146 +111,100 @@
 		</div>
 		</section>
 	</div>
-	<main>
-		<div class="row">
-			
-			<!--
-				Icons
-			-->
-			<div class="two columns">
-				<div class="icon" id="button6">
-					<img src="images/icon_6.png">
-					<p>Version 6.0</p>
-				</div>
-			</div>
-			<div class="two columns">
-				<div class="icon" id="button5">
-					<img src="images/icon_5.png">
-					<p>Version 5.0</p>
-				</div>
-			</div>
-			<div class="two columns">
-				<div class="icon" id="button4">
-					<img src="images/icon_4.png">
-					<p>Version 4.0</p>
-				</div>
-			</div>
-			<div class="two columns">
-				<div class="icon" id="button3">
-					<img src="images/icon_3.png">
-					<p>Version 3.0</p>
-				</div>
-			</div>
-		</div>
 	
+	<!--
+		MAIN
+	-->
+	<main>
 		<div class="row">
 			<div class="twelve columns">
 				<!--
 					6.0
 				-->
-				<div class="window draggable" id="window6">
-					<div class="title-bar">
-						<div class="title-bar-text">Modern refinement</div>
-						<div class="title-bar-controls">
-							<button aria-label="Close" id="closeWindow6"></button>
-						</div>
+				<div class="row">
+					<div class="twelve columns">
+						<h1>Version 6.0</h1>
+						<h2>Modern refinement</h2>
 					</div>
-					<div class="window-body">
-						<div class="row">
-							<div class="three columns">
-								<h1>6.0</h1>
-								<p>This revision was built mobile-first, with a focus on simplicity.</p>
-							</div>
-							<div class="nine columns">
-								<a href="https://dillonjohnbrown.github.io/the-drugulator">
-									<img class="u-max-full-width" src="images/6.png">
-								</a>
-							</div>
-						</div>
-						<div class="row">
-							<div class="three columns">
-								<p>I am extremely proud of this incarnation. I learned from the misteps of past versions and created a balanced, refined, and beautiful tool.</p>
-								<p>I encourage you to <a href="https://dillonjohnbrown.github.io/the-drugulator">take it for a test drive</a>.</p>
-							</div>
-							<div class="nine columns">
-								<a href="https://dillonjohnbrown.github.io/the-drugulator">
-									<img class="u-max-full-width" src="images/6-combo.png">
-								</a>
-							</div>
-						</div>
+				</div>
+				<div class="row">
+					<div class="four columns">
+						<p>This revision was built mobile-first, with a focus on simplicity.</p>
+					</div>
+					<div class="eight columns">
+						<a href="https://dillonjohnbrown.github.io/the-drugulator">
+							<img class="u-max-full-width" src="images/6.png">
+						</a>
+					</div>
+				</div>
+				
+				<div class="row">
+					<div class="four columns">
+						<p>I am extremely proud of this incarnation. I learned from the misteps of past versions and created a balanced, refined, and beautiful tool.</p>
+						<p>I encourage you to <a href="https://dillonjohnbrown.github.io/the-drugulator">take it for a test drive</a>.</p>
+					</div>
+					<div class="eight columns">
+						<a href="https://dillonjohnbrown.github.io/the-drugulator">
+							<img class="u-max-full-width" src="images/6-combo.png">
+						</a>
 					</div>
 				</div>
 				
 				<!--
 					5.0
 				-->
-				<div class="window draggable" id="window5">
-					<div class="title-bar">
-						<div class="title-bar-text">Better, faster, smarter</div>
-						<div class="title-bar-controls">
-							<button aria-label="Close" id="closeWindow5"></button>
-						</div>
+				<div class="row">
+					<div class="twelve columns">
+						<h1>Version 5.0</h1>
+						<h2>Better, faster, smarter</h2>
 					</div>
-					<div class="window-body">
-						<div class="row">
-							<div class="three columns">
-								<h1>5.0</h1>
-								<p>In this revision I rebuilt the site from the ground up.</p>
-								<p>The largest change was under the hood. I replaced <a href="https://github.com/dillonjohnbrown/the-drugulator/blob/46af5e746aa139445e8d79969b07f9b638790612/js/main.js#L1">a fragile, hand-coded 2D JavaScript array</a>, with a <a href="https://github.com/TripSit/comboapp/blob/master/app/src/data/combo_beta.json">JSON file maintained by TripSit</a>.</p>
-							</div>
-							<div class="nine columns">
-								<img class="u-max-full-width" src="images/5.png">
-							</div>
-						</div>
+				</div>
+				<div class="row">
+					<div class="four columns">
+						<p>In this revision I rebuilt the site from the ground up.</p>
+						<p>The largest change was under the hood. I replaced <a href="https://github.com/dillonjohnbrown/the-drugulator/blob/46af5e746aa139445e8d79969b07f9b638790612/js/main.js#L1">a fragile, hand-coded 2D JavaScript array</a>, with a <a href="https://github.com/TripSit/comboapp/blob/master/app/src/data/combo_beta.json">JSON file maintained by TripSit</a>.</p>
+					</div>
+					<div class="eight columns">
+						<img class="u-max-full-width" src="images/5.png">
 					</div>
 				</div>
 				
 				<!--
 					4.0
 				-->
-				<div class="window draggable" id="window4">
-					<div class="title-bar">
-						<div class="title-bar-text">For designers, by designers, for no one</div>
-						<div class="title-bar-controls">
-							<button aria-label="Close" id="closeWindow4"></button>
-						</div>
+				<div class="row">
+					<div class="eight columns">
+						<h1>Version 4.0</h1>
+						<h2>For designers, by designers, for no one</h2>
 					</div>
-					<div class="window-body">
-						<div class="row">
-							<div class="three columns">
-								<h1>4.0</h1>
-								<p>Users (my friends) were unsure how to interact with this version, sentencing this design to the cutting room floor.</p>
-								<p>When building this design I wanted to challenge myself by using only black and white. Left to my own devices, I went a little too far and usability suffered.</p>
-							</div>
-							<div class="nine columns">
-								<img class="u-max-full-width" src="images/4.png">
-							</div>
-						</div>
+				</div>
+				<div class="row">
+					<div class="four columns">
+						<p>Users (my friends) were unsure how to interact with this version, sentencing this design to the cutting room floor.</p>
+						<p>When building this design I wanted to challenge myself by using only black and white. Left to my own devices, I went a little too far and usability suffered.</p>
+					</div>
+					<div class="eight columns">
+						<img class="u-max-full-width" src="images/4.png">
 					</div>
 				</div>
 				
 				<!--
 					3.0
 				-->
-				<div class="window draggable" id="window3">
-					<div class="title-bar">
-						<div class="title-bar-text">Out of Reach</div>
-						<div class="title-bar-controls">
-							<button aria-label="Close" id="closeWindow3"></button>
-						</div>
+				<div class="row">
+					<div class="twelve columns">
+						<h1>Version 3.0</h1>
+						<h2>Out of Reach</h2>
 					</div>
-					<div class="window-body">
-						<div class="row">
-							<div class="three columns">
-								<h1>3.0</h1>
-								<p>Let's be honest: this one is rough.</p>
-								<p>The buttons are at the top and are hard to reach with one hand.</p>
-								<p>Horizontal scrolling was so cool back then, I swear!</p>
-							</div>
-							<div class="nine columns">
-								<img class="u-max-full-width" src="images/3.png">
-							</div>
-						</div>
+				</div>
+				<div class="row">
+					<div class="four columns">
+						<p>Let's be honest: this one is rough.</p>
+						<p>The buttons are at the top and are hard to reach with one hand.</p>
+						<p>Horizontal scrolling was so cool back then, I swear!</p>
+					</div>
+					<div class="eight columns">
+						<img class="u-max-full-width" src="images/3.png">
 					</div>
 				</div>
 			</div>
