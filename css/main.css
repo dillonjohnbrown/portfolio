@@ -29,6 +29,8 @@ header nav {
   display: flex;
   -webkit-justify-content: space-between;
           justify-content: space-between;
+  border-bottom: 1px solid black;
+  padding-bottom: 4rem;
 }
 header nav a:first-of-type {
   -webkit-flex-grow: 2;
