@@ -12,15 +12,28 @@ p {
 }
 
 /* Images */
+a,
 a img {
 	transition: all 0.5s ease-out;
 }
 a:hover img {
 	opacity: 0.75;
 }
-
-/* Index list */
-ul {
-	list-style: none;
-	text-align: left;
+a {
+	color: black;
+	text-decoration-color: lightblue;
+	text-decoration-line: underline;
+	text-decoration-thickness: 2px;
+}
+.home-image {
+	border-radius: 29px;
+}
+.new {
+	color: red;
+	text-decoration-color: white;
+	text-decoration-line: underline;
+	text-decoration-thickness: 2px;
+	padding-left: 10px;
+	font-weight: bold;
+	color: red;
 }
