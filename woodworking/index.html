@@ -1,0 +1,207 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<!-- Basic Page Needs
+	–––––––––––––––––––––––––––––––––––––––––––––––––– -->
+	<meta charset="utf-8">
+	<title>Dillon Brown / Portfolio</title>
+	<meta name="description" content="">
+	<meta name="author" content="">
+
+	<!-- Mobile Specific Metas
+	–––––––––––––––––––––––––––––––––––––––––––––––––– -->
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+
+	<!-- CSS
+	–––––––––––––––––––––––––––––––––––––––––––––––––– -->
+	<link rel="stylesheet" href="/css/normalize.css">
+	<link rel="stylesheet" href="/css/skeleton.css">
+	<style type="text/css">
+		@font-face {
+		  font-family: 'Mona Sans';
+		  src:
+		    url('/Mona-Sans.woff2') format('woff2 supports variations'),
+		    url('/Mona-Sans.woff2') format('woff2-variations');
+		}
+		.u-align-left {
+			text-align: left;
+		}
+		.u-align-right {
+			text-align: right;
+		}
+		body {
+			background-color: #F2F4F8;
+			padding: 30px 0;
+			color: #222c40;
+		}
+		h2 {
+			padding-top: 5rem;
+			margin: 0;
+		}
+		a {
+			color: #526a99;
+			text-decoration: underline;
+			text-decoration-color: #c0cadd;
+		}
+		a:hover {
+			color: #99a8c8;
+		}
+		.link__audio-ui:hover {
+			color: HSL(250, 100%, 90%);
+		}
+		.link__drugulator:hover {
+			color: HSL(218, 100%, 72%);
+			text-decoration-color: HSL(218, 100%, 72%);
+		}
+		.link__harvest:hover {
+			color: HSL(124, 30%, 80%);
+			text-decoration-color: HSL(124, 30%, 80%);
+		}
+		.link__concepts:hover {
+			color: HSL(52, 100%, 82%);
+			text-decoration-color: HSL(52, 100%, 82%);
+		}
+		.link__art:hover {
+			color: HSL(329, 55%, 73%);
+			text-decoration-color: HSL(329, 55%, 73%);
+		}
+		.link__swanson:hover {
+			color: HSL(130, 72%, 77%);
+			text-decoration-color: HSL(130, 72%, 77%);
+		}
+
+		/* Hover effects for images */
+		.image-link img {
+			transition: all 0.5s ease-in-out;
+			background-color: #c0cadd;
+			margin-top: 2rem;
+		}
+
+		a:hover + a .image__audio-ui,
+		.image-link:hover .image__audio-ui {
+			background-color: HSL(250, 100%, 90%) ;
+		}
+		a:hover + a .image__drugulator,
+		.image-link:hover .image__drugulator {
+			background-color: HSL(218, 100%, 72%);
+		}
+		a:hover + a .image__harvest,
+		.image-link:hover .image__harvest {
+			background-color: HSL(124, 30%, 80%);
+		}
+		a:hover + a .image__concepts,
+		.image-link:hover .image__concepts {
+			background-color: HSL(52, 100%, 82%);
+		}
+		a:hover + a .image__art,
+		.image-link:hover .image__art {
+			background-color: HSL(329, 55%, 73%);
+		}
+		a:hover + a .image__swanson,
+		.image-link:hover .image__swanson {
+			background-color: HSL(130, 72%, 77%);
+		}
+
+		/* Grid active */
+		@media (min-width: 550px) {
+			.sticky {
+				position: sticky;
+				top: 30px;
+			}
+		}
+		/* Grid inactive */
+		@media (max-width: 550px) {
+			header {
+				border-bottom: solid 0.5px #c0cadd;
+				margin-bottom: 4rem;
+				text-align: center;
+			}
+			header ul {
+				display: flex;
+				justify-content: space-around;
+				margin-bottom: 1.5rem;
+				font-weight: 700;
+			}
+		}
+		@media print {
+			body {
+				background-color: white;
+			}
+			h1,
+			p,
+			ul,
+			li {
+				color: black;
+			}
+		}
+		.wood-list li {
+			list-style: revert;
+			margin-bottom: revert;
+		}
+		.wood-h6 {
+			margin-bottom: 0.75rem;
+		}
+	</style>
+
+	<link rel="preload" href="/Mona-Sans.woff2" as="font" type="font/woff2" crossorigin>
+
+	<!-- Favicon
+	–––––––––––––––––––––––––––––––––––––––––––––––––– -->
+	<link rel="icon" type="image/png" href="/images/favicon.png">
+</head>
+<body>
+	<main class="container">
+		<div class="row">
+			<!-- Left column -->
+			<header class="three columns sticky">
+				<h5>Dillon Brown</h5>
+				<ul>
+					<li>
+						<a href="/index.html">Portfolio</a>
+					</li>
+					<li>
+						<a href="/resume.pdf">Résumé</a>
+					</li>
+					<li>
+						<a href="https://github.com/dillonjohnbrown">GitHub</a>
+					</li>
+					<li>
+						<a href="mailto:hello@dillonbrown.me">Email</a>
+					</li>
+				</ul>
+			</header>
+
+			<!-- Right column -->
+			<div class="nine columns">
+
+				<!-- Audio UI -->
+				<div class="row">
+					<div class="eight columns">
+						<p>I resurfaced the original hardwood doors from a nearly 100 year old home. Armed with little more than my will &mdash;and no real woodworking education&mdash; I took something ugly and transformed it into something beautiful.</p>
+						<h6 class="wood-h6">Tools used</h6>
+						<ul class="wood-list">
+							<li>Paint scraper</li>
+							<li>Loose sandpaper</li>
+							<li>Random orbital sander</li>
+							<li>Handheld belt sander</li>
+							<li>Electric drill and wire brush</li>
+						</ul>
+					</div>
+					<div class="twelve columns">
+						
+						<a href="before-full-size.png" class="image-link">
+							<img src="before-small.png" class="u-max-full-width image__audio-ui" aria-label="Mockup of a music app on a touch-screen phone">
+						</a>
+						<p>Before</p>
+						<a href="after-full-size.png" class="image-link">
+							<img src="after-small.png" class="u-max-full-width image__audio-ui" aria-label="Mockup of a music app on a touch-screen phone">
+						</a>
+						<p>After</p>
+					</div>
+				</div>
+
+			</div>
+		</div>
+	</main>
+</body>
+</html>
