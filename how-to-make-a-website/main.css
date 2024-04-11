@@ -1,0 +1,46 @@
+body {
+	color: #000000;
+	line-height: 1.45;
+}
+a {
+	text-decoration-thickness: 2px;
+	text-decoration: underline;
+	text-decoration-color: purple;
+}
+h1 {
+	font-weight: 600;
+	margin-top: 3rem;
+}
+h3 {
+	margin-top: 3rem;
+	font-weight: 500;
+	opacity: 60%;
+}
+h4 {
+	font-weight: 300;
+}
+code {
+	white-space: collapse;
+}
+.greenish {
+	background: #f9f9ef;
+}
+.bluish {
+	background: #eff9f9;
+}
+.pinkish {
+	background: #f9eff9;
+}
+.greenish h3 {
+	color: HSL(60, 45%, 50%);
+}
+.bluish h3 {
+	color: HSL(180, 45%, 50%);
+}
+.pinkish h3 {
+	color: HSL(300, 45%, 50%);
+}
+
+main {
+	border-radius: 10px;
+}
