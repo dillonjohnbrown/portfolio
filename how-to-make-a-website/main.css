@@ -14,7 +14,6 @@ h1 {
 h3 {
 	margin-top: 3rem;
 	font-weight: 500;
-	opacity: 60%;
 }
 h4 {
 	font-weight: 300;
@@ -22,17 +21,21 @@ h4 {
 code {
 	white-space: collapse;
 }
-.greenish {
-	background: #f9f9ef;
+
+.orangeish {
+	background: HSL(30, 75%, 96%);
+	border: 1px solid HSL(30, 75%, 80%);
 }
 .bluish {
-	background: #eff9f9;
+	background: HSL(180, 45%, 96%);
+	border: 1px solid HSL(180, 45%, 80%);
 }
 .pinkish {
-	background: #f9eff9;
+	background: HSL(300, 45%, 96%);
+	border: 1px solid HSL(300, 45%, 80%);
 }
-.greenish h3 {
-	color: HSL(60, 45%, 50%);
+.orangeish h3 {
+	color: HSL(30, 75%, 50%);
 }
 .bluish h3 {
 	color: HSL(180, 45%, 50%);
@@ -43,4 +46,5 @@ code {
 
 main {
 	border-radius: 10px;
+	margin-bottom: 4rem;
 }
