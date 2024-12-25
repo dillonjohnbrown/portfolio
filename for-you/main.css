@@ -13,7 +13,7 @@ h2 {
 	background-color: #bbd5ea;
 	border-color: #a6cada;
 }
-.wwword:before {
+.convo-word:before {
 	display: inline-block;
 	min-width: 3rem;
 }
